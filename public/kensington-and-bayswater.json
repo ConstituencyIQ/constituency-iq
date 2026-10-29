@@ -1,0 +1,16 @@
+{
+    "name": "Kensington and Bayswater",
+    "region": "London",
+    "onsCode": "E14000732",
+    "electorate": 64200,
+    "metrics": {
+        "medianEarnings": "\u00a3880.00",
+        "earningsVariance": "+29.6% vs UK",
+        "housePrice": "\u00a31250000",
+        "housePriceVariance": "+338.0% vs UK",
+        "claimantRate": "2.8%",
+        "claimantVariance": "-1.3 pp vs UK",
+        "crimeRate": "118.5 per 1,000",
+        "crimeVariance": "+31.0% vs UK"
+    }
+}

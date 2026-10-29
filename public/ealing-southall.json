@@ -1,0 +1,16 @@
+{
+    "name": "Ealing Southall",
+    "region": "London",
+    "onsCode": "E14000652",
+    "electorate": 71900,
+    "metrics": {
+        "medianEarnings": "\u00a3610.00",
+        "earningsVariance": "-10.3% vs UK",
+        "housePrice": "\u00a3410000",
+        "housePriceVariance": "+43.0% vs UK",
+        "claimantRate": "5.5%",
+        "claimantVariance": "+1.4 pp vs UK",
+        "crimeRate": "74.0 per 1,000",
+        "crimeVariance": "-18.0% vs UK"
+    }
+}

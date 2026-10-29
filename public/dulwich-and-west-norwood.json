@@ -1,0 +1,16 @@
+{
+    "name": "Dulwich and West Norwood",
+    "region": "London",
+    "onsCode": "E14000645",
+    "electorate": 70500,
+    "metrics": {
+        "medianEarnings": "\u00a3710.00",
+        "earningsVariance": "+4.6% vs UK",
+        "housePrice": "\u00a3560000",
+        "housePriceVariance": "+95.0% vs UK",
+        "claimantRate": "3.9%",
+        "claimantVariance": "-0.2 pp vs UK",
+        "crimeRate": "65.4 per 1,000",
+        "crimeVariance": "-27.0% vs UK"
+    }
+}

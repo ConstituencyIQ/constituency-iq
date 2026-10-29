@@ -1,0 +1,16 @@
+{
+    "name": "Poplar and Limehouse",
+    "region": "London",
+    "onsCode": "E14000858",
+    "electorate": 78400,
+    "metrics": {
+        "medianEarnings": "\u00a3810.00",
+        "earningsVariance": "+19.3% vs UK",
+        "housePrice": "\u00a3550000",
+        "housePriceVariance": "+91.5% vs UK",
+        "claimantRate": "4.1%",
+        "claimantVariance": "0.0 pp vs UK",
+        "crimeRate": "89.2 per 1,000",
+        "crimeVariance": "-1.0% vs UK"
+    }
+}

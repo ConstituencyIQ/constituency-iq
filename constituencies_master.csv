@@ -1,6 +1,9 @@
 name,region,slug,onsCode,electorate,medianEarnings,earningsVariance,housePrice,housePriceVariance,claimantRate,claimantVariance,crimeRate,crimeVariance
-Reigate and Banstead,South East,reigate,E14000889,74403,£765.20,+12.2% vs UK,£495000,+73.6% vs UK,2.1%,-2.0 pp vs UK,"58.4 per 1,000",-36.5% vs UK
-Dorking and Horley,South East,dorking-horley,E14001550,72150,£740.00,+8.5% vs UK,£525000,+84.2% vs UK,1.9%,-2.2 pp vs UK,"45.2 per 1,000",-51.0% vs UK
 Cities of London and Westminster,London,cities-of-london-and-westminster,E14000637,66500,£920.00,+35.5% vs UK,£950000,+233.0% vs UK,2.5%,-1.6 pp vs UK,"110.2 per 1,000",+22.0% vs UK
-Birmingham Edgbaston,West Midlands,birmingham-edgbaston,E14000558,70120,£610.00,-10.3% vs UK,£275000,-3.5% vs UK,5.4%,+1.3 pp vs UK,"78.5 per 1,000",-12.0% vs UK
-Manchester Central,North West,manchester-central,E14000750,68900,£630.00,-7.4% vs UK,£260000,-8.8% vs UK,6.2%,+2.1 pp vs UK,"95.1 per 1,000",+5.8% vs UK
+Kensington and Bayswater,London,kensington-and-bayswater,E14000732,64200,£880.00,+29.6% vs UK,£1250000,+338.0% vs UK,2.8%,-1.3 pp vs UK,"118.5 per 1,000",+31.0% vs UK
+Hackney South and Shoreditch,London,hackney-south-and-shoreditch,E14000679,73100,£780.00,+14.9% vs UK,£640000,+122.0% vs UK,4.6%,+0.5 pp vs UK,"98.4 per 1,000",+9.0% vs UK
+Poplar and Limehouse,London,poplar-and-limehouse,E14000858,78400,£810.00,+19.3% vs UK,£550000,+91.5% vs UK,4.1%,0.0 pp vs UK,"89.2 per 1,000","-1.0% vs UK"
+Battersea,London,battersea,E14000531,71200,£850.00,+25.2% vs UK,£780000,+171.0% vs UK,2.4%,-1.7 pp vs UK,"72.1 per 1,000","-20.0% vs UK"
+Dulwich and West Norwood,London,dulwich-and-west-norwood,E14000645,70500,£710.00,+4.6% vs UK,£560000,+95.0% vs UK,3.9%,-0.2 pp vs UK,"65.4 per 1,000","-27.0% vs UK"
+Tottenham,London,tottenham,E14000967,69800,£590.00,-13.2% vs UK,£420000,+46.5% vs UK,6.8%,+2.7 pp vs UK,"105.6 per 1,000",+17.0% vs UK
+Ealing Southall,London,ealing-southall,E14000652,71900,£610.00,-10.3% vs UK,£410000,+43.0% vs UK,5.5%,+1.4 pp vs UK,"74.0 per 1,000","-18.0% vs UK"

@@ -1,0 +1,16 @@
+{
+    "name": "Hackney South and Shoreditch",
+    "region": "London",
+    "onsCode": "E14000679",
+    "electorate": 73100,
+    "metrics": {
+        "medianEarnings": "\u00a3780.00",
+        "earningsVariance": "+14.9% vs UK",
+        "housePrice": "\u00a3640000",
+        "housePriceVariance": "+122.0% vs UK",
+        "claimantRate": "4.6%",
+        "claimantVariance": "+0.5 pp vs UK",
+        "crimeRate": "98.4 per 1,000",
+        "crimeVariance": "+9.0% vs UK"
+    }
+}

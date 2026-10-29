@@ -1,0 +1,16 @@
+{
+    "name": "Tottenham",
+    "region": "London",
+    "onsCode": "E14000967",
+    "electorate": 69800,
+    "metrics": {
+        "medianEarnings": "\u00a3590.00",
+        "earningsVariance": "-13.2% vs UK",
+        "housePrice": "\u00a3420000",
+        "housePriceVariance": "+46.5% vs UK",
+        "claimantRate": "6.8%",
+        "claimantVariance": "+2.7 pp vs UK",
+        "crimeRate": "105.6 per 1,000",
+        "crimeVariance": "+17.0% vs UK"
+    }
+}

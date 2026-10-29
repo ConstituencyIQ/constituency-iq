@@ -1,0 +1,16 @@
+{
+    "name": "Battersea",
+    "region": "London",
+    "onsCode": "E14000531",
+    "electorate": 71200,
+    "metrics": {
+        "medianEarnings": "\u00a3850.00",
+        "earningsVariance": "+25.2% vs UK",
+        "housePrice": "\u00a3780000",
+        "housePriceVariance": "+171.0% vs UK",
+        "claimantRate": "2.4%",
+        "claimantVariance": "-1.7 pp vs UK",
+        "crimeRate": "72.1 per 1,000",
+        "crimeVariance": "-20.0% vs UK"
+    }
+}
