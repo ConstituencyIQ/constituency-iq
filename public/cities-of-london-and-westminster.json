@@ -1,0 +1,16 @@
+{
+    "name": "Cities of London and Westminster",
+    "region": "London",
+    "onsCode": "E14000637",
+    "electorate": 66500,
+    "metrics": {
+        "medianEarnings": "\u00a3920.00",
+        "earningsVariance": "+35.5% vs UK",
+        "housePrice": "\u00a3950000",
+        "housePriceVariance": "+233.0% vs UK",
+        "claimantRate": "2.5%",
+        "claimantVariance": "-1.6 pp vs UK",
+        "crimeRate": "110.2 per 1,000",
+        "crimeVariance": "+22.0% vs UK"
+    }
+}

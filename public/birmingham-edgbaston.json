@@ -1,0 +1,16 @@
+{
+    "name": "Birmingham Edgbaston",
+    "region": "West Midlands",
+    "onsCode": "E14000558",
+    "electorate": 70120,
+    "metrics": {
+        "medianEarnings": "\u00a3610.00",
+        "earningsVariance": "-10.3% vs UK",
+        "housePrice": "\u00a3275000",
+        "housePriceVariance": "-3.5% vs UK",
+        "claimantRate": "5.4%",
+        "claimantVariance": "+1.3 pp vs UK",
+        "crimeRate": "78.5 per 1,000",
+        "crimeVariance": "-12.0% vs UK"
+    }
+}

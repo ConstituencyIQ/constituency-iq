@@ -1,0 +1,16 @@
+{
+    "name": "Manchester Central",
+    "region": "North West",
+    "onsCode": "E14000750",
+    "electorate": 68900,
+    "metrics": {
+        "medianEarnings": "\u00a3630.00",
+        "earningsVariance": "-7.4% vs UK",
+        "housePrice": "\u00a3260000",
+        "housePriceVariance": "-8.8% vs UK",
+        "claimantRate": "6.2%",
+        "claimantVariance": "+2.1 pp vs UK",
+        "crimeRate": "95.1 per 1,000",
+        "crimeVariance": "+5.8% vs UK"
+    }
+}

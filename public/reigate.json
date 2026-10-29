@@ -1,0 +1,16 @@
+{
+    "name": "Reigate and Banstead",
+    "region": "South East",
+    "onsCode": "E14000889",
+    "electorate": 74403,
+    "metrics": {
+        "medianEarnings": "\u00a3765.20",
+        "earningsVariance": "+12.2% vs UK",
+        "housePrice": "\u00a3495000",
+        "housePriceVariance": "+73.6% vs UK",
+        "claimantRate": "2.1%",
+        "claimantVariance": "-2.0 pp vs UK",
+        "crimeRate": "58.4 per 1,000",
+        "crimeVariance": "-36.5% vs UK"
+    }
+}

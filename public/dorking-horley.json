@@ -1,0 +1,16 @@
+{
+    "name": "Dorking and Horley",
+    "region": "South East",
+    "onsCode": "E14001550",
+    "electorate": 72150,
+    "metrics": {
+        "medianEarnings": "\u00a3740.00",
+        "earningsVariance": "+8.5% vs UK",
+        "housePrice": "\u00a3525000",
+        "housePriceVariance": "+84.2% vs UK",
+        "claimantRate": "1.9%",
+        "claimantVariance": "-2.2 pp vs UK",
+        "crimeRate": "45.2 per 1,000",
+        "crimeVariance": "-51.0% vs UK"
+    }
+}

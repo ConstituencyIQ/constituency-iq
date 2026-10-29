@@ -1,0 +1,237 @@
+---
+import '../styles/global.css';
+
+// Master list of constituencies rendered on the directory page
+const constituencies = [
+  {
+    name: "Reigate and Banstead",
+    region: "South East",
+    slug: "reigate",
+    electorate: 74403,
+    medianEarnings: "£765.20",
+    earningsVariance: "+12.2% vs UK"
+  },
+  {
+    name: "Dorking and Horley",
+    region: "South East",
+    slug: "dorking-horley",
+    electorate: 72150,
+    medianEarnings: "£740.00",
+    earningsVariance: "+8.5% vs UK"
+  },
+  {
+    name: "Cities of London and Westminster",
+    region: "London",
+    slug: "cities-of-london-and-westminster",
+    electorate: 66500,
+    medianEarnings: "£920.00",
+    earningsVariance: "+35.5% vs UK"
+  },
+  {
+    name: "Birmingham Edgbaston",
+    region: "West Midlands",
+    slug: "birmingham-edgbaston",
+    electorate: 70120,
+    medianEarnings: "£610.00",
+    earningsVariance: "-10.3% vs UK"
+  },
+  {
+    name: "Manchester Central",
+    region: "North West",
+    slug: "manchester-central",
+    electorate: 68900,
+    medianEarnings: "£630.00",
+    earningsVariance: "-7.4% vs UK"
+  }
+];
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<title>UK Constituency Data Hub</title>
+	</head>
+	<body class="bg-slate-50 text-slate-900 font-sans antialiased min-h-screen p-6 md:p-12">
+		
+		<main class="max-w-4xl mx-auto space-y-8">
+			
+			<!-- Site Header -->
+			<div class="bg-white border border-slate-200 rounded-xl p-6 md:p-8 shadow-sm">
+				<span class="text-xs font-semibold tracking-wider text-indigo-600 uppercase">Public Data Intelligence</span>
+				<h1 class="text-3xl font-bold tracking-tight text-slate-900 mt-1">UK Constituency Profiles</h1>
+				<p class="text-sm text-slate-600 mt-2 leading-relaxed">
+					Explore local socioeconomic indicators, earnings, housing metrics, and national variances across UK constituencies. Designed for clear, accessible insight.
+				</p>
+			</div>
+
+			<!-- Interactive Tools Section (Postcode Lookup & Search) -->
+			<div class="grid gap-4 md:grid-cols-2">
+				
+				<!-- Postcode Lookup Box -->
+				<div class="bg-indigo-900 text-white rounded-xl p-6 shadow-sm flex flex-col justify-between">
+					<div>
+						<span class="text-xs font-semibold tracking-wider text-indigo-300 uppercase">Quick Finder</span>
+						<h2 class="text-xl font-bold mt-1">Find Your Local Seat</h2>
+						<p class="text-xs text-indigo-200 mt-1">Enter a UK postcode to look up your constituency automatically via live geographic data.</p>
+					</div>
+					<div class="mt-4 flex gap-2">
+						<input 
+							type="text" 
+							id="postcode-input" 
+							placeholder="e.g. RH2 8JH" 
+							class="px-3 py-2 text-sm text-slate-900 rounded-lg bg-white focus:outline-none focus:ring-2 focus:ring-indigo-400 flex-grow uppercase font-mono"
+						/>
+						<button 
+							id="postcode-btn"
+							class="px-4 py-2 bg-indigo-600 hover:bg-indigo-500 text-white text-sm font-medium rounded-lg transition-colors"
+						>
+							Search
+						</button>
+					</div>
+					<p id="postcode-error" class="text-xs text-rose-300 mt-2 hidden"></p>
+				</div>
+
+				<!-- Map View Toggle / Placeholder Card -->
+				<div class="bg-white border border-slate-200 rounded-xl p-6 shadow-sm flex flex-col justify-between">
+					<div>
+						<span class="text-xs font-semibold tracking-wider text-slate-400 uppercase">Geographic Navigation</span>
+						<h2 class="text-xl font-bold text-slate-900 mt-1">Interactive Map View</h2>
+						<p class="text-xs text-slate-500 mt-1">Toggle between directory grid view and interactive boundary map explorer.</p>
+					</div>
+					<div class="mt-4 flex gap-2">
+						<button disabled class="px-4 py-2 bg-slate-100 text-slate-400 text-sm font-medium rounded-lg cursor-not-allowed">
+							Map View (Coming Soon)
+						</button>
+					</div>
+				</div>
+
+			</div>
+
+			<!-- Constituency Directory & Text Search Section -->
+			<div class="space-y-4">
+				<div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+					<h2 class="text-xl font-bold tracking-tight text-slate-800">Constituency Directory</h2>
+					
+					<!-- Real-Time Text Search Bar -->
+					<input 
+						type="text" 
+						id="search-input" 
+						placeholder="Filter by name or region..." 
+						class="px-4 py-2 text-sm bg-white border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500 w-full sm:w-72"
+					/>
+				</div>
+				
+				<!-- Cards Grid -->
+				<div id="constituencies-grid" class="grid gap-4 md:grid-cols-2">
+					{constituencies.map((seat) => (
+						<a 
+							href={`/${seat.slug}`} 
+							class="seat-card block bg-white border border-slate-200 rounded-xl p-6 shadow-sm hover:border-indigo-500 hover:shadow-md transition-all group"
+							data-name={seat.name.toLowerCase()}
+							data-region={seat.region.toLowerCase()}
+						>
+							<div class="flex items-start justify-between">
+								<div>
+									<span class="text-xs font-medium text-slate-500">{seat.region}</span>
+									<h3 class="text-lg font-bold text-slate-900 group-hover:text-indigo-600 transition-colors mt-0.5">
+										{seat.name}
+									</h3>
+								</div>
+								<span class="text-xs font-medium px-2.5 py-1 rounded-full bg-slate-100 text-slate-700 font-mono">
+									Electorate: {seat.electorate.toLocaleString()}
+								</span>
+							</div>
+
+							<div class="mt-4 pt-4 border-t border-slate-100 flex items-center justify-between text-sm">
+								<span class="text-slate-600">Median Weekly Earnings: <strong class="text-slate-900">{seat.medianEarnings}</strong></span>
+								<span class="text-xs font-medium px-2 py-0.5 rounded bg-emerald-50 text-emerald-700">{seat.earningsVariance}</span>
+							</div>
+						</a>
+					))}
+				</div>
+				
+				<!-- No results message state -->
+				<div id="no-results" class="hidden text-center py-8 text-slate-500 text-sm">
+					No matching constituencies found.
+				</div>
+			</div>
+
+		</main>
+
+		<!-- Client-side Interactivity Script -->
+		<script>
+			// 1. Real-time text filter functionality
+			const searchInput = document.getElementById('search-input') as HTMLInputElement;
+			const cards = document.querySelectorAll('.seat-card');
+			const noResults = document.getElementById('no-results');
+
+			searchInput?.addEventListener('input', (e) => {
+				const query = (e.target as HTMLInputElement).value.toLowerCase();
+				let visibleCount = 0;
+
+				cards.forEach((card) => {
+					const name = card.getAttribute('data-name') || '';
+					const region = card.getAttribute('data-region') || '';
+					
+					if (name.includes(query) || region.includes(query)) {
+						(card as HTMLElement).style.display = 'block';
+						visibleCount++;
+					} else {
+						(card as HTMLElement).style.display = 'none';
+					}
+				});
+
+				if (noResults) {
+					noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+				}
+			});
+
+			// 2. Postcode lookup functionality using public postcodes.io API
+			const postcodeBtn = document.getElementById('postcode-btn');
+			const postcodeInput = document.getElementById('postcode-input') as HTMLInputElement;
+			const postcodeError = document.getElementById('postcode-error');
+
+			postcodeBtn?.addEventListener('click', async () => {
+				const postcode = postcodeInput?.value.trim();
+				if (!postcode) return;
+
+				if (postcodeError) postcodeError.classList.add('hidden');
+
+				try {
+					const response = await fetch(`https://api.postcodes.io/postcodes/${encodeURIComponent(postcode)}`);
+					const data = await response.json();
+
+					if (data.status === 200 && data.result && data.result.parliamentary_constituency) {
+						const constituencyName = data.result.parliamentary_constituency;
+						
+						// Simple mapping helper for our demo slugs
+						let slug = 'reigate';
+						if (constituencyName.toLowerCase().includes('dorking')) {
+							slug = 'dorking-horley';
+						} else if (constituencyName.toLowerCase().includes('westminster')) {
+							slug = 'cities-of-london-and-westminster';
+						} else if (constituencyName.toLowerCase().includes('edgbaston')) {
+							slug = 'birmingham-edgbaston';
+						} else if (constituencyName.toLowerCase().includes('manchester')) {
+							slug = 'manchester-central';
+						}
+						// Redirect to target constituency profile page
+						window.location.href = `/${slug}`;
+					} else {
+						if (postcodeError) {
+							postcodeError.textContent = 'Invalid postcode or constituency not found.';
+							postcodeError.classList.remove('hidden');
+						}
+					}
+				} catch (err) {
+					if (postcodeError) {
+						postcodeError.textContent = 'Error connecting to lookup service.';
+						postcodeError.classList.remove('hidden');
+					}
+				}
+			});
+		</script>
+	</body>
+</html>
