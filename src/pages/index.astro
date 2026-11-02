@@ -2,6 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import HeatmapCard from '../components/HeatmapCard.astro';
+import { Analytics } from '@vercel/analytics/astro';
 
 const publicDir = path.resolve('public');
 let constituencies = [];
@@ -502,5 +503,8 @@ const regionNames = Object.keys(regionsMap).sort();
         }
       };
     </script>
+
+    <!-- Vercel Web Analytics Tracker -->
+    <Analytics />
   </body>
 </html>
