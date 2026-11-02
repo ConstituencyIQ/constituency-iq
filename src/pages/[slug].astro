@@ -5,7 +5,6 @@ import EconomyCard from '../components/EconomyCard.astro';
 import UnemploymentCard from '../components/UnemploymentCard.astro';
 import WageCard from '../components/WageCard.astro';
 import MapCard from '../components/MapCard.astro';
-import { Analytics } from '@vercel/analytics/astro';
 
 export async function getStaticPaths() {
   const index = await import('../../public/constituencies-index.json');
@@ -329,8 +328,5 @@ const wageData = data?.wage || {};
       </>
     )}
   </div>
-
-  <!-- Vercel Web Analytics Tracker -->
-  <Analytics />
 </body>
 </html>
