@@ -1,0 +1,326 @@
+{
+  "name": "Caerfyrddin",
+  "region": "Wales",
+  "onsCode": "W07000087",
+  "electorate": 74005,
+  "center_lat": 51.93689,
+  "center_lon": -4.14384,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 17402,
+      "percent": 18.2,
+      "nationalPercent": 20.6,
+      "difference": -2.3
+    },
+    "18 to 24": {
+      "count": 5924,
+      "percent": 6.2,
+      "nationalPercent": 8.4,
+      "difference": -2.1
+    },
+    "25 to 34": {
+      "count": 9467,
+      "percent": 9.9,
+      "nationalPercent": 13.5,
+      "difference": -3.6
+    },
+    "35 to 49": {
+      "count": 15703,
+      "percent": 16.5,
+      "nationalPercent": 19.3,
+      "difference": -2.9
+    },
+    "50 to 64": {
+      "count": 21025,
+      "percent": 22.0,
+      "nationalPercent": 19.2,
+      "difference": 2.8
+    },
+    "65 and over": {
+      "count": 25845,
+      "percent": 27.1,
+      "nationalPercent": 19.0,
+      "difference": 8.1
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 1080,
+      "percent": 1.2,
+      "nationalPercent": 1.6,
+      "difference": -0.4
+    },
+    "Black, African or Caribbean": {
+      "count": 286,
+      "percent": 0.3,
+      "nationalPercent": 0.5,
+      "difference": -0.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 893,
+      "percent": 1.0,
+      "nationalPercent": 0.8,
+      "difference": 0.2
+    },
+    "White": {
+      "count": 91172,
+      "percent": 97.2,
+      "nationalPercent": 6.2,
+      "difference": 91.0
+    },
+    "Other": {
+      "count": 414,
+      "percent": 0.4,
+      "nationalPercent": 1.6,
+      "difference": -1.2
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 89359,
+      "percent": 95.2,
+      "nationalPercent": 13.9,
+      "difference": 81.3
+    },
+    "European Union": {
+      "count": 2203,
+      "percent": 2.3,
+      "nationalPercent": 0.5,
+      "difference": 1.8
+    },
+    "Rest of world": {
+      "count": 2289,
+      "percent": 2.4,
+      "nationalPercent": 0.3,
+      "difference": 2.1
+    }
+  },
+  "mp": {
+    "name": "Ann Davies",
+    "party": "Plaid Cymru",
+    "memberId": 5177,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5177/Thumbnail",
+    "email": "ann.davies@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "PC gain from Con",
+    "majority": 4535,
+    "turnout": 45604,
+    "turnoutPercent": 61.6,
+    "electorate": 74005,
+    "validVotes": 45604,
+    "invalidVotes": 187,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Plaid Cymru",
+        "name": "Ann Davies",
+        "votes": 15520,
+        "percent": 34.0,
+        "change": 3.4
+      },
+      {
+        "party": "Labour",
+        "name": "Martha O'Neil",
+        "votes": 10985,
+        "percent": 24.1,
+        "change": -1.0
+      },
+      {
+        "party": "Conservative",
+        "name": "Simon Hart",
+        "votes": 8825,
+        "percent": 19.4,
+        "change": -19.8
+      },
+      {
+        "party": "Reform UK",
+        "name": "Bernard Holton",
+        "votes": 6944,
+        "percent": 15.2,
+        "change": 11.4
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Nick Beckett",
+        "votes": 1461,
+        "percent": 3.2,
+        "change": 1.9
+      },
+      {
+        "party": "Green Party",
+        "name": "Will Beasley",
+        "votes": 1371,
+        "percent": 3.0,
+        "change": "N/A"
+      },
+      {
+        "party": "Women's Equality Party",
+        "name": "Nancy Cole",
+        "votes": 282,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "David Evans",
+        "votes": 216,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Agriculture, forestry and fishing": {
+        "count": 1745,
+        "percent": 32.8
+      },
+      "Construction": {
+        "count": 670,
+        "percent": 12.6
+      },
+      "Retail and wholesale": {
+        "count": 650,
+        "percent": 12.2
+      },
+      "Professional, scientific and technical": {
+        "count": 390,
+        "percent": 7.3
+      },
+      "Accommodation and food services": {
+        "count": 325,
+        "percent": 6.1
+      },
+      "Business admin and support": {
+        "count": 310,
+        "percent": 5.8
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 300,
+        "percent": 5.6
+      },
+      "Arts, entertainment and recreation": {
+        "count": 265,
+        "percent": 5.0
+      },
+      "Health": {
+        "count": 165,
+        "percent": 3.1
+      },
+      "Information and communication": {
+        "count": 140,
+        "percent": 2.6
+      },
+      "Transport and storage": {
+        "count": 135,
+        "percent": 2.5
+      },
+      "Property": {
+        "count": 110,
+        "percent": 2.1
+      },
+      "Public admin and defence": {
+        "count": 40,
+        "percent": 0.8
+      },
+      "Education": {
+        "count": 40,
+        "percent": 0.8
+      },
+      "Finance and insurance": {
+        "count": 35,
+        "percent": 0.7
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 11000,
+        "percent": 28.6
+      },
+      "Retail and wholesale": {
+        "count": 5000,
+        "percent": 13.0
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3900,
+        "percent": 10.1
+      },
+      "Public admin and defence": {
+        "count": 3500,
+        "percent": 9.1
+      },
+      "Education": {
+        "count": 3000,
+        "percent": 7.8
+      },
+      "Accommodation and food services": {
+        "count": 2500,
+        "percent": 6.5
+      },
+      "Construction": {
+        "count": 2250,
+        "percent": 5.8
+      },
+      "Professional, scientific and technical": {
+        "count": 2000,
+        "percent": 5.2
+      },
+      "Business admin and support": {
+        "count": 1750,
+        "percent": 4.5
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1500,
+        "percent": 3.9
+      },
+      "Transport and storage": {
+        "count": 900,
+        "percent": 2.3
+      },
+      "Information and communication": {
+        "count": 500,
+        "percent": 1.3
+      },
+      "Property": {
+        "count": 400,
+        "percent": 1.0
+      },
+      "Finance and insurance": {
+        "count": 300,
+        "percent": 0.8
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1590,
+    "currentRate": 2.9,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.6
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.8
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.9
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 807.9,
+    "annualChange": 7.0,
+    "ukPay": 811.2
+  }
+}

@@ -1,0 +1,59 @@
+---
+export interface UnemploymentHistory {
+  period: string;
+  rate: number;
+}
+
+export interface UnemploymentData {
+  count: number;
+  currentRate: number;
+  history: UnemploymentHistory[];
+}
+
+interface Props {
+  unemployment: UnemploymentData;
+}
+
+const { unemployment } = Astro.props;
+const count = unemployment?.count ?? 0;
+const currentRate = unemployment?.currentRate ?? 0;
+const history = unemployment?.history ?? [];
+---
+
+<div class="card" style="margin-top: 25px; background: white; border-radius: 12px; padding: 25px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); border: 1px solid var(--border-color, #e2e8f0);">
+  <div class="card-title" style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted, #64748b); margin-bottom: 10px; font-weight: 600;">
+    Claimant Count &amp; Unemployment
+  </div>
+  <p style="font-size: 0.85rem; color: var(--text-muted, #64748b); margin-top: 0; margin-bottom: 20px;">
+    Monthly tracking of unemployment-related benefit claimants (House of Commons Library).
+  </p>
+
+  <!-- Summary Stats Box -->
+  <div style="display: flex; justify-content: space-between; align-items: center; background: #f8fafc; border: 1px solid var(--border-color, #e2e8f0); border-radius: 8px; padding: 15px 20px; margin-bottom: 20px;">
+    <div>
+      <span style="font-size: 0.75rem; text-transform: uppercase; color: var(--text-muted, #64748b); font-weight: 600; display: block; letter-spacing: 0.05em;">Total Claimants</span>
+      <span style="font-size: 1.4rem; font-weight: 700; color: #0f172a; font-variant-numeric: tabular-nums;">{count.toLocaleString()}</span>
+    </div>
+    <div style="text-align: right;">
+      <span style="font-size: 0.75rem; text-transform: uppercase; color: var(--primary, #4f46e5); font-weight: 600; display: block; letter-spacing: 0.05em;">Claimant Rate</span>
+      <span style="font-size: 1.4rem; font-weight: 700; color: var(--primary, #4f46e5); font-variant-numeric: tabular-nums;">{currentRate}%</span>
+    </div>
+  </div>
+
+  <!-- Historical Trend Section -->
+  <div>
+    <div style="font-size: 0.75rem; font-weight: 700; color: var(--primary, #4f46e5); text-transform: uppercase; margin-bottom: 10px; letter-spacing: 0.05em;">Historical Trend</div>
+    {history.length > 0 ? (
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+        {history.map((item) => (
+          <div style="background: #f8fafc; border: 1px solid var(--border-color, #e2e8f0); padding: 12px; border-radius: 8px; text-align: center;">
+            <span style="font-size: 0.75rem; color: var(--text-muted, #64748b); display: block; margin-bottom: 4px; font-weight: 500;">{item.period}</span>
+            <span style="font-size: 1rem; font-weight: 700; color: #0f172a; font-variant-numeric: tabular-nums;">{item.rate}%</span>
+          </div>
+        ))}
+      </div>
+    ) : (
+      <p style="font-size: 0.85rem; color: var(--text-muted, #64748b); font-style: italic;">No historical trend data available.</p>
+    )}
+  </div>
+</div>

@@ -1,16 +1,354 @@
 {
-    "name": "Ealing Southall",
-    "region": "London",
-    "onsCode": "E14000652",
-    "electorate": 71900,
-    "metrics": {
-        "medianEarnings": "\u00a3610.00",
-        "earningsVariance": "-10.3% vs UK",
-        "housePrice": "\u00a3410000",
-        "housePriceVariance": "+43.0% vs UK",
-        "claimantRate": "5.5%",
-        "claimantVariance": "+1.4 pp vs UK",
-        "crimeRate": "74.0 per 1,000",
-        "crimeVariance": "-18.0% vs UK"
+  "name": "Ealing Southall",
+  "region": "England",
+  "onsCode": "E14001209",
+  "electorate": 78669,
+  "center_lat": 51.51172,
+  "center_lon": -0.37104,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 28722,
+      "percent": 21.7,
+      "nationalPercent": 20.6,
+      "difference": 1.1
+    },
+    "18 to 24": {
+      "count": 13642,
+      "percent": 10.3,
+      "nationalPercent": 8.4,
+      "difference": 2.0
+    },
+    "25 to 34": {
+      "count": 21667,
+      "percent": 16.4,
+      "nationalPercent": 13.5,
+      "difference": 2.9
+    },
+    "35 to 49": {
+      "count": 28741,
+      "percent": 21.7,
+      "nationalPercent": 19.3,
+      "difference": 2.4
+    },
+    "50 to 64": {
+      "count": 22850,
+      "percent": 17.3,
+      "nationalPercent": 19.2,
+      "difference": -2.0
+    },
+    "65 and over": {
+      "count": 16621,
+      "percent": 12.6,
+      "nationalPercent": 19.0,
+      "difference": -6.4
     }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 58560,
+      "percent": 46.9,
+      "nationalPercent": 1.6,
+      "difference": 45.3
+    },
+    "Black, African or Caribbean": {
+      "count": 11667,
+      "percent": 9.3,
+      "nationalPercent": 0.5,
+      "difference": 8.8
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 4925,
+      "percent": 3.9,
+      "nationalPercent": 0.8,
+      "difference": 3.1
+    },
+    "White": {
+      "count": 38318,
+      "percent": 30.7,
+      "nationalPercent": 6.2,
+      "difference": 24.5
+    },
+    "Other": {
+      "count": 11436,
+      "percent": 9.2,
+      "nationalPercent": 1.6,
+      "difference": 7.6
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 58679,
+      "percent": 47.0,
+      "nationalPercent": 13.9,
+      "difference": 33.1
+    },
+    "European Union": {
+      "count": 12352,
+      "percent": 9.9,
+      "nationalPercent": 0.5,
+      "difference": 9.4
+    },
+    "Rest of world": {
+      "count": 53868,
+      "percent": 43.1,
+      "nationalPercent": 0.3,
+      "difference": 42.8
+    }
+  },
+  "mp": {
+    "name": "Deirdre Costigan",
+    "party": "Labour",
+    "memberId": 5075,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5075/Thumbnail",
+    "email": "deirdre.costigan@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 15793,
+    "turnout": 46816,
+    "turnoutPercent": 59.5,
+    "electorate": 78669,
+    "validVotes": 46816,
+    "invalidVotes": 214,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Deirdre Costigan",
+        "votes": 23000,
+        "percent": 49.1,
+        "change": -10.6
+      },
+      {
+        "party": "Conservative",
+        "name": "Georgie Calle",
+        "votes": 7207,
+        "percent": 15.4,
+        "change": -8.5
+      },
+      {
+        "party": "Green Party",
+        "name": "Neil Reynolds",
+        "votes": 4356,
+        "percent": 9.3,
+        "change": 5.5
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Darshan Singh Azad",
+        "votes": 4237,
+        "percent": 9.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Tariq Mahmood",
+        "votes": 2832,
+        "percent": 6.0,
+        "change": -3.7
+      },
+      {
+        "party": "Reform UK",
+        "name": "Steve Chilcott",
+        "votes": 2585,
+        "percent": 5.5,
+        "change": 3.7
+      },
+      {
+        "party": "Independent",
+        "name": "Niko Omilana",
+        "votes": 740,
+        "percent": 1.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Sangeet Kaur Bhail",
+        "votes": 557,
+        "percent": 1.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Rejoin EU",
+        "name": "Peter Ward",
+        "votes": 475,
+        "percent": 1.0,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Joe Bhangu",
+        "votes": 319,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Jaginder Singh",
+        "votes": 295,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Pedro Da Conceicao",
+        "votes": 213,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 1340,
+        "percent": 22.6
+      },
+      "Construction": {
+        "count": 825,
+        "percent": 13.9
+      },
+      "Professional, scientific and technical": {
+        "count": 815,
+        "percent": 13.7
+      },
+      "Information and communication": {
+        "count": 555,
+        "percent": 9.3
+      },
+      "Business admin and support": {
+        "count": 420,
+        "percent": 7.1
+      },
+      "Accommodation and food services": {
+        "count": 390,
+        "percent": 6.6
+      },
+      "Arts, entertainment and recreation": {
+        "count": 385,
+        "percent": 6.5
+      },
+      "Property": {
+        "count": 310,
+        "percent": 5.2
+      },
+      "Transport and storage": {
+        "count": 305,
+        "percent": 5.1
+      },
+      "Health": {
+        "count": 225,
+        "percent": 3.8
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 215,
+        "percent": 3.6
+      },
+      "Education": {
+        "count": 85,
+        "percent": 1.4
+      },
+      "Finance and insurance": {
+        "count": 65,
+        "percent": 1.1
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 5,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 9000,
+        "percent": 23.5
+      },
+      "Retail and wholesale": {
+        "count": 5600,
+        "percent": 14.6
+      },
+      "Education": {
+        "count": 3500,
+        "percent": 9.1
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3100,
+        "percent": 8.1
+      },
+      "Business admin and support": {
+        "count": 3000,
+        "percent": 7.8
+      },
+      "Professional, scientific and technical": {
+        "count": 2500,
+        "percent": 6.5
+      },
+      "Accommodation and food services": {
+        "count": 2500,
+        "percent": 6.5
+      },
+      "Construction": {
+        "count": 2000,
+        "percent": 5.2
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1750,
+        "percent": 4.6
+      },
+      "Transport and storage": {
+        "count": 1750,
+        "percent": 4.6
+      },
+      "Information and communication": {
+        "count": 1500,
+        "percent": 3.9
+      },
+      "Property": {
+        "count": 1000,
+        "percent": 2.6
+      },
+      "Public admin and defence": {
+        "count": 700,
+        "percent": 1.8
+      },
+      "Finance and insurance": {
+        "count": 400,
+        "percent": 1.0
+      }
+    }
+  },
+  "unemployment": {
+    "count": 6110,
+    "currentRate": 6.8,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 6.6
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 6.6
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 6.8
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 833.0,
+    "annualChange": 3.9,
+    "ukPay": 811.2
+  }
 }

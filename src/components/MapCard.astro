@@ -1,0 +1,119 @@
+---
+export interface Props {
+  constituencyName: string;
+  region: string;
+  lat?: number;
+  lon?: number;
+}
+
+const { constituencyName, region, lat = 51.5074, lon = -0.1278 } = Astro.props;
+
+// Unique ID for this map instance to avoid DOM collisions
+const mapId = `map-${Math.random().toString(36).substring(2, 9)}`;
+---
+
+<div class="card map-card">
+  <div class="card-title">Constituency Geography &amp; Location</div>
+  <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0; margin-bottom: 20px;">
+    Official cartographic positioning and regional mapping within the United Kingdom.
+  </p>
+
+  <div class="map-container-wrapper">
+    <div class="map-frame-box">
+      <div class="map-box-header">
+        <span class="map-box-label">Local Constituency Map ({region})</span>
+      </div>
+      
+      <!-- Leaflet Map Container -->
+      <div class="leaflet-wrapper">
+        <div id={mapId} class="leaflet-map-target" data-lat={lat} data-lon={lon} data-name={constituencyName}></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Load Leaflet CSS and JS CDN dynamically -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+<script define:vars={{ mapId, lat, lon, constituencyName }}>
+  window.addEventListener('DOMContentLoaded', () => {
+    const container = document.getElementById(mapId);
+    if (container && !container._leaflet_id) {
+      // Create map centered on constituency coordinates with regional zoom
+      const map = L.map(mapId, {
+        zoomControl: true,
+        dragging: true,
+        scrollWheelZoom: false
+      }).setView([lat, lon], 10);
+
+      // Add OpenStreetMap Tile Layer
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      }).addTo(map);
+
+      // Add clean blue pin marker (without popups or circles)
+      L.marker([lat, lon]).addTo(map);
+    }
+  });
+</script>
+
+<style>
+  .map-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    margin-bottom: 25px;
+  }
+  .card-title {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin-bottom: 10px;
+    font-weight: 600;
+  }
+  .map-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  .map-frame-box {
+    background: #f8fafc;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+  }
+  .map-box-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  .map-box-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    font-weight: 700;
+  }
+  .leaflet-wrapper {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid #cbd5e1;
+    background: #ffffff;
+  }
+  .leaflet-map-target {
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+</style>

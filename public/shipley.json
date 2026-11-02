@@ -1,0 +1,340 @@
+{
+  "name": "Shipley",
+  "region": "England",
+  "onsCode": "E14001472",
+  "electorate": 74130,
+  "center_lat": 53.85264,
+  "center_lon": -1.81054,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19861,
+      "percent": 20.1,
+      "nationalPercent": 20.6,
+      "difference": -0.5
+    },
+    "18 to 24": {
+      "count": 5791,
+      "percent": 5.9,
+      "nationalPercent": 8.4,
+      "difference": -2.5
+    },
+    "25 to 34": {
+      "count": 10732,
+      "percent": 10.9,
+      "nationalPercent": 13.5,
+      "difference": -2.6
+    },
+    "35 to 49": {
+      "count": 19128,
+      "percent": 19.3,
+      "nationalPercent": 19.3,
+      "difference": -0.0
+    },
+    "50 to 64": {
+      "count": 20534,
+      "percent": 20.8,
+      "nationalPercent": 19.2,
+      "difference": 1.5
+    },
+    "65 and over": {
+      "count": 22858,
+      "percent": 23.1,
+      "nationalPercent": 19.0,
+      "difference": 4.1
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 6554,
+      "percent": 6.7,
+      "nationalPercent": 1.6,
+      "difference": 5.1
+    },
+    "Black, African or Caribbean": {
+      "count": 726,
+      "percent": 0.7,
+      "nationalPercent": 0.5,
+      "difference": 0.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2197,
+      "percent": 2.3,
+      "nationalPercent": 0.8,
+      "difference": 1.5
+    },
+    "White": {
+      "count": 87185,
+      "percent": 89.5,
+      "nationalPercent": 6.2,
+      "difference": 83.3
+    },
+    "Other": {
+      "count": 757,
+      "percent": 0.8,
+      "nationalPercent": 1.6,
+      "difference": -0.8
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 91073,
+      "percent": 93.5,
+      "nationalPercent": 13.9,
+      "difference": 79.6
+    },
+    "European Union": {
+      "count": 2475,
+      "percent": 2.5,
+      "nationalPercent": 0.5,
+      "difference": 2.0
+    },
+    "Rest of world": {
+      "count": 3876,
+      "percent": 4.0,
+      "nationalPercent": 0.3,
+      "difference": 3.7
+    }
+  },
+  "mp": {
+    "name": "Anna Dixon",
+    "party": "Labour",
+    "memberId": 5281,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5281/Thumbnail",
+    "email": "anna.dixon@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 8603,
+    "turnout": 48303,
+    "turnoutPercent": 65.2,
+    "electorate": 74130,
+    "validVotes": 48303,
+    "invalidVotes": 147,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Anna Dixon",
+        "votes": 21738,
+        "percent": 45.0,
+        "change": 5.8
+      },
+      {
+        "party": "Conservative",
+        "name": "Philip Davies",
+        "votes": 13135,
+        "percent": 27.2,
+        "change": -23.6
+      },
+      {
+        "party": "Reform UK",
+        "name": "Simon Dandy",
+        "votes": 7238,
+        "percent": 15.0,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Kevin Warnes",
+        "votes": 3605,
+        "percent": 7.5,
+        "change": 5.1
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Graham Reed",
+        "votes": 1341,
+        "percent": 2.8,
+        "change": -3.1
+      },
+      {
+        "party": "The Yorkshire Party",
+        "name": "Will Grant",
+        "votes": 447,
+        "percent": 0.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "John Nagbea",
+        "votes": 297,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Waqas Khan",
+        "votes": 269,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Paul Shkurka",
+        "votes": 137,
+        "percent": 0.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Christian Peoples Alliance",
+        "name": "Darryl Morton-Wright",
+        "votes": 96,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 530,
+        "percent": 16.7
+      },
+      "Professional, scientific and technical": {
+        "count": 485,
+        "percent": 15.3
+      },
+      "Construction": {
+        "count": 425,
+        "percent": 13.4
+      },
+      "Business admin and support": {
+        "count": 245,
+        "percent": 7.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 245,
+        "percent": 7.7
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 230,
+        "percent": 7.2
+      },
+      "Accommodation and food services": {
+        "count": 230,
+        "percent": 7.2
+      },
+      "Information and communication": {
+        "count": 190,
+        "percent": 6.0
+      },
+      "Health": {
+        "count": 170,
+        "percent": 5.4
+      },
+      "Property": {
+        "count": 145,
+        "percent": 4.6
+      },
+      "Transport and storage": {
+        "count": 80,
+        "percent": 2.5
+      },
+      "Education": {
+        "count": 70,
+        "percent": 2.2
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 65,
+        "percent": 2.0
+      },
+      "Finance and insurance": {
+        "count": 60,
+        "percent": 1.9
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.2
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 4500,
+        "percent": 16.8
+      },
+      "Retail and wholesale": {
+        "count": 4200,
+        "percent": 15.7
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3075,
+        "percent": 11.5
+      },
+      "Education": {
+        "count": 3000,
+        "percent": 11.2
+      },
+      "Professional, scientific and technical": {
+        "count": 2500,
+        "percent": 9.3
+      },
+      "Accommodation and food services": {
+        "count": 2500,
+        "percent": 9.3
+      },
+      "Business admin and support": {
+        "count": 1500,
+        "percent": 5.6
+      },
+      "Construction": {
+        "count": 1250,
+        "percent": 4.7
+      },
+      "Property": {
+        "count": 1250,
+        "percent": 4.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1000,
+        "percent": 3.7
+      },
+      "Information and communication": {
+        "count": 600,
+        "percent": 2.2
+      },
+      "Finance and insurance": {
+        "count": 600,
+        "percent": 2.2
+      },
+      "Transport and storage": {
+        "count": 450,
+        "percent": 1.7
+      },
+      "Public admin and defence": {
+        "count": 400,
+        "percent": 1.5
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1975,
+    "currentRate": 3.4,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.1
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.2
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.4
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 761.4,
+    "annualChange": 1.2,
+    "ukPay": 811.2
+  }
+}

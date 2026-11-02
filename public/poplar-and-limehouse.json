@@ -1,16 +1,326 @@
 {
-    "name": "Poplar and Limehouse",
-    "region": "London",
-    "onsCode": "E14000858",
-    "electorate": 78400,
-    "metrics": {
-        "medianEarnings": "\u00a3810.00",
-        "earningsVariance": "+19.3% vs UK",
-        "housePrice": "\u00a3550000",
-        "housePriceVariance": "+91.5% vs UK",
-        "claimantRate": "4.1%",
-        "claimantVariance": "0.0 pp vs UK",
-        "crimeRate": "89.2 per 1,000",
-        "crimeVariance": "-1.0% vs UK"
+  "name": "Poplar and Limehouse",
+  "region": "England",
+  "onsCode": "E14001430",
+  "electorate": 84116,
+  "center_lat": 51.50599,
+  "center_lon": -0.01645,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 28365,
+      "percent": 19.0,
+      "nationalPercent": 20.6,
+      "difference": -1.6
+    },
+    "18 to 24": {
+      "count": 19959,
+      "percent": 13.4,
+      "nationalPercent": 8.4,
+      "difference": 5.0
+    },
+    "25 to 34": {
+      "count": 42691,
+      "percent": 28.6,
+      "nationalPercent": 13.5,
+      "difference": 15.1
+    },
+    "35 to 49": {
+      "count": 34661,
+      "percent": 23.2,
+      "nationalPercent": 19.3,
+      "difference": 3.9
+    },
+    "50 to 64": {
+      "count": 16041,
+      "percent": 10.7,
+      "nationalPercent": 19.2,
+      "difference": -8.5
+    },
+    "65 and over": {
+      "count": 7654,
+      "percent": 5.1,
+      "nationalPercent": 19.0,
+      "difference": -13.9
     }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 59501,
+      "percent": 42.9,
+      "nationalPercent": 1.6,
+      "difference": 41.3
+    },
+    "Black, African or Caribbean": {
+      "count": 10678,
+      "percent": 7.7,
+      "nationalPercent": 0.5,
+      "difference": 7.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 7077,
+      "percent": 5.1,
+      "nationalPercent": 0.8,
+      "difference": 4.3
+    },
+    "White": {
+      "count": 55619,
+      "percent": 40.1,
+      "nationalPercent": 6.2,
+      "difference": 33.9
+    },
+    "Other": {
+      "count": 5737,
+      "percent": 4.1,
+      "nationalPercent": 1.6,
+      "difference": 2.5
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 69202,
+      "percent": 49.9,
+      "nationalPercent": 13.9,
+      "difference": 36.0
+    },
+    "European Union": {
+      "count": 21549,
+      "percent": 15.5,
+      "nationalPercent": 0.5,
+      "difference": 15.0
+    },
+    "Rest of world": {
+      "count": 47864,
+      "percent": 34.5,
+      "nationalPercent": 0.3,
+      "difference": 34.2
+    }
+  },
+  "mp": {
+    "name": "Apsana Begum",
+    "party": "Labour",
+    "memberId": 4790,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4790/Thumbnail",
+    "email": "apsana.begum@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 12560,
+    "turnout": 43051,
+    "turnoutPercent": 51.2,
+    "electorate": 84116,
+    "validVotes": 43051,
+    "invalidVotes": 316,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Apsana Begum",
+        "votes": 18535,
+        "percent": 43.1,
+        "change": -17.3
+      },
+      {
+        "party": "Green Party",
+        "name": "Nathalie Bienfait",
+        "votes": 5975,
+        "percent": 13.9,
+        "change": 10.5
+      },
+      {
+        "party": "Conservative",
+        "name": "Freddie Downing",
+        "votes": 4738,
+        "percent": 11.0,
+        "change": -6.7
+      },
+      {
+        "party": "Independent",
+        "name": "Ehtashamul Haque",
+        "votes": 4554,
+        "percent": 10.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Richard Flowers",
+        "votes": 4189,
+        "percent": 9.7,
+        "change": -5.8
+      },
+      {
+        "party": "Reform UK",
+        "name": "Tony Glover",
+        "votes": 3403,
+        "percent": 7.9,
+        "change": 5.5
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Kamran Khan",
+        "votes": 1463,
+        "percent": 3.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Manny Lawal",
+        "votes": 194,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 1450,
+        "percent": 19.8
+      },
+      "Information and communication": {
+        "count": 1175,
+        "percent": 16.1
+      },
+      "Retail and wholesale": {
+        "count": 930,
+        "percent": 12.7
+      },
+      "Business admin and support": {
+        "count": 715,
+        "percent": 9.8
+      },
+      "Construction": {
+        "count": 510,
+        "percent": 7.0
+      },
+      "Property": {
+        "count": 495,
+        "percent": 6.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 445,
+        "percent": 6.1
+      },
+      "Accommodation and food services": {
+        "count": 360,
+        "percent": 4.9
+      },
+      "Finance and insurance": {
+        "count": 345,
+        "percent": 4.7
+      },
+      "Health": {
+        "count": 255,
+        "percent": 3.5
+      },
+      "Transport and storage": {
+        "count": 220,
+        "percent": 3.0
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 205,
+        "percent": 2.8
+      },
+      "Education": {
+        "count": 190,
+        "percent": 2.6
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 10,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.1
+      }
+    },
+    "employees": {
+      "Finance and insurance": {
+        "count": 65000,
+        "percent": 31.7
+      },
+      "Professional, scientific and technical": {
+        "count": 46000,
+        "percent": 22.5
+      },
+      "Business admin and support": {
+        "count": 19000,
+        "percent": 9.3
+      },
+      "Information and communication": {
+        "count": 18000,
+        "percent": 8.8
+      },
+      "Public admin and defence": {
+        "count": 11000,
+        "percent": 5.4
+      },
+      "Retail and wholesale": {
+        "count": 10125,
+        "percent": 4.9
+      },
+      "Accommodation and food services": {
+        "count": 8000,
+        "percent": 3.9
+      },
+      "Education": {
+        "count": 6000,
+        "percent": 2.9
+      },
+      "Health": {
+        "count": 5000,
+        "percent": 2.4
+      },
+      "Property": {
+        "count": 4500,
+        "percent": 2.2
+      },
+      "Transport and storage": {
+        "count": 4000,
+        "percent": 2.0
+      },
+      "Arts, entertainment and recreation": {
+        "count": 3500,
+        "percent": 1.7
+      },
+      "Construction": {
+        "count": 2500,
+        "percent": 1.2
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 2150,
+        "percent": 1.0
+      }
+    }
+  },
+  "unemployment": {
+    "count": 7260,
+    "currentRate": 6.2,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 6.2
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 6.0
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 6.2
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 1142.5,
+    "annualChange": 1.4,
+    "ukPay": 811.2
+  }
 }

@@ -1,16 +1,340 @@
 {
-    "name": "Kensington and Bayswater",
-    "region": "London",
-    "onsCode": "E14000732",
-    "electorate": 64200,
-    "metrics": {
-        "medianEarnings": "\u00a3880.00",
-        "earningsVariance": "+29.6% vs UK",
-        "housePrice": "\u00a31250000",
-        "housePriceVariance": "+338.0% vs UK",
-        "claimantRate": "2.8%",
-        "claimantVariance": "-1.3 pp vs UK",
-        "crimeRate": "118.5 per 1,000",
-        "crimeVariance": "+31.0% vs UK"
+  "name": "Kensington and Bayswater",
+  "region": "England",
+  "onsCode": "E14001310",
+  "electorate": 77306,
+  "center_lat": 51.50838,
+  "center_lon": -0.19301,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 20303,
+      "percent": 15.3,
+      "nationalPercent": 20.6,
+      "difference": -5.2
+    },
+    "18 to 24": {
+      "count": 13845,
+      "percent": 10.5,
+      "nationalPercent": 8.4,
+      "difference": 2.1
+    },
+    "25 to 34": {
+      "count": 26764,
+      "percent": 20.2,
+      "nationalPercent": 13.5,
+      "difference": 6.7
+    },
+    "35 to 49": {
+      "count": 27237,
+      "percent": 20.6,
+      "nationalPercent": 19.3,
+      "difference": 1.2
+    },
+    "50 to 64": {
+      "count": 26064,
+      "percent": 19.7,
+      "nationalPercent": 19.2,
+      "difference": 0.4
+    },
+    "65 and over": {
+      "count": 18175,
+      "percent": 13.7,
+      "nationalPercent": 19.0,
+      "difference": -5.3
     }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 17301,
+      "percent": 13.0,
+      "nationalPercent": 1.6,
+      "difference": 11.4
+    },
+    "Black, African or Caribbean": {
+      "count": 10691,
+      "percent": 8.0,
+      "nationalPercent": 0.5,
+      "difference": 7.5
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 9222,
+      "percent": 6.9,
+      "nationalPercent": 0.8,
+      "difference": 6.1
+    },
+    "White": {
+      "count": 81556,
+      "percent": 61.4,
+      "nationalPercent": 6.2,
+      "difference": 55.2
+    },
+    "Other": {
+      "count": 14094,
+      "percent": 10.6,
+      "nationalPercent": 1.6,
+      "difference": 9.0
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 58826,
+      "percent": 44.3,
+      "nationalPercent": 13.9,
+      "difference": 30.4
+    },
+    "European Union": {
+      "count": 26053,
+      "percent": 19.6,
+      "nationalPercent": 0.5,
+      "difference": 19.1
+    },
+    "Rest of world": {
+      "count": 47991,
+      "percent": 36.1,
+      "nationalPercent": 0.3,
+      "difference": 35.8
+    }
+  },
+  "mp": {
+    "name": "Joe Powell",
+    "party": "Labour",
+    "memberId": 5229,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5229/Thumbnail",
+    "email": "joe.powell@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 2903,
+    "turnout": 41908,
+    "turnoutPercent": 54.2,
+    "electorate": 77306,
+    "validVotes": 41908,
+    "invalidVotes": 213,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Joe Powell",
+        "votes": 17025,
+        "percent": 40.6,
+        "change": 1.6
+      },
+      {
+        "party": "Conservative",
+        "name": "Felicity Buchan",
+        "votes": 14122,
+        "percent": 33.7,
+        "change": -4.6
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "William Houngbo",
+        "votes": 2910,
+        "percent": 6.9,
+        "change": -13.2
+      },
+      {
+        "party": "Green Party",
+        "name": "Mona Adam",
+        "votes": 2732,
+        "percent": 6.5,
+        "change": 5.1
+      },
+      {
+        "party": "Reform UK",
+        "name": "Marc Burca",
+        "votes": 2514,
+        "percent": 6.0,
+        "change": 5.2
+      },
+      {
+        "party": "Independent",
+        "name": "Emma Dent Coad",
+        "votes": 1824,
+        "percent": 4.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Rejoin EU",
+        "name": "John Stevens",
+        "votes": 486,
+        "percent": 1.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Party of Women",
+        "name": "Una O'Mahony",
+        "votes": 116,
+        "percent": 0.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Christian Peoples Alliance",
+        "name": "Roger Phillips",
+        "votes": 114,
+        "percent": 0.3,
+        "change": 0.1
+      },
+      {
+        "party": "Independent",
+        "name": "Prince Ankit Love Emperor of India",
+        "votes": 65,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 2750,
+        "percent": 23.2
+      },
+      "Retail and wholesale": {
+        "count": 1550,
+        "percent": 13.1
+      },
+      "Business admin and support": {
+        "count": 1245,
+        "percent": 10.5
+      },
+      "Information and communication": {
+        "count": 1160,
+        "percent": 9.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1160,
+        "percent": 9.8
+      },
+      "Property": {
+        "count": 935,
+        "percent": 7.9
+      },
+      "Accommodation and food services": {
+        "count": 820,
+        "percent": 6.9
+      },
+      "Construction": {
+        "count": 695,
+        "percent": 5.9
+      },
+      "Health": {
+        "count": 445,
+        "percent": 3.7
+      },
+      "Finance and insurance": {
+        "count": 420,
+        "percent": 3.5
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 260,
+        "percent": 2.2
+      },
+      "Education": {
+        "count": 255,
+        "percent": 2.1
+      },
+      "Transport and storage": {
+        "count": 125,
+        "percent": 1.1
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 45,
+        "percent": 0.4
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 18500,
+        "percent": 16.8
+      },
+      "Accommodation and food services": {
+        "count": 18000,
+        "percent": 16.4
+      },
+      "Professional, scientific and technical": {
+        "count": 14000,
+        "percent": 12.7
+      },
+      "Information and communication": {
+        "count": 10000,
+        "percent": 9.1
+      },
+      "Arts, entertainment and recreation": {
+        "count": 10000,
+        "percent": 9.1
+      },
+      "Business admin and support": {
+        "count": 8000,
+        "percent": 7.3
+      },
+      "Health": {
+        "count": 8000,
+        "percent": 7.3
+      },
+      "Education": {
+        "count": 6000,
+        "percent": 5.5
+      },
+      "Property": {
+        "count": 5000,
+        "percent": 4.5
+      },
+      "Public admin and defence": {
+        "count": 3000,
+        "percent": 2.7
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 2550,
+        "percent": 2.3
+      },
+      "Finance and insurance": {
+        "count": 2500,
+        "percent": 2.3
+      },
+      "Construction": {
+        "count": 2500,
+        "percent": 2.3
+      },
+      "Transport and storage": {
+        "count": 2000,
+        "percent": 1.8
+      }
+    }
+  },
+  "unemployment": {
+    "count": 3365,
+    "currentRate": 3.5,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.6
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.4
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.5
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 1217.0,
+    "annualChange": 17.9,
+    "ukPay": 811.2
+  }
 }

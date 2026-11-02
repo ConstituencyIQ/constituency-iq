@@ -1,0 +1,347 @@
+{
+  "name": "Slough",
+  "region": "England",
+  "onsCode": "E14001477",
+  "electorate": 81295,
+  "center_lat": 51.51632,
+  "center_lon": -0.61085,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 40650,
+      "percent": 28.0,
+      "nationalPercent": 20.6,
+      "difference": 7.4
+    },
+    "18 to 24": {
+      "count": 12116,
+      "percent": 8.3,
+      "nationalPercent": 8.4,
+      "difference": -0.0
+    },
+    "25 to 34": {
+      "count": 21321,
+      "percent": 14.7,
+      "nationalPercent": 13.5,
+      "difference": 1.2
+    },
+    "35 to 49": {
+      "count": 35405,
+      "percent": 24.4,
+      "nationalPercent": 19.3,
+      "difference": 5.0
+    },
+    "50 to 64": {
+      "count": 21677,
+      "percent": 14.9,
+      "nationalPercent": 19.2,
+      "difference": -4.3
+    },
+    "65 and over": {
+      "count": 14207,
+      "percent": 9.8,
+      "nationalPercent": 19.0,
+      "difference": -9.2
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 65773,
+      "percent": 47.8,
+      "nationalPercent": 1.6,
+      "difference": 46.2
+    },
+    "Black, African or Caribbean": {
+      "count": 10294,
+      "percent": 7.5,
+      "nationalPercent": 0.5,
+      "difference": 7.0
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 5425,
+      "percent": 3.9,
+      "nationalPercent": 0.8,
+      "difference": 3.1
+    },
+    "White": {
+      "count": 48226,
+      "percent": 35.1,
+      "nationalPercent": 6.2,
+      "difference": 28.9
+    },
+    "Other": {
+      "count": 7825,
+      "percent": 5.7,
+      "nationalPercent": 1.6,
+      "difference": 4.1
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 76462,
+      "percent": 55.6,
+      "nationalPercent": 13.9,
+      "difference": 41.7
+    },
+    "European Union": {
+      "count": 16696,
+      "percent": 12.1,
+      "nationalPercent": 0.5,
+      "difference": 11.6
+    },
+    "Rest of world": {
+      "count": 44387,
+      "percent": 32.3,
+      "nationalPercent": 0.3,
+      "difference": 32.0
+    }
+  },
+  "mp": {
+    "name": "Mr Tanmanjeet Singh Dhesi",
+    "party": "Labour",
+    "memberId": 4638,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4638/Thumbnail",
+    "email": "mr.tanmanjeet.singh.dhesi@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 3647,
+    "turnout": 43278,
+    "turnoutPercent": 53.2,
+    "electorate": 81295,
+    "validVotes": 43278,
+    "invalidVotes": 167,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Tan Dhesi",
+        "votes": 14666,
+        "percent": 33.9,
+        "change": -24.9
+      },
+      {
+        "party": "Independent Network",
+        "name": "Azhard Chohan",
+        "votes": 11019,
+        "percent": 25.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Conservative",
+        "name": "Moni Kaur Nanda",
+        "votes": 7457,
+        "percent": 17.2,
+        "change": -12.3
+      },
+      {
+        "party": "Reform UK",
+        "name": "Robin Jackson",
+        "votes": 3352,
+        "percent": 7.7,
+        "change": 4.9
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Chelsea Whyte",
+        "votes": 2060,
+        "percent": 4.8,
+        "change": -2.0
+      },
+      {
+        "party": "Green Party",
+        "name": "Julian Edmonds",
+        "votes": 1873,
+        "percent": 4.3,
+        "change": 2.2
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Adnan Shabbir",
+        "votes": 1105,
+        "percent": 2.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Chandra Muvvala",
+        "votes": 995,
+        "percent": 2.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Diana Coad",
+        "votes": 402,
+        "percent": 0.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Jaswinder Singh",
+        "votes": 204,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Heritage Party",
+        "name": "Nick Smith",
+        "votes": 145,
+        "percent": 0.3,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 1030,
+        "percent": 18.7
+      },
+      "Construction": {
+        "count": 785,
+        "percent": 14.2
+      },
+      "Information and communication": {
+        "count": 745,
+        "percent": 13.5
+      },
+      "Professional, scientific and technical": {
+        "count": 645,
+        "percent": 11.7
+      },
+      "Transport and storage": {
+        "count": 565,
+        "percent": 10.2
+      },
+      "Business admin and support": {
+        "count": 465,
+        "percent": 8.4
+      },
+      "Accommodation and food services": {
+        "count": 260,
+        "percent": 4.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 245,
+        "percent": 4.4
+      },
+      "Health": {
+        "count": 220,
+        "percent": 4.0
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 210,
+        "percent": 3.8
+      },
+      "Property": {
+        "count": 195,
+        "percent": 3.5
+      },
+      "Education": {
+        "count": 85,
+        "percent": 1.5
+      },
+      "Finance and insurance": {
+        "count": 60,
+        "percent": 1.1
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 5,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.1
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 11500,
+        "percent": 17.5
+      },
+      "Health": {
+        "count": 9000,
+        "percent": 13.7
+      },
+      "Business admin and support": {
+        "count": 8000,
+        "percent": 12.2
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 7000,
+        "percent": 10.6
+      },
+      "Professional, scientific and technical": {
+        "count": 6000,
+        "percent": 9.1
+      },
+      "Education": {
+        "count": 5000,
+        "percent": 7.6
+      },
+      "Transport and storage": {
+        "count": 4000,
+        "percent": 6.1
+      },
+      "Information and communication": {
+        "count": 4000,
+        "percent": 6.1
+      },
+      "Accommodation and food services": {
+        "count": 3500,
+        "percent": 5.3
+      },
+      "Construction": {
+        "count": 3000,
+        "percent": 4.6
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2000,
+        "percent": 3.0
+      },
+      "Public admin and defence": {
+        "count": 1250,
+        "percent": 1.9
+      },
+      "Finance and insurance": {
+        "count": 800,
+        "percent": 1.2
+      },
+      "Property": {
+        "count": 700,
+        "percent": 1.1
+      }
+    }
+  },
+  "unemployment": {
+    "count": 5810,
+    "currentRate": 6.1,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 5.9
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 5.9
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 6.1
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 802.5,
+    "annualChange": 1.8,
+    "ukPay": 811.2
+  }
+}

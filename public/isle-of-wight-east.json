@@ -1,0 +1,181 @@
+{
+  "name": "Isle of Wight East",
+  "region": "England",
+  "onsCode": "E14001303",
+  "electorate": 55855,
+  "center_lat": 50.66147,
+  "center_lon": -1.17856,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 10788,
+      "percent": 15.5,
+      "nationalPercent": 20.6,
+      "difference": -5.0
+    },
+    "18 to 24": {
+      "count": 3685,
+      "percent": 5.3,
+      "nationalPercent": 8.4,
+      "difference": -3.0
+    },
+    "25 to 34": {
+      "count": 6142,
+      "percent": 8.9,
+      "nationalPercent": 13.5,
+      "difference": -4.6
+    },
+    "35 to 49": {
+      "count": 10389,
+      "percent": 15.0,
+      "nationalPercent": 19.3,
+      "difference": -4.4
+    },
+    "50 to 64": {
+      "count": 15946,
+      "percent": 23.0,
+      "nationalPercent": 19.2,
+      "difference": 3.7
+    },
+    "65 and over": {
+      "count": 22437,
+      "percent": 32.3,
+      "nationalPercent": 19.0,
+      "difference": 13.3
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 672,
+      "percent": 1.0,
+      "nationalPercent": 1.6,
+      "difference": -0.6
+    },
+    "Black, African or Caribbean": {
+      "count": 176,
+      "percent": 0.3,
+      "nationalPercent": 0.5,
+      "difference": -0.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 907,
+      "percent": 1.3,
+      "nationalPercent": 0.8,
+      "difference": 0.5
+    },
+    "White": {
+      "count": 67695,
+      "percent": 97.2,
+      "nationalPercent": 6.2,
+      "difference": 91.0
+    },
+    "Other": {
+      "count": 172,
+      "percent": 0.2,
+      "nationalPercent": 1.6,
+      "difference": -1.4
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 65356,
+      "percent": 93.9,
+      "nationalPercent": 13.9,
+      "difference": 80.0
+    },
+    "European Union": {
+      "count": 2103,
+      "percent": 3.0,
+      "nationalPercent": 0.5,
+      "difference": 2.5
+    },
+    "Rest of world": {
+      "count": 2171,
+      "percent": 3.1,
+      "nationalPercent": 0.3,
+      "difference": 2.8
+    }
+  },
+  "mp": {
+    "name": "Joe Robertson",
+    "party": "Conservative",
+    "memberId": 5255,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5255/Thumbnail",
+    "email": "joe.robertson@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Con hold",
+    "majority": 3323,
+    "turnout": 34078,
+    "turnoutPercent": 61.0,
+    "electorate": 55855,
+    "validVotes": 34078,
+    "invalidVotes": 71,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Conservative",
+        "name": "Joe Robertson",
+        "votes": 10427,
+        "percent": 30.6,
+        "change": -26.8
+      },
+      {
+        "party": "Reform UK",
+        "name": "Sarah Morris",
+        "votes": 7104,
+        "percent": 20.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Vix Lowthion",
+        "votes": 6313,
+        "percent": 18.5,
+        "change": 4.5
+      },
+      {
+        "party": "Labour",
+        "name": "Emily Brothers",
+        "votes": 6264,
+        "percent": 18.4,
+        "change": -5.7
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Michael Lilley",
+        "votes": 3550,
+        "percent": 10.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "David Groocock",
+        "votes": 420,
+        "percent": 1.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 0,
+    "currentRate": 0.0,
+    "history": []
+  },
+  "wage": {
+    "medianWeeklyPay": 703.1,
+    "annualChange": 14.4,
+    "ukPay": 811.2
+  }
+}

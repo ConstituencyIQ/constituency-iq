@@ -1,0 +1,333 @@
+{
+  "name": "Eltham and Chislehurst",
+  "region": "England",
+  "onsCode": "E14001223",
+  "electorate": 73979,
+  "center_lat": 51.43754,
+  "center_lon": 0.05182,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 25658,
+      "percent": 22.7,
+      "nationalPercent": 20.6,
+      "difference": 2.1
+    },
+    "18 to 24": {
+      "count": 8627,
+      "percent": 7.6,
+      "nationalPercent": 8.4,
+      "difference": -0.7
+    },
+    "25 to 34": {
+      "count": 14882,
+      "percent": 13.1,
+      "nationalPercent": 13.5,
+      "difference": -0.3
+    },
+    "35 to 49": {
+      "count": 25482,
+      "percent": 22.5,
+      "nationalPercent": 19.3,
+      "difference": 3.2
+    },
+    "50 to 64": {
+      "count": 20527,
+      "percent": 18.1,
+      "nationalPercent": 19.2,
+      "difference": -1.1
+    },
+    "65 and over": {
+      "count": 18042,
+      "percent": 15.9,
+      "nationalPercent": 19.0,
+      "difference": -3.1
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 10414,
+      "percent": 9.4,
+      "nationalPercent": 1.6,
+      "difference": 7.8
+    },
+    "Black, African or Caribbean": {
+      "count": 11967,
+      "percent": 10.8,
+      "nationalPercent": 0.5,
+      "difference": 10.3
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 5551,
+      "percent": 5.0,
+      "nationalPercent": 0.8,
+      "difference": 4.2
+    },
+    "White": {
+      "count": 78770,
+      "percent": 71.3,
+      "nationalPercent": 6.2,
+      "difference": 65.1
+    },
+    "Other": {
+      "count": 3716,
+      "percent": 3.4,
+      "nationalPercent": 1.6,
+      "difference": 1.8
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 81943,
+      "percent": 74.2,
+      "nationalPercent": 13.9,
+      "difference": 60.3
+    },
+    "European Union": {
+      "count": 9896,
+      "percent": 9.0,
+      "nationalPercent": 0.5,
+      "difference": 8.5
+    },
+    "Rest of world": {
+      "count": 18594,
+      "percent": 16.8,
+      "nationalPercent": 0.3,
+      "difference": 16.5
+    }
+  },
+  "mp": {
+    "name": "Clive Efford",
+    "party": "Labour",
+    "memberId": 165,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/165/Thumbnail",
+    "email": "clive.efford@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 8429,
+    "turnout": 45566,
+    "turnoutPercent": 61.6,
+    "electorate": 73979,
+    "validVotes": 45566,
+    "invalidVotes": 192,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Clive Efford",
+        "votes": 20069,
+        "percent": 44.0,
+        "change": 3.9
+      },
+      {
+        "party": "Conservative",
+        "name": "Charlie Davis",
+        "votes": 11640,
+        "percent": 25.5,
+        "change": -21.3
+      },
+      {
+        "party": "Reform UK",
+        "name": "Mark George Simpson",
+        "votes": 7428,
+        "percent": 16.3,
+        "change": 13.7
+      },
+      {
+        "party": "Green Party",
+        "name": "Sam Gabriel",
+        "votes": 3079,
+        "percent": 6.8,
+        "change": 3.8
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Ulysse Abbate",
+        "votes": 2423,
+        "percent": 5.3,
+        "change": -2.2
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Sean Ellis Stewart",
+        "votes": 356,
+        "percent": 0.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Arnold Tarling",
+        "votes": 307,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Christian Hacking",
+        "votes": 173,
+        "percent": 0.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "John Courtneidge",
+        "votes": 91,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Construction": {
+        "count": 800,
+        "percent": 19.9
+      },
+      "Professional, scientific and technical": {
+        "count": 720,
+        "percent": 17.9
+      },
+      "Retail and wholesale": {
+        "count": 470,
+        "percent": 11.7
+      },
+      "Business admin and support": {
+        "count": 370,
+        "percent": 9.2
+      },
+      "Information and communication": {
+        "count": 365,
+        "percent": 9.1
+      },
+      "Arts, entertainment and recreation": {
+        "count": 335,
+        "percent": 8.3
+      },
+      "Accommodation and food services": {
+        "count": 225,
+        "percent": 5.6
+      },
+      "Health": {
+        "count": 210,
+        "percent": 5.2
+      },
+      "Property": {
+        "count": 160,
+        "percent": 4.0
+      },
+      "Transport and storage": {
+        "count": 140,
+        "percent": 3.5
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 105,
+        "percent": 2.6
+      },
+      "Education": {
+        "count": 80,
+        "percent": 2.0
+      },
+      "Finance and insurance": {
+        "count": 45,
+        "percent": 1.1
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 5,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Education": {
+        "count": 4500,
+        "percent": 18.1
+      },
+      "Health": {
+        "count": 3500,
+        "percent": 14.1
+      },
+      "Business admin and support": {
+        "count": 3000,
+        "percent": 12.1
+      },
+      "Arts, entertainment and recreation": {
+        "count": 3000,
+        "percent": 12.1
+      },
+      "Retail and wholesale": {
+        "count": 2575,
+        "percent": 10.4
+      },
+      "Accommodation and food services": {
+        "count": 2000,
+        "percent": 8.1
+      },
+      "Professional, scientific and technical": {
+        "count": 1750,
+        "percent": 7.0
+      },
+      "Construction": {
+        "count": 1500,
+        "percent": 6.0
+      },
+      "Information and communication": {
+        "count": 800,
+        "percent": 3.2
+      },
+      "Public admin and defence": {
+        "count": 800,
+        "percent": 3.2
+      },
+      "Property": {
+        "count": 450,
+        "percent": 1.8
+      },
+      "Transport and storage": {
+        "count": 400,
+        "percent": 1.6
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 300,
+        "percent": 1.2
+      },
+      "Finance and insurance": {
+        "count": 250,
+        "percent": 1.0
+      }
+    }
+  },
+  "unemployment": {
+    "count": 3465,
+    "currentRate": 4.8,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 4.6
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 4.6
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 4.8
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 939.4,
+    "annualChange": 2.6,
+    "ukPay": 811.2
+  }
+}

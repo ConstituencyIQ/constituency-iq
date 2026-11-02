@@ -1,0 +1,333 @@
+{
+  "name": "Liverpool Garston",
+  "region": "England",
+  "onsCode": "E14001337",
+  "electorate": 69282,
+  "center_lat": 53.36628,
+  "center_lon": -2.88501,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 20072,
+      "percent": 21.2,
+      "nationalPercent": 20.6,
+      "difference": 0.6
+    },
+    "18 to 24": {
+      "count": 7244,
+      "percent": 7.6,
+      "nationalPercent": 8.4,
+      "difference": -0.7
+    },
+    "25 to 34": {
+      "count": 11039,
+      "percent": 11.6,
+      "nationalPercent": 13.5,
+      "difference": -1.9
+    },
+    "35 to 49": {
+      "count": 18222,
+      "percent": 19.2,
+      "nationalPercent": 19.3,
+      "difference": -0.1
+    },
+    "50 to 64": {
+      "count": 18292,
+      "percent": 19.3,
+      "nationalPercent": 19.2,
+      "difference": 0.0
+    },
+    "65 and over": {
+      "count": 20007,
+      "percent": 21.1,
+      "nationalPercent": 19.0,
+      "difference": 2.1
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 3503,
+      "percent": 3.7,
+      "nationalPercent": 1.6,
+      "difference": 2.1
+    },
+    "Black, African or Caribbean": {
+      "count": 1140,
+      "percent": 1.2,
+      "nationalPercent": 0.5,
+      "difference": 0.7
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2775,
+      "percent": 2.9,
+      "nationalPercent": 0.8,
+      "difference": 2.1
+    },
+    "White": {
+      "count": 85733,
+      "percent": 91.1,
+      "nationalPercent": 6.2,
+      "difference": 84.9
+    },
+    "Other": {
+      "count": 950,
+      "percent": 1.0,
+      "nationalPercent": 1.6,
+      "difference": -0.6
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 86577,
+      "percent": 92.0,
+      "nationalPercent": 13.9,
+      "difference": 78.1
+    },
+    "European Union": {
+      "count": 3197,
+      "percent": 3.4,
+      "nationalPercent": 0.5,
+      "difference": 2.9
+    },
+    "Rest of world": {
+      "count": 4329,
+      "percent": 4.6,
+      "nationalPercent": 0.3,
+      "difference": 4.3
+    }
+  },
+  "mp": {
+    "name": "Maria Eagle",
+    "party": "Labour",
+    "memberId": 483,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/483/Thumbnail",
+    "email": "maria.eagle@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 20104,
+    "turnout": 41993,
+    "turnoutPercent": 60.6,
+    "electorate": 69282,
+    "validVotes": 41993,
+    "invalidVotes": 155,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Maria Eagle",
+        "votes": 24510,
+        "percent": 58.4,
+        "change": -11.8
+      },
+      {
+        "party": "Reform UK",
+        "name": "Kiera Hubbard",
+        "votes": 4406,
+        "percent": 10.5,
+        "change": 5.6
+      },
+      {
+        "party": "Liverpool Community Independents",
+        "name": "Sam Gorst",
+        "votes": 3294,
+        "percent": 7.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "John Hyland",
+        "votes": 3239,
+        "percent": 7.7,
+        "change": -2.2
+      },
+      {
+        "party": "Conservative",
+        "name": "Daniel Bowman",
+        "votes": 2943,
+        "percent": 7.0,
+        "change": -4.7
+      },
+      {
+        "party": "Green Party",
+        "name": "Muryam Sheikh",
+        "votes": 2816,
+        "percent": 6.7,
+        "change": 4.0
+      },
+      {
+        "party": "Liberal",
+        "name": "Alan Tormey",
+        "votes": 401,
+        "percent": 1.0,
+        "change": 0.3
+      },
+      {
+        "party": "Independent",
+        "name": "Jane Lawrence",
+        "votes": 272,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Workers Revolutionary Party",
+        "name": "Frank Sweeney",
+        "votes": 112,
+        "percent": 0.3,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 390,
+        "percent": 14.9
+      },
+      "Professional, scientific and technical": {
+        "count": 385,
+        "percent": 14.7
+      },
+      "Construction": {
+        "count": 370,
+        "percent": 14.1
+      },
+      "Arts, entertainment and recreation": {
+        "count": 260,
+        "percent": 9.9
+      },
+      "Business admin and support": {
+        "count": 245,
+        "percent": 9.3
+      },
+      "Information and communication": {
+        "count": 165,
+        "percent": 6.3
+      },
+      "Accommodation and food services": {
+        "count": 160,
+        "percent": 6.1
+      },
+      "Health": {
+        "count": 160,
+        "percent": 6.1
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 135,
+        "percent": 5.1
+      },
+      "Property": {
+        "count": 130,
+        "percent": 5.0
+      },
+      "Transport and storage": {
+        "count": 120,
+        "percent": 4.6
+      },
+      "Education": {
+        "count": 65,
+        "percent": 2.5
+      },
+      "Finance and insurance": {
+        "count": 35,
+        "percent": 1.3
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 5,
+        "percent": 0.2
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 10500,
+        "percent": 24.5
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3675,
+        "percent": 8.6
+      },
+      "Health": {
+        "count": 3500,
+        "percent": 8.2
+      },
+      "Transport and storage": {
+        "count": 3500,
+        "percent": 8.2
+      },
+      "Education": {
+        "count": 3000,
+        "percent": 7.0
+      },
+      "Business admin and support": {
+        "count": 3000,
+        "percent": 7.0
+      },
+      "Property": {
+        "count": 2500,
+        "percent": 5.8
+      },
+      "Public admin and defence": {
+        "count": 2500,
+        "percent": 5.8
+      },
+      "Construction": {
+        "count": 2500,
+        "percent": 5.8
+      },
+      "Accommodation and food services": {
+        "count": 2500,
+        "percent": 5.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2000,
+        "percent": 4.7
+      },
+      "Professional, scientific and technical": {
+        "count": 1750,
+        "percent": 4.1
+      },
+      "Finance and insurance": {
+        "count": 1250,
+        "percent": 2.9
+      },
+      "Information and communication": {
+        "count": 600,
+        "percent": 1.4
+      }
+    }
+  },
+  "unemployment": {
+    "count": 2065,
+    "currentRate": 3.6,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.6
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.5
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.6
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 814.1,
+    "annualChange": 5.1,
+    "ukPay": 811.2
+  }
+}

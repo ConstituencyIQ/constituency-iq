@@ -1,0 +1,340 @@
+{
+  "name": "Edinburgh South",
+  "region": "Scotland",
+  "onsCode": "S14000080",
+  "electorate": 70838,
+  "center_lat": 55.91385,
+  "center_lon": -3.16975,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 17415,
+      "percent": 17.2,
+      "nationalPercent": 20.6,
+      "difference": -3.4
+    },
+    "18 to 24": {
+      "count": 14260,
+      "percent": 14.1,
+      "nationalPercent": 8.4,
+      "difference": 5.7
+    },
+    "25 to 34": {
+      "count": 14610,
+      "percent": 14.4,
+      "nationalPercent": 13.5,
+      "difference": 0.9
+    },
+    "35 to 49": {
+      "count": 19177,
+      "percent": 18.9,
+      "nationalPercent": 19.3,
+      "difference": -0.4
+    },
+    "50 to 64": {
+      "count": 17306,
+      "percent": 17.1,
+      "nationalPercent": 19.2,
+      "difference": -2.1
+    },
+    "65 and over": {
+      "count": 18492,
+      "percent": 18.3,
+      "nationalPercent": 19.0,
+      "difference": -0.7
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 84230,
+      "percent": 84.3,
+      "nationalPercent": 3.0,
+      "difference": 81.3
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2713,
+      "percent": 2.7,
+      "nationalPercent": 1.1,
+      "difference": 1.6
+    },
+    "Asian": {
+      "count": 9371,
+      "percent": 9.4,
+      "nationalPercent": 0.6,
+      "difference": 8.8
+    },
+    "Black, African or Caribbean": {
+      "count": 1553,
+      "percent": 1.6,
+      "nationalPercent": 0.1,
+      "difference": 1.5
+    },
+    "Other": {
+      "count": 2009,
+      "percent": 2.0,
+      "nationalPercent": 0.5,
+      "difference": 1.5
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 76719,
+      "percent": 76.8,
+      "nationalPercent": 18.0,
+      "difference": 58.8
+    },
+    "Rest of world": {
+      "count": 14246,
+      "percent": 14.3,
+      "nationalPercent": 0.2,
+      "difference": 14.1
+    },
+    "European Union": {
+      "count": 8895,
+      "percent": 8.9,
+      "nationalPercent": 0.3,
+      "difference": 8.6
+    }
+  },
+  "mp": {
+    "name": "Ian Murray",
+    "party": "Labour",
+    "memberId": 3966,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/3966/Thumbnail",
+    "email": "ian.murray@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 17251,
+    "turnout": 46826,
+    "turnoutPercent": 66.1,
+    "electorate": 70838,
+    "validVotes": 46826,
+    "invalidVotes": 125,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Ian Murray",
+        "votes": 24976,
+        "percent": 53.3,
+        "change": 7.1
+      },
+      {
+        "party": "Scottish National Party",
+        "name": "Simita Kumar",
+        "votes": 7725,
+        "percent": 16.5,
+        "change": -9.4
+      },
+      {
+        "party": "Scottish Green Party",
+        "name": "Jo Phillips",
+        "votes": 4270,
+        "percent": 9.1,
+        "change": 6.2
+      },
+      {
+        "party": "Conservative",
+        "name": "Christopher Cowdy",
+        "votes": 4001,
+        "percent": 8.5,
+        "change": -8.3
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Andy Williamson",
+        "votes": 2746,
+        "percent": 5.9,
+        "change": -2.3
+      },
+      {
+        "party": "Reform UK",
+        "name": "Cameron Rose",
+        "votes": 1845,
+        "percent": 3.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Alex Martin",
+        "votes": 466,
+        "percent": 1.0,
+        "change": "N/A"
+      },
+      {
+        "party": "Alba Party",
+        "name": "Lynne Lyon",
+        "votes": 454,
+        "percent": 1.0,
+        "change": "N/A"
+      },
+      {
+        "party": "Scottish Family Party",
+        "name": "Phil Holden",
+        "votes": 267,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Mark Rowbotham",
+        "votes": 76,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 510,
+        "percent": 21.5
+      },
+      "Retail and wholesale": {
+        "count": 270,
+        "percent": 11.4
+      },
+      "Accommodation and food services": {
+        "count": 240,
+        "percent": 10.1
+      },
+      "Construction": {
+        "count": 230,
+        "percent": 9.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 220,
+        "percent": 9.3
+      },
+      "Information and communication": {
+        "count": 195,
+        "percent": 8.2
+      },
+      "Business admin and support": {
+        "count": 190,
+        "percent": 8.0
+      },
+      "Health": {
+        "count": 170,
+        "percent": 7.2
+      },
+      "Property": {
+        "count": 110,
+        "percent": 4.6
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 85,
+        "percent": 3.6
+      },
+      "Education": {
+        "count": 50,
+        "percent": 2.1
+      },
+      "Transport and storage": {
+        "count": 45,
+        "percent": 1.9
+      },
+      "Finance and insurance": {
+        "count": 35,
+        "percent": 1.5
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 20,
+        "percent": 0.8
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 8000,
+        "percent": 27.9
+      },
+      "Education": {
+        "count": 7000,
+        "percent": 24.4
+      },
+      "Retail and wholesale": {
+        "count": 2800,
+        "percent": 9.8
+      },
+      "Accommodation and food services": {
+        "count": 2250,
+        "percent": 7.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2250,
+        "percent": 7.8
+      },
+      "Professional, scientific and technical": {
+        "count": 1750,
+        "percent": 6.1
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 1250,
+        "percent": 4.4
+      },
+      "Construction": {
+        "count": 800,
+        "percent": 2.8
+      },
+      "Information and communication": {
+        "count": 700,
+        "percent": 2.4
+      },
+      "Business admin and support": {
+        "count": 600,
+        "percent": 2.1
+      },
+      "Property": {
+        "count": 500,
+        "percent": 1.7
+      },
+      "Public admin and defence": {
+        "count": 350,
+        "percent": 1.2
+      },
+      "Transport and storage": {
+        "count": 225,
+        "percent": 0.8
+      },
+      "Finance and insurance": {
+        "count": 200,
+        "percent": 0.7
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1325,
+    "currentRate": 2.0,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 1.7
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.0
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.0
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 911.4,
+    "annualChange": -4.9,
+    "ukPay": 811.2
+  }
+}

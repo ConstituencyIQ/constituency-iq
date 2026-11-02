@@ -1,0 +1,333 @@
+{
+  "name": "Bury South",
+  "region": "England",
+  "onsCode": "E14001145",
+  "electorate": 75326,
+  "center_lat": 53.54494,
+  "center_lon": -2.28814,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 27462,
+      "percent": 24.8,
+      "nationalPercent": 20.6,
+      "difference": 4.3
+    },
+    "18 to 24": {
+      "count": 8584,
+      "percent": 7.8,
+      "nationalPercent": 8.4,
+      "difference": -0.6
+    },
+    "25 to 34": {
+      "count": 15239,
+      "percent": 13.8,
+      "nationalPercent": 13.5,
+      "difference": 0.3
+    },
+    "35 to 49": {
+      "count": 22158,
+      "percent": 20.0,
+      "nationalPercent": 19.3,
+      "difference": 0.7
+    },
+    "50 to 64": {
+      "count": 19173,
+      "percent": 17.3,
+      "nationalPercent": 19.2,
+      "difference": -1.9
+    },
+    "65 and over": {
+      "count": 17942,
+      "percent": 16.2,
+      "nationalPercent": 19.0,
+      "difference": -2.8
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 8819,
+      "percent": 8.3,
+      "nationalPercent": 1.6,
+      "difference": 6.7
+    },
+    "Black, African or Caribbean": {
+      "count": 2787,
+      "percent": 2.6,
+      "nationalPercent": 0.5,
+      "difference": 2.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 3239,
+      "percent": 3.0,
+      "nationalPercent": 0.8,
+      "difference": 2.2
+    },
+    "White": {
+      "count": 88520,
+      "percent": 82.9,
+      "nationalPercent": 6.2,
+      "difference": 76.7
+    },
+    "Other": {
+      "count": 3368,
+      "percent": 3.2,
+      "nationalPercent": 1.6,
+      "difference": 1.6
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 91276,
+      "percent": 85.5,
+      "nationalPercent": 13.9,
+      "difference": 71.6
+    },
+    "European Union": {
+      "count": 5350,
+      "percent": 5.0,
+      "nationalPercent": 0.5,
+      "difference": 4.5
+    },
+    "Rest of world": {
+      "count": 10104,
+      "percent": 9.5,
+      "nationalPercent": 0.3,
+      "difference": 9.2
+    }
+  },
+  "mp": {
+    "name": "Christian Wakeford",
+    "party": "Labour",
+    "memberId": 4871,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4871/Thumbnail",
+    "email": "christian.wakeford@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 9361,
+    "turnout": 42214,
+    "turnoutPercent": 56.0,
+    "electorate": 75326,
+    "validVotes": 42214,
+    "invalidVotes": 170,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Christian Wakeford",
+        "votes": 19247,
+        "percent": 45.6,
+        "change": 4.0
+      },
+      {
+        "party": "Conservative",
+        "name": "Arnie Saunders",
+        "votes": 9886,
+        "percent": 23.4,
+        "change": -20.0
+      },
+      {
+        "party": "Reform UK",
+        "name": "Jeff Armstrong",
+        "votes": 6865,
+        "percent": 16.3,
+        "change": 12.5
+      },
+      {
+        "party": "Green Party",
+        "name": "Michael Welton",
+        "votes": 2715,
+        "percent": 6.4,
+        "change": 4.6
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Andrew Page",
+        "votes": 1796,
+        "percent": 4.3,
+        "change": -1.9
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Sameera Ashraf",
+        "votes": 1023,
+        "percent": 2.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Michael Elston",
+        "votes": 277,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "English Democrats",
+        "name": "Stephen Morris",
+        "votes": 224,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Communist Party of Britain",
+        "name": "Dan Ross",
+        "votes": 181,
+        "percent": 0.4,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 780,
+        "percent": 17.3
+      },
+      "Construction": {
+        "count": 645,
+        "percent": 14.3
+      },
+      "Professional, scientific and technical": {
+        "count": 580,
+        "percent": 12.9
+      },
+      "Property": {
+        "count": 525,
+        "percent": 11.6
+      },
+      "Business admin and support": {
+        "count": 475,
+        "percent": 10.5
+      },
+      "Arts, entertainment and recreation": {
+        "count": 280,
+        "percent": 6.2
+      },
+      "Accommodation and food services": {
+        "count": 250,
+        "percent": 5.5
+      },
+      "Health": {
+        "count": 235,
+        "percent": 5.2
+      },
+      "Information and communication": {
+        "count": 230,
+        "percent": 5.1
+      },
+      "Transport and storage": {
+        "count": 155,
+        "percent": 3.4
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 145,
+        "percent": 3.2
+      },
+      "Education": {
+        "count": 100,
+        "percent": 2.2
+      },
+      "Finance and insurance": {
+        "count": 95,
+        "percent": 2.1
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 15,
+        "percent": 0.3
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 6000,
+        "percent": 17.1
+      },
+      "Retail and wholesale": {
+        "count": 5900,
+        "percent": 16.8
+      },
+      "Professional, scientific and technical": {
+        "count": 4500,
+        "percent": 12.8
+      },
+      "Education": {
+        "count": 4000,
+        "percent": 11.4
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3075,
+        "percent": 8.7
+      },
+      "Accommodation and food services": {
+        "count": 2250,
+        "percent": 6.4
+      },
+      "Business admin and support": {
+        "count": 2250,
+        "percent": 6.4
+      },
+      "Construction": {
+        "count": 2000,
+        "percent": 5.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1500,
+        "percent": 4.3
+      },
+      "Property": {
+        "count": 1250,
+        "percent": 3.6
+      },
+      "Transport and storage": {
+        "count": 900,
+        "percent": 2.6
+      },
+      "Public admin and defence": {
+        "count": 700,
+        "percent": 2.0
+      },
+      "Information and communication": {
+        "count": 600,
+        "percent": 1.7
+      },
+      "Finance and insurance": {
+        "count": 225,
+        "percent": 0.6
+      }
+    }
+  },
+  "unemployment": {
+    "count": 2855,
+    "currentRate": 4.2,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 4.0
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 4.1
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 4.2
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 766.5,
+    "annualChange": -0.5,
+    "ukPay": 811.2
+  }
+}

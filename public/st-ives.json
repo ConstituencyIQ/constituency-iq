@@ -1,0 +1,333 @@
+{
+  "name": "St Ives",
+  "region": "England",
+  "onsCode": "E14001511",
+  "electorate": 69978,
+  "center_lat": 50.08931,
+  "center_lon": -5.61143,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 15027,
+      "percent": 16.8,
+      "nationalPercent": 20.6,
+      "difference": -3.8
+    },
+    "18 to 24": {
+      "count": 5402,
+      "percent": 6.0,
+      "nationalPercent": 8.4,
+      "difference": -2.3
+    },
+    "25 to 34": {
+      "count": 8285,
+      "percent": 9.2,
+      "nationalPercent": 13.5,
+      "difference": -4.2
+    },
+    "35 to 49": {
+      "count": 14403,
+      "percent": 16.1,
+      "nationalPercent": 19.3,
+      "difference": -3.3
+    },
+    "50 to 64": {
+      "count": 20546,
+      "percent": 22.9,
+      "nationalPercent": 19.2,
+      "difference": 3.7
+    },
+    "65 and over": {
+      "count": 25912,
+      "percent": 28.9,
+      "nationalPercent": 19.0,
+      "difference": 9.9
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 521,
+      "percent": 0.6,
+      "nationalPercent": 1.6,
+      "difference": -1.0
+    },
+    "Black, African or Caribbean": {
+      "count": 175,
+      "percent": 0.2,
+      "nationalPercent": 0.5,
+      "difference": -0.3
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1111,
+      "percent": 1.3,
+      "nationalPercent": 0.8,
+      "difference": 0.5
+    },
+    "White": {
+      "count": 85406,
+      "percent": 96.5,
+      "nationalPercent": 6.2,
+      "difference": 90.3
+    },
+    "Other": {
+      "count": 1295,
+      "percent": 1.5,
+      "nationalPercent": 1.6,
+      "difference": -0.1
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 84050,
+      "percent": 95.0,
+      "nationalPercent": 13.9,
+      "difference": 81.1
+    },
+    "European Union": {
+      "count": 2123,
+      "percent": 2.4,
+      "nationalPercent": 0.5,
+      "difference": 1.9
+    },
+    "Rest of world": {
+      "count": 2329,
+      "percent": 2.6,
+      "nationalPercent": 0.3,
+      "difference": 2.3
+    }
+  },
+  "mp": {
+    "name": "Andrew George",
+    "party": "Liberal Democrat",
+    "memberId": 227,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/227/Thumbnail",
+    "email": "andrew.george@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "LD gain from Con",
+    "majority": 13786,
+    "turnout": 48106,
+    "turnoutPercent": 68.7,
+    "electorate": 69978,
+    "validVotes": 48106,
+    "invalidVotes": 150,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Liberal Democrat",
+        "name": "Andrew George",
+        "votes": 25033,
+        "percent": 52.0,
+        "change": 12.7
+      },
+      {
+        "party": "Conservative",
+        "name": "Derek Thomas",
+        "votes": 11247,
+        "percent": 23.4,
+        "change": -25.6
+      },
+      {
+        "party": "Reform UK",
+        "name": "Giane Mortimer",
+        "votes": 6492,
+        "percent": 13.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Labour",
+        "name": "Filson Ali",
+        "votes": 2788,
+        "percent": 5.8,
+        "change": -3.3
+      },
+      {
+        "party": "Green Party",
+        "name": "Ian Flindall",
+        "votes": 1797,
+        "percent": 3.7,
+        "change": 1.9
+      },
+      {
+        "party": "Independent",
+        "name": "Dave Laity",
+        "votes": 360,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal",
+        "name": "Paul Nicholson",
+        "votes": 187,
+        "percent": 0.4,
+        "change": -0.2
+      },
+      {
+        "party": "UK Independence Party",
+        "name": "Jason Saunders",
+        "votes": 111,
+        "percent": 0.2,
+        "change": "N/A"
+      },
+      {
+        "party": "The Common People",
+        "name": "John Harris",
+        "votes": 91,
+        "percent": 0.2,
+        "change": -0.1
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Agriculture, forestry and fishing": {
+        "count": 720,
+        "percent": 17.5
+      },
+      "Construction": {
+        "count": 570,
+        "percent": 13.9
+      },
+      "Retail and wholesale": {
+        "count": 570,
+        "percent": 13.9
+      },
+      "Accommodation and food services": {
+        "count": 555,
+        "percent": 13.5
+      },
+      "Professional, scientific and technical": {
+        "count": 355,
+        "percent": 8.6
+      },
+      "Business admin and support": {
+        "count": 270,
+        "percent": 6.6
+      },
+      "Arts, entertainment and recreation": {
+        "count": 235,
+        "percent": 5.7
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 220,
+        "percent": 5.3
+      },
+      "Transport and storage": {
+        "count": 135,
+        "percent": 3.3
+      },
+      "Information and communication": {
+        "count": 135,
+        "percent": 3.3
+      },
+      "Health": {
+        "count": 125,
+        "percent": 3.0
+      },
+      "Property": {
+        "count": 115,
+        "percent": 2.8
+      },
+      "Education": {
+        "count": 45,
+        "percent": 1.1
+      },
+      "Finance and insurance": {
+        "count": 35,
+        "percent": 0.9
+      },
+      "Public admin and defence": {
+        "count": 30,
+        "percent": 0.7
+      }
+    },
+    "employees": {
+      "Accommodation and food services": {
+        "count": 7000,
+        "percent": 23.2
+      },
+      "Retail and wholesale": {
+        "count": 5750,
+        "percent": 19.1
+      },
+      "Health": {
+        "count": 3500,
+        "percent": 11.6
+      },
+      "Education": {
+        "count": 2250,
+        "percent": 7.5
+      },
+      "Professional, scientific and technical": {
+        "count": 2000,
+        "percent": 6.6
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2000,
+        "percent": 6.6
+      },
+      "Construction": {
+        "count": 2000,
+        "percent": 6.6
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 1475,
+        "percent": 4.9
+      },
+      "Business admin and support": {
+        "count": 1250,
+        "percent": 4.1
+      },
+      "Transport and storage": {
+        "count": 1000,
+        "percent": 3.3
+      },
+      "Information and communication": {
+        "count": 700,
+        "percent": 2.3
+      },
+      "Public admin and defence": {
+        "count": 600,
+        "percent": 2.0
+      },
+      "Property": {
+        "count": 350,
+        "percent": 1.2
+      },
+      "Finance and insurance": {
+        "count": 250,
+        "percent": 0.8
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1520,
+    "currentRate": 3.0,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.9
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.0
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.0
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 628.5,
+    "annualChange": 2.3,
+    "ukPay": 811.2
+  }
+}

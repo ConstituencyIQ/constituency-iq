@@ -1,0 +1,194 @@
+{
+  "name": "Corby and East Northamptonshire",
+  "region": "England",
+  "onsCode": "E14001179",
+  "electorate": 78770,
+  "center_lat": 52.48009,
+  "center_lon": -0.49382,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 27975,
+      "percent": 23.1,
+      "nationalPercent": 20.6,
+      "difference": 2.6
+    },
+    "18 to 24": {
+      "count": 7542,
+      "percent": 6.2,
+      "nationalPercent": 8.4,
+      "difference": -2.1
+    },
+    "25 to 34": {
+      "count": 15214,
+      "percent": 12.6,
+      "nationalPercent": 13.5,
+      "difference": -0.9
+    },
+    "35 to 49": {
+      "count": 24847,
+      "percent": 20.5,
+      "nationalPercent": 19.3,
+      "difference": 1.2
+    },
+    "50 to 64": {
+      "count": 23995,
+      "percent": 19.8,
+      "nationalPercent": 19.2,
+      "difference": 0.6
+    },
+    "65 and over": {
+      "count": 21411,
+      "percent": 17.7,
+      "nationalPercent": 19.0,
+      "difference": -1.3
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 2111,
+      "percent": 1.8,
+      "nationalPercent": 1.6,
+      "difference": 0.2
+    },
+    "Black, African or Caribbean": {
+      "count": 2904,
+      "percent": 2.5,
+      "nationalPercent": 0.5,
+      "difference": 2.0
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2014,
+      "percent": 1.7,
+      "nationalPercent": 0.8,
+      "difference": 0.9
+    },
+    "White": {
+      "count": 108622,
+      "percent": 93.2,
+      "nationalPercent": 6.2,
+      "difference": 87.0
+    },
+    "Other": {
+      "count": 940,
+      "percent": 0.8,
+      "nationalPercent": 1.6,
+      "difference": -0.8
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 97076,
+      "percent": 83.3,
+      "nationalPercent": 13.9,
+      "difference": 69.4
+    },
+    "European Union": {
+      "count": 12825,
+      "percent": 11.0,
+      "nationalPercent": 0.5,
+      "difference": 10.5
+    },
+    "Rest of world": {
+      "count": 6695,
+      "percent": 5.7,
+      "nationalPercent": 0.3,
+      "difference": 5.4
+    }
+  },
+  "mp": {
+    "name": "Lee Barron",
+    "party": "Labour",
+    "memberId": 5315,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5315/Thumbnail",
+    "email": "lee.barron@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 6331,
+    "turnout": 49589,
+    "turnoutPercent": 63.0,
+    "electorate": 78770,
+    "validVotes": 49589,
+    "invalidVotes": 165,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Lee Barron",
+        "votes": 21020,
+        "percent": 42.4,
+        "change": 3.9
+      },
+      {
+        "party": "Conservative",
+        "name": "Tom Pursglove",
+        "votes": 14689,
+        "percent": 29.6,
+        "change": -25.0
+      },
+      {
+        "party": "Reform UK",
+        "name": "Eddie McDonald",
+        "votes": 8760,
+        "percent": 17.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Lee Forster",
+        "votes": 2507,
+        "percent": 5.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Chris Lofts",
+        "votes": 2191,
+        "percent": 4.4,
+        "change": -2.4
+      },
+      {
+        "party": "Independent",
+        "name": "Karen Blott",
+        "votes": 422,
+        "percent": 0.9,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 2475,
+    "currentRate": 3.3,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.0
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.2
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.3
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 755.1,
+    "annualChange": 2.0,
+    "ukPay": 811.2
+  }
+}

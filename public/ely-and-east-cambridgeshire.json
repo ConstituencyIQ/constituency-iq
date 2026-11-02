@@ -1,0 +1,215 @@
+{
+  "name": "Ely and East Cambridgeshire",
+  "region": "England",
+  "onsCode": "E14001224",
+  "electorate": 79112,
+  "center_lat": 52.33506,
+  "center_lon": 0.26286,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 23152,
+      "percent": 20.7,
+      "nationalPercent": 20.6,
+      "difference": 0.2
+    },
+    "18 to 24": {
+      "count": 6438,
+      "percent": 5.8,
+      "nationalPercent": 8.4,
+      "difference": -2.6
+    },
+    "25 to 34": {
+      "count": 13292,
+      "percent": 11.9,
+      "nationalPercent": 13.5,
+      "difference": -1.6
+    },
+    "35 to 49": {
+      "count": 22859,
+      "percent": 20.5,
+      "nationalPercent": 19.3,
+      "difference": 1.1
+    },
+    "50 to 64": {
+      "count": 22723,
+      "percent": 20.3,
+      "nationalPercent": 19.2,
+      "difference": 1.1
+    },
+    "65 and over": {
+      "count": 23241,
+      "percent": 20.8,
+      "nationalPercent": 19.0,
+      "difference": 1.8
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 2614,
+      "percent": 2.5,
+      "nationalPercent": 1.6,
+      "difference": 0.9
+    },
+    "Black, African or Caribbean": {
+      "count": 918,
+      "percent": 0.9,
+      "nationalPercent": 0.5,
+      "difference": 0.4
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2399,
+      "percent": 2.3,
+      "nationalPercent": 0.8,
+      "difference": 1.5
+    },
+    "White": {
+      "count": 98743,
+      "percent": 93.6,
+      "nationalPercent": 6.2,
+      "difference": 87.4
+    },
+    "Other": {
+      "count": 795,
+      "percent": 0.8,
+      "nationalPercent": 1.6,
+      "difference": -0.8
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 92039,
+      "percent": 87.3,
+      "nationalPercent": 13.9,
+      "difference": 73.4
+    },
+    "European Union": {
+      "count": 6809,
+      "percent": 6.5,
+      "nationalPercent": 0.5,
+      "difference": 6.0
+    },
+    "Rest of world": {
+      "count": 6625,
+      "percent": 6.3,
+      "nationalPercent": 0.3,
+      "difference": 6.0
+    }
+  },
+  "mp": {
+    "name": "Charlotte Cane",
+    "party": "Liberal Democrat",
+    "memberId": 5182,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5182/Thumbnail",
+    "email": "charlotte.cane@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "LD gain from Con",
+    "majority": 495,
+    "turnout": 52369,
+    "turnoutPercent": 66.2,
+    "electorate": 79112,
+    "validVotes": 52369,
+    "invalidVotes": 155,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Liberal Democrat",
+        "name": "Charlotte Cane",
+        "votes": 17127,
+        "percent": 32.7,
+        "change": 3.4
+      },
+      {
+        "party": "Conservative",
+        "name": "Lucy Frazer",
+        "votes": 16632,
+        "percent": 31.8,
+        "change": -22.2
+      },
+      {
+        "party": "Labour",
+        "name": "Elizabeth McWilliams",
+        "votes": 9160,
+        "percent": 17.5,
+        "change": 3.1
+      },
+      {
+        "party": "Reform UK",
+        "name": "Ryan Coogan",
+        "votes": 6443,
+        "percent": 12.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Andy Cogan",
+        "votes": 2359,
+        "percent": 4.5,
+        "change": 3.9
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "name": "Hoo-Ray Henry",
+        "votes": 271,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Robert Bayley",
+        "votes": 172,
+        "percent": 0.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Obi Monye",
+        "votes": 103,
+        "percent": 0.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Rob Rawlins",
+        "votes": 102,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 1505,
+    "currentRate": 2.2,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.1
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.2
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.2
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 882.5,
+    "annualChange": 11.0,
+    "ukPay": 811.2
+  }
+}

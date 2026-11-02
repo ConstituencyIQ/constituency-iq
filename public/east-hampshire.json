@@ -1,0 +1,201 @@
+{
+  "name": "East Hampshire",
+  "region": "England",
+  "onsCode": "E14001214",
+  "electorate": 70659,
+  "center_lat": 51.05251,
+  "center_lon": -0.96872,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 17697,
+      "percent": 19.0,
+      "nationalPercent": 20.6,
+      "difference": -1.5
+    },
+    "18 to 24": {
+      "count": 5249,
+      "percent": 5.6,
+      "nationalPercent": 8.4,
+      "difference": -2.7
+    },
+    "25 to 34": {
+      "count": 8724,
+      "percent": 9.4,
+      "nationalPercent": 13.5,
+      "difference": -4.1
+    },
+    "35 to 49": {
+      "count": 16378,
+      "percent": 17.6,
+      "nationalPercent": 19.3,
+      "difference": -1.7
+    },
+    "50 to 64": {
+      "count": 20922,
+      "percent": 22.5,
+      "nationalPercent": 19.2,
+      "difference": 3.3
+    },
+    "65 and over": {
+      "count": 24022,
+      "percent": 25.8,
+      "nationalPercent": 19.0,
+      "difference": 6.8
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 1409,
+      "percent": 1.6,
+      "nationalPercent": 1.6,
+      "difference": 0.0
+    },
+    "Black, African or Caribbean": {
+      "count": 388,
+      "percent": 0.4,
+      "nationalPercent": 0.5,
+      "difference": -0.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1395,
+      "percent": 1.5,
+      "nationalPercent": 0.8,
+      "difference": 0.7
+    },
+    "White": {
+      "count": 87266,
+      "percent": 96.0,
+      "nationalPercent": 6.2,
+      "difference": 89.8
+    },
+    "Other": {
+      "count": 400,
+      "percent": 0.4,
+      "nationalPercent": 1.6,
+      "difference": -1.2
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 82941,
+      "percent": 91.3,
+      "nationalPercent": 13.9,
+      "difference": 77.4
+    },
+    "European Union": {
+      "count": 3271,
+      "percent": 3.6,
+      "nationalPercent": 0.5,
+      "difference": 3.1
+    },
+    "Rest of world": {
+      "count": 4645,
+      "percent": 5.1,
+      "nationalPercent": 0.3,
+      "difference": 4.8
+    }
+  },
+  "mp": {
+    "name": "Damian Hinds",
+    "party": "Conservative",
+    "memberId": 3969,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/3969/Thumbnail",
+    "email": "damian.hinds@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Con hold",
+    "majority": 1275,
+    "turnout": 50006,
+    "turnoutPercent": 70.8,
+    "electorate": 70659,
+    "validVotes": 50006,
+    "invalidVotes": 157,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Conservative",
+        "name": "Damian Hinds",
+        "votes": 18509,
+        "percent": 37.0,
+        "change": -22.0
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Dominic Martin",
+        "votes": 17234,
+        "percent": 34.5,
+        "change": 12.7
+      },
+      {
+        "party": "Reform UK",
+        "name": "Matthew Kellermann",
+        "votes": 6476,
+        "percent": 13.0,
+        "change": "N/A"
+      },
+      {
+        "party": "Labour",
+        "name": "Lucy Sims",
+        "votes": 4867,
+        "percent": 9.7,
+        "change": -2.6
+      },
+      {
+        "party": "Green Party",
+        "name": "Richard Knight",
+        "votes": 2404,
+        "percent": 4.8,
+        "change": -0.7
+      },
+      {
+        "party": "Hampshire Independents",
+        "name": "Jim Makin",
+        "votes": 364,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Sara Smith",
+        "votes": 152,
+        "percent": 0.3,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 1145,
+    "currentRate": 2.1,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 1.9
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.0
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.1
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 872.5,
+    "annualChange": -1.0,
+    "ukPay": 811.2
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "name": "Forest of Dean",
+  "region": "England",
+  "onsCode": "E14001240",
+  "electorate": 72857,
+  "center_lat": 51.81537,
+  "center_lon": -2.54765,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 17404,
+      "percent": 18.4,
+      "nationalPercent": 20.6,
+      "difference": -2.2
+    },
+    "18 to 24": {
+      "count": 6169,
+      "percent": 6.5,
+      "nationalPercent": 8.4,
+      "difference": -1.8
+    },
+    "25 to 34": {
+      "count": 9767,
+      "percent": 10.3,
+      "nationalPercent": 13.5,
+      "difference": -3.2
+    },
+    "35 to 49": {
+      "count": 15552,
+      "percent": 16.5,
+      "nationalPercent": 19.3,
+      "difference": -2.9
+    },
+    "50 to 64": {
+      "count": 21264,
+      "percent": 22.5,
+      "nationalPercent": 19.2,
+      "difference": 3.3
+    },
+    "65 and over": {
+      "count": 24360,
+      "percent": 25.8,
+      "nationalPercent": 19.0,
+      "difference": 6.8
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 674,
+      "percent": 0.7,
+      "nationalPercent": 1.6,
+      "difference": -0.9
+    },
+    "Black, African or Caribbean": {
+      "count": 267,
+      "percent": 0.3,
+      "nationalPercent": 0.5,
+      "difference": -0.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1003,
+      "percent": 1.1,
+      "nationalPercent": 0.8,
+      "difference": 0.3
+    },
+    "White": {
+      "count": 89252,
+      "percent": 97.5,
+      "nationalPercent": 6.2,
+      "difference": 91.3
+    },
+    "Other": {
+      "count": 363,
+      "percent": 0.4,
+      "nationalPercent": 1.6,
+      "difference": -1.2
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 86858,
+      "percent": 94.9,
+      "nationalPercent": 13.9,
+      "difference": 81.0
+    },
+    "European Union": {
+      "count": 2352,
+      "percent": 2.6,
+      "nationalPercent": 0.5,
+      "difference": 2.1
+    },
+    "Rest of world": {
+      "count": 2345,
+      "percent": 2.6,
+      "nationalPercent": 0.3,
+      "difference": 2.3
+    }
+  },
+  "mp": {
+    "name": "Matt Bishop",
+    "party": "Labour",
+    "memberId": 5323,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5323/Thumbnail",
+    "email": "matt.bishop@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 278,
+    "turnout": 48091,
+    "turnoutPercent": 66.0,
+    "electorate": 72857,
+    "validVotes": 48091,
+    "invalidVotes": 233,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Matt Bishop",
+        "votes": 16373,
+        "percent": 34.0,
+        "change": 5.3
+      },
+      {
+        "party": "Conservative",
+        "name": "Mark Harper",
+        "votes": 16095,
+        "percent": 33.5,
+        "change": -26.1
+      },
+      {
+        "party": "Reform UK",
+        "name": "Stan Goodin",
+        "votes": 8194,
+        "percent": 17.0,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Chris McFarling",
+        "votes": 4735,
+        "percent": 9.8,
+        "change": 0.8
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "James Joyce",
+        "votes": 2604,
+        "percent": 5.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Socialist Labour Party",
+        "name": "Saiham Sikder",
+        "votes": 90,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 0,
+    "currentRate": 0.0,
+    "history": []
+  },
+  "wage": {
+    "medianWeeklyPay": 861.3,
+    "annualChange": 3.3,
+    "ukPay": 811.2
+  }
+}

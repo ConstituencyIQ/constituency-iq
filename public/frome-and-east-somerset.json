@@ -1,0 +1,201 @@
+{
+  "name": "Frome and East Somerset",
+  "region": "England",
+  "onsCode": "E14001241",
+  "electorate": 71593,
+  "center_lat": 51.23778,
+  "center_lon": -2.40775,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19612,
+      "percent": 20.8,
+      "nationalPercent": 20.6,
+      "difference": 0.3
+    },
+    "18 to 24": {
+      "count": 6325,
+      "percent": 6.7,
+      "nationalPercent": 8.4,
+      "difference": -1.6
+    },
+    "25 to 34": {
+      "count": 9691,
+      "percent": 10.3,
+      "nationalPercent": 13.5,
+      "difference": -3.2
+    },
+    "35 to 49": {
+      "count": 16741,
+      "percent": 17.8,
+      "nationalPercent": 19.3,
+      "difference": -1.5
+    },
+    "50 to 64": {
+      "count": 20289,
+      "percent": 21.6,
+      "nationalPercent": 19.2,
+      "difference": 2.3
+    },
+    "65 and over": {
+      "count": 21410,
+      "percent": 22.8,
+      "nationalPercent": 19.0,
+      "difference": 3.8
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 938,
+      "percent": 1.0,
+      "nationalPercent": 1.6,
+      "difference": -0.6
+    },
+    "Black, African or Caribbean": {
+      "count": 325,
+      "percent": 0.4,
+      "nationalPercent": 0.5,
+      "difference": -0.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1389,
+      "percent": 1.5,
+      "nationalPercent": 0.8,
+      "difference": 0.7
+    },
+    "White": {
+      "count": 89218,
+      "percent": 96.8,
+      "nationalPercent": 6.2,
+      "difference": 90.6
+    },
+    "Other": {
+      "count": 276,
+      "percent": 0.3,
+      "nationalPercent": 1.6,
+      "difference": -1.3
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 86042,
+      "percent": 93.4,
+      "nationalPercent": 13.9,
+      "difference": 79.5
+    },
+    "European Union": {
+      "count": 2934,
+      "percent": 3.2,
+      "nationalPercent": 0.5,
+      "difference": 2.7
+    },
+    "Rest of world": {
+      "count": 3167,
+      "percent": 3.4,
+      "nationalPercent": 0.3,
+      "difference": 3.1
+    }
+  },
+  "mp": {
+    "name": "Anna Sabine",
+    "party": "Liberal Democrat",
+    "memberId": 5286,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5286/Thumbnail",
+    "email": "anna.sabine@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "LD gain from Con",
+    "majority": 5415,
+    "turnout": 46716,
+    "turnoutPercent": 65.3,
+    "electorate": 71593,
+    "validVotes": 46716,
+    "invalidVotes": 143,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Liberal Democrat",
+        "name": "Anna Sabine",
+        "votes": 16580,
+        "percent": 35.5,
+        "change": 12.0
+      },
+      {
+        "party": "Conservative",
+        "name": "Lucy Trimnell",
+        "votes": 11165,
+        "percent": 23.9,
+        "change": -25.4
+      },
+      {
+        "party": "Reform UK",
+        "name": "David Swain",
+        "votes": 6441,
+        "percent": 13.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Labour",
+        "name": "Robin Moss",
+        "votes": 6416,
+        "percent": 13.7,
+        "change": -7.4
+      },
+      {
+        "party": "Green Party",
+        "name": "Martin Dimery",
+        "votes": 5083,
+        "percent": 10.9,
+        "change": 4.8
+      },
+      {
+        "party": "Independent",
+        "name": "Shaun Hughes",
+        "votes": 737,
+        "percent": 1.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Gavin Heathcote",
+        "votes": 294,
+        "percent": 0.6,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 1355,
+    "currentRate": 2.4,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.4
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.4
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.4
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 849.8,
+    "annualChange": 20.0,
+    "ukPay": 811.2
+  }
+}

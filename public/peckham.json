@@ -1,0 +1,340 @@
+{
+  "name": "Peckham",
+  "region": "England",
+  "onsCode": "E14001421",
+  "electorate": 72127,
+  "center_lat": 51.47746,
+  "center_lon": -0.06927,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 20381,
+      "percent": 18.2,
+      "nationalPercent": 20.6,
+      "difference": -2.4
+    },
+    "18 to 24": {
+      "count": 13309,
+      "percent": 11.9,
+      "nationalPercent": 8.4,
+      "difference": 3.5
+    },
+    "25 to 34": {
+      "count": 26585,
+      "percent": 23.8,
+      "nationalPercent": 13.5,
+      "difference": 10.3
+    },
+    "35 to 49": {
+      "count": 22852,
+      "percent": 20.4,
+      "nationalPercent": 19.3,
+      "difference": 1.1
+    },
+    "50 to 64": {
+      "count": 18716,
+      "percent": 16.7,
+      "nationalPercent": 19.2,
+      "difference": -2.5
+    },
+    "65 and over": {
+      "count": 10022,
+      "percent": 9.0,
+      "nationalPercent": 19.0,
+      "difference": -10.0
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 9788,
+      "percent": 9.1,
+      "nationalPercent": 1.6,
+      "difference": 7.5
+    },
+    "Black, African or Caribbean": {
+      "count": 37159,
+      "percent": 34.4,
+      "nationalPercent": 0.5,
+      "difference": 33.9
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 7950,
+      "percent": 7.4,
+      "nationalPercent": 0.8,
+      "difference": 6.6
+    },
+    "White": {
+      "count": 44823,
+      "percent": 41.5,
+      "nationalPercent": 6.2,
+      "difference": 35.3
+    },
+    "Other": {
+      "count": 8385,
+      "percent": 7.8,
+      "nationalPercent": 1.6,
+      "difference": 6.2
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 62221,
+      "percent": 57.6,
+      "nationalPercent": 13.9,
+      "difference": 43.7
+    },
+    "European Union": {
+      "count": 10929,
+      "percent": 10.1,
+      "nationalPercent": 0.5,
+      "difference": 9.6
+    },
+    "Rest of world": {
+      "count": 34955,
+      "percent": 32.3,
+      "nationalPercent": 0.3,
+      "difference": 32.0
+    }
+  },
+  "mp": {
+    "name": "Miatta Fahnbulleh",
+    "party": "Labour (Co-op)",
+    "memberId": 5099,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5099/Thumbnail",
+    "email": "miatta.fahnbulleh@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 15228,
+    "turnout": 38797,
+    "turnoutPercent": 53.8,
+    "electorate": 72127,
+    "validVotes": 38797,
+    "invalidVotes": 226,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Miatta Fahnbulleh",
+        "votes": 22813,
+        "percent": 58.8,
+        "change": -12.0
+      },
+      {
+        "party": "Green Party",
+        "name": "Claire Sheppard",
+        "votes": 7585,
+        "percent": 19.6,
+        "change": 14.5
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "David Watson",
+        "votes": 2724,
+        "percent": 7.0,
+        "change": -3.4
+      },
+      {
+        "party": "Conservative",
+        "name": "Ben Mascall",
+        "votes": 2276,
+        "percent": 5.9,
+        "change": -5.4
+      },
+      {
+        "party": "Reform UK",
+        "name": "Linda Purcell",
+        "votes": 1790,
+        "percent": 4.6,
+        "change": 2.3
+      },
+      {
+        "party": "Independent",
+        "name": "Jennifer Blake",
+        "votes": 555,
+        "percent": 1.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Workers Revolutionary Party",
+        "name": "Mariatu Kargbo",
+        "votes": 355,
+        "percent": 0.9,
+        "change": 0.6
+      },
+      {
+        "party": "Rejoin EU",
+        "name": "Alex Kerr",
+        "votes": 285,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "The Yoruba Party in the UK",
+        "name": "Olusola Oni",
+        "votes": 261,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Stefan Harvey",
+        "votes": 153,
+        "percent": 0.4,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 585,
+        "percent": 17.1
+      },
+      "Retail and wholesale": {
+        "count": 525,
+        "percent": 15.4
+      },
+      "Arts, entertainment and recreation": {
+        "count": 440,
+        "percent": 12.9
+      },
+      "Information and communication": {
+        "count": 405,
+        "percent": 11.8
+      },
+      "Accommodation and food services": {
+        "count": 375,
+        "percent": 11.0
+      },
+      "Business admin and support": {
+        "count": 275,
+        "percent": 8.0
+      },
+      "Construction": {
+        "count": 240,
+        "percent": 7.0
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 150,
+        "percent": 4.4
+      },
+      "Health": {
+        "count": 145,
+        "percent": 4.2
+      },
+      "Transport and storage": {
+        "count": 100,
+        "percent": 2.9
+      },
+      "Property": {
+        "count": 80,
+        "percent": 2.3
+      },
+      "Education": {
+        "count": 80,
+        "percent": 2.3
+      },
+      "Finance and insurance": {
+        "count": 15,
+        "percent": 0.4
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 5,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 8000,
+        "percent": 23.5
+      },
+      "Public admin and defence": {
+        "count": 7000,
+        "percent": 20.5
+      },
+      "Retail and wholesale": {
+        "count": 3825,
+        "percent": 11.2
+      },
+      "Education": {
+        "count": 3000,
+        "percent": 8.8
+      },
+      "Accommodation and food services": {
+        "count": 3000,
+        "percent": 8.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2000,
+        "percent": 5.9
+      },
+      "Professional, scientific and technical": {
+        "count": 1500,
+        "percent": 4.4
+      },
+      "Business admin and support": {
+        "count": 1500,
+        "percent": 4.4
+      },
+      "Transport and storage": {
+        "count": 1250,
+        "percent": 3.7
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 915,
+        "percent": 2.7
+      },
+      "Information and communication": {
+        "count": 900,
+        "percent": 2.6
+      },
+      "Construction": {
+        "count": 600,
+        "percent": 1.8
+      },
+      "Property": {
+        "count": 350,
+        "percent": 1.0
+      },
+      "Finance and insurance": {
+        "count": 225,
+        "percent": 0.7
+      }
+    }
+  },
+  "unemployment": {
+    "count": 5665,
+    "currentRate": 6.7,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 6.8
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 6.5
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 6.7
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 902.3,
+    "annualChange": 8.1,
+    "ukPay": 811.2
+  }
+}

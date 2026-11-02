@@ -1,0 +1,340 @@
+{
+  "name": "Dundee Central",
+  "region": "Scotland",
+  "onsCode": "S14000075",
+  "electorate": 74221,
+  "center_lat": 56.47651,
+  "center_lon": -3.00955,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 18074,
+      "percent": 17.1,
+      "nationalPercent": 20.6,
+      "difference": -3.5
+    },
+    "18 to 24": {
+      "count": 15202,
+      "percent": 14.4,
+      "nationalPercent": 8.4,
+      "difference": 6.0
+    },
+    "25 to 34": {
+      "count": 17076,
+      "percent": 16.2,
+      "nationalPercent": 13.5,
+      "difference": 2.7
+    },
+    "35 to 49": {
+      "count": 19253,
+      "percent": 18.2,
+      "nationalPercent": 19.3,
+      "difference": -1.1
+    },
+    "50 to 64": {
+      "count": 18105,
+      "percent": 17.1,
+      "nationalPercent": 19.2,
+      "difference": -2.1
+    },
+    "65 and over": {
+      "count": 17867,
+      "percent": 16.9,
+      "nationalPercent": 19.0,
+      "difference": -2.1
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 92689,
+      "percent": 87.5,
+      "nationalPercent": 3.0,
+      "difference": 84.5
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1597,
+      "percent": 1.5,
+      "nationalPercent": 1.1,
+      "difference": 0.4
+    },
+    "Asian": {
+      "count": 7774,
+      "percent": 7.3,
+      "nationalPercent": 0.6,
+      "difference": 6.7
+    },
+    "Black, African or Caribbean": {
+      "count": 2108,
+      "percent": 2.0,
+      "nationalPercent": 0.1,
+      "difference": 1.9
+    },
+    "Other": {
+      "count": 1706,
+      "percent": 1.6,
+      "nationalPercent": 0.5,
+      "difference": 1.1
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 89597,
+      "percent": 84.6,
+      "nationalPercent": 18.0,
+      "difference": 66.6
+    },
+    "Rest of world": {
+      "count": 9924,
+      "percent": 9.4,
+      "nationalPercent": 0.2,
+      "difference": 9.2
+    },
+    "European Union": {
+      "count": 6375,
+      "percent": 6.0,
+      "nationalPercent": 0.3,
+      "difference": 5.7
+    }
+  },
+  "mp": {
+    "name": "Chris Law",
+    "party": "Scottish National Party",
+    "memberId": 4403,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4403/Thumbnail",
+    "email": "chris.law@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "SNP hold",
+    "majority": 675,
+    "turnout": 38848,
+    "turnoutPercent": 52.3,
+    "electorate": 74221,
+    "validVotes": 38848,
+    "invalidVotes": 153,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Scottish National Party",
+        "name": "Chris Law",
+        "votes": 15544,
+        "percent": 40.0,
+        "change": -16.5
+      },
+      {
+        "party": "Labour",
+        "name": "Richard McCready",
+        "votes": 14869,
+        "percent": 38.3,
+        "change": 14.4
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Daniel Coleman",
+        "votes": 2402,
+        "percent": 6.2,
+        "change": 0.6
+      },
+      {
+        "party": "Reform UK",
+        "name": "Vicky McCann",
+        "votes": 2363,
+        "percent": 6.1,
+        "change": 3.5
+      },
+      {
+        "party": "Conservative",
+        "name": "Emma Farquhar",
+        "votes": 1569,
+        "percent": 4.0,
+        "change": -7.0
+      },
+      {
+        "party": "Alba Party",
+        "name": "Alan Ross",
+        "votes": 813,
+        "percent": 2.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Trade Unionist and Socialist Coalition",
+        "name": "Jim McFarlane",
+        "votes": 600,
+        "percent": 1.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Scottish Family Party",
+        "name": "Susan Ettle",
+        "votes": 357,
+        "percent": 0.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Raymond Mennie",
+        "votes": 192,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Niko Omilana",
+        "votes": 139,
+        "percent": 0.4,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 460,
+        "percent": 18.1
+      },
+      "Construction": {
+        "count": 330,
+        "percent": 13.0
+      },
+      "Professional, scientific and technical": {
+        "count": 295,
+        "percent": 11.6
+      },
+      "Accommodation and food services": {
+        "count": 275,
+        "percent": 10.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 255,
+        "percent": 10.0
+      },
+      "Property": {
+        "count": 150,
+        "percent": 5.9
+      },
+      "Business admin and support": {
+        "count": 150,
+        "percent": 5.9
+      },
+      "Health": {
+        "count": 150,
+        "percent": 5.9
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 140,
+        "percent": 5.5
+      },
+      "Information and communication": {
+        "count": 115,
+        "percent": 4.5
+      },
+      "Transport and storage": {
+        "count": 110,
+        "percent": 4.3
+      },
+      "Finance and insurance": {
+        "count": 45,
+        "percent": 1.8
+      },
+      "Education": {
+        "count": 45,
+        "percent": 1.8
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 15,
+        "percent": 0.6
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.2
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 17000,
+        "percent": 24.9
+      },
+      "Retail and wholesale": {
+        "count": 9000,
+        "percent": 13.2
+      },
+      "Education": {
+        "count": 8000,
+        "percent": 11.7
+      },
+      "Accommodation and food services": {
+        "count": 7000,
+        "percent": 10.3
+      },
+      "Public admin and defence": {
+        "count": 5000,
+        "percent": 7.3
+      },
+      "Information and communication": {
+        "count": 4500,
+        "percent": 6.6
+      },
+      "Arts, entertainment and recreation": {
+        "count": 3500,
+        "percent": 5.1
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3200,
+        "percent": 4.7
+      },
+      "Professional, scientific and technical": {
+        "count": 3000,
+        "percent": 4.4
+      },
+      "Business admin and support": {
+        "count": 2250,
+        "percent": 3.3
+      },
+      "Construction": {
+        "count": 2250,
+        "percent": 3.3
+      },
+      "Transport and storage": {
+        "count": 1750,
+        "percent": 2.6
+      },
+      "Finance and insurance": {
+        "count": 1000,
+        "percent": 1.5
+      },
+      "Property": {
+        "count": 800,
+        "percent": 1.2
+      }
+    }
+  },
+  "unemployment": {
+    "count": 3115,
+    "currentRate": 4.3,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 4.1
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 4.4
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 4.3
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 745.0,
+    "annualChange": 7.5,
+    "ukPay": 811.2
+  }
+}

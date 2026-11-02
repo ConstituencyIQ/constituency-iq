@@ -1,0 +1,354 @@
+{
+  "name": "Oxford East",
+  "region": "England",
+  "onsCode": "E14001419",
+  "electorate": 71845,
+  "center_lat": 51.74866,
+  "center_lon": -1.22067,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 23815,
+      "percent": 19.8,
+      "nationalPercent": 20.6,
+      "difference": -0.8
+    },
+    "18 to 24": {
+      "count": 18217,
+      "percent": 15.2,
+      "nationalPercent": 8.4,
+      "difference": 6.8
+    },
+    "25 to 34": {
+      "count": 20546,
+      "percent": 17.1,
+      "nationalPercent": 13.5,
+      "difference": 3.6
+    },
+    "35 to 49": {
+      "count": 24798,
+      "percent": 20.6,
+      "nationalPercent": 19.3,
+      "difference": 1.3
+    },
+    "50 to 64": {
+      "count": 18507,
+      "percent": 15.4,
+      "nationalPercent": 19.2,
+      "difference": -3.8
+    },
+    "65 and over": {
+      "count": 14349,
+      "percent": 11.9,
+      "nationalPercent": 19.0,
+      "difference": -7.1
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 19240,
+      "percent": 16.4,
+      "nationalPercent": 1.6,
+      "difference": 14.8
+    },
+    "Black, African or Caribbean": {
+      "count": 6537,
+      "percent": 5.6,
+      "nationalPercent": 0.5,
+      "difference": 5.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 6427,
+      "percent": 5.5,
+      "nationalPercent": 0.8,
+      "difference": 4.7
+    },
+    "White": {
+      "count": 80642,
+      "percent": 68.7,
+      "nationalPercent": 6.2,
+      "difference": 62.5
+    },
+    "Other": {
+      "count": 4613,
+      "percent": 3.9,
+      "nationalPercent": 1.6,
+      "difference": 2.3
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 76969,
+      "percent": 65.5,
+      "nationalPercent": 13.9,
+      "difference": 51.6
+    },
+    "European Union": {
+      "count": 13927,
+      "percent": 11.9,
+      "nationalPercent": 0.5,
+      "difference": 11.4
+    },
+    "Rest of world": {
+      "count": 26562,
+      "percent": 22.6,
+      "nationalPercent": 0.3,
+      "difference": 22.3
+    }
+  },
+  "mp": {
+    "name": "Anneliese Dodds",
+    "party": "Labour (Co-op)",
+    "memberId": 4657,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4657/Thumbnail",
+    "email": "anneliese.dodds@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 14465,
+    "turnout": 39341,
+    "turnoutPercent": 54.8,
+    "electorate": 71845,
+    "validVotes": 39341,
+    "invalidVotes": 390,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Anneliese Dodds",
+        "votes": 19541,
+        "percent": 49.7,
+        "change": -6.8
+      },
+      {
+        "party": "Green Party",
+        "name": "Sushila Dhall",
+        "votes": 5076,
+        "percent": 12.9,
+        "change": 8.2
+      },
+      {
+        "party": "Conservative",
+        "name": "Louise Brown",
+        "votes": 4739,
+        "percent": 12.0,
+        "change": -9.4
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Theodore Jupp",
+        "votes": 3437,
+        "percent": 8.7,
+        "change": -5.3
+      },
+      {
+        "party": "Independent Oxford Alliance",
+        "name": "David Henwood",
+        "votes": 2381,
+        "percent": 6.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Amir Ali",
+        "votes": 1761,
+        "percent": 4.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Zaid Marham",
+        "votes": 615,
+        "percent": 1.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Jabu Nala-Hartley",
+        "votes": 600,
+        "percent": 1.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Rejoin EU",
+        "name": "Andrew Smith",
+        "votes": 425,
+        "percent": 1.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Party of Women",
+        "name": "Katherine Longthorp",
+        "votes": 337,
+        "percent": 0.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Benjamin Adams",
+        "votes": 232,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Workers Revolutionary Party",
+        "name": "Brandon French",
+        "votes": 197,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 510,
+        "percent": 18.9
+      },
+      "Retail and wholesale": {
+        "count": 350,
+        "percent": 13.0
+      },
+      "Information and communication": {
+        "count": 265,
+        "percent": 9.8
+      },
+      "Accommodation and food services": {
+        "count": 260,
+        "percent": 9.6
+      },
+      "Construction": {
+        "count": 250,
+        "percent": 9.3
+      },
+      "Health": {
+        "count": 225,
+        "percent": 8.3
+      },
+      "Business admin and support": {
+        "count": 215,
+        "percent": 8.0
+      },
+      "Arts, entertainment and recreation": {
+        "count": 215,
+        "percent": 8.0
+      },
+      "Property": {
+        "count": 105,
+        "percent": 3.9
+      },
+      "Transport and storage": {
+        "count": 100,
+        "percent": 3.7
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 80,
+        "percent": 3.0
+      },
+      "Education": {
+        "count": 65,
+        "percent": 2.4
+      },
+      "Finance and insurance": {
+        "count": 40,
+        "percent": 1.5
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 10,
+        "percent": 0.4
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.2
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 22000,
+        "percent": 35.5
+      },
+      "Education": {
+        "count": 8000,
+        "percent": 12.9
+      },
+      "Professional, scientific and technical": {
+        "count": 6000,
+        "percent": 9.7
+      },
+      "Retail and wholesale": {
+        "count": 5300,
+        "percent": 8.6
+      },
+      "Business admin and support": {
+        "count": 4500,
+        "percent": 7.3
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3800,
+        "percent": 6.1
+      },
+      "Accommodation and food services": {
+        "count": 3000,
+        "percent": 4.8
+      },
+      "Information and communication": {
+        "count": 2250,
+        "percent": 3.6
+      },
+      "Transport and storage": {
+        "count": 2000,
+        "percent": 3.2
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2000,
+        "percent": 3.2
+      },
+      "Construction": {
+        "count": 1250,
+        "percent": 2.0
+      },
+      "Public admin and defence": {
+        "count": 900,
+        "percent": 1.5
+      },
+      "Property": {
+        "count": 700,
+        "percent": 1.1
+      },
+      "Finance and insurance": {
+        "count": 250,
+        "percent": 0.4
+      }
+    }
+  },
+  "unemployment": {
+    "count": 2625,
+    "currentRate": 3.1,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.1
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.0
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.1
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 844.4,
+    "annualChange": 6.3,
+    "ukPay": 811.2
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "name": "North East Hampshire",
+  "region": "England",
+  "onsCode": "E14001392",
+  "electorate": 76923,
+  "center_lat": 51.28477,
+  "center_lon": -0.9254,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 22162,
+      "percent": 21.1,
+      "nationalPercent": 20.6,
+      "difference": 0.6
+    },
+    "18 to 24": {
+      "count": 6137,
+      "percent": 5.9,
+      "nationalPercent": 8.4,
+      "difference": -2.5
+    },
+    "25 to 34": {
+      "count": 11199,
+      "percent": 10.7,
+      "nationalPercent": 13.5,
+      "difference": -2.8
+    },
+    "35 to 49": {
+      "count": 20998,
+      "percent": 20.0,
+      "nationalPercent": 19.3,
+      "difference": 0.7
+    },
+    "50 to 64": {
+      "count": 22446,
+      "percent": 21.4,
+      "nationalPercent": 19.2,
+      "difference": 2.2
+    },
+    "65 and over": {
+      "count": 21849,
+      "percent": 20.9,
+      "nationalPercent": 19.0,
+      "difference": 1.8
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 3166,
+      "percent": 3.1,
+      "nationalPercent": 1.6,
+      "difference": 1.5
+    },
+    "Black, African or Caribbean": {
+      "count": 800,
+      "percent": 0.8,
+      "nationalPercent": 0.5,
+      "difference": 0.3
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2303,
+      "percent": 2.3,
+      "nationalPercent": 0.8,
+      "difference": 1.5
+    },
+    "White": {
+      "count": 94017,
+      "percent": 93.1,
+      "nationalPercent": 6.2,
+      "difference": 86.9
+    },
+    "Other": {
+      "count": 670,
+      "percent": 0.7,
+      "nationalPercent": 1.6,
+      "difference": -0.9
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 89726,
+      "percent": 88.9,
+      "nationalPercent": 13.9,
+      "difference": 75.0
+    },
+    "European Union": {
+      "count": 4220,
+      "percent": 4.2,
+      "nationalPercent": 0.5,
+      "difference": 3.7
+    },
+    "Rest of world": {
+      "count": 7006,
+      "percent": 6.9,
+      "nationalPercent": 0.3,
+      "difference": 6.6
+    }
+  },
+  "mp": {
+    "name": "Alex Brewer",
+    "party": "Liberal Democrat",
+    "memberId": 5263,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5263/Thumbnail",
+    "email": "alex.brewer@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "LD gain from Con",
+    "majority": 634,
+    "turnout": 55560,
+    "turnoutPercent": 72.2,
+    "electorate": 76923,
+    "validVotes": 55560,
+    "invalidVotes": 143,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Liberal Democrat",
+        "name": "Alex Brewer",
+        "votes": 21178,
+        "percent": 38.1,
+        "change": 15.7
+      },
+      {
+        "party": "Conservative",
+        "name": "Ranil Jayawardena",
+        "votes": 20544,
+        "percent": 37.0,
+        "change": -24.9
+      },
+      {
+        "party": "Reform UK",
+        "name": "Paul Morton",
+        "votes": 6673,
+        "percent": 12.0,
+        "change": "N/A"
+      },
+      {
+        "party": "Labour",
+        "name": "Bradley Phillips",
+        "votes": 5057,
+        "percent": 9.1,
+        "change": -1.1
+      },
+      {
+        "party": "Green Party",
+        "name": "Mohamed Miah",
+        "votes": 1425,
+        "percent": 2.6,
+        "change": -0.4
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "name": "Howling (Alan) Hope",
+        "votes": 340,
+        "percent": 0.6,
+        "change": -0.4
+      },
+      {
+        "party": "Hampshire Independents",
+        "name": "Duncan Stone",
+        "votes": 274,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Libertarian Party",
+        "name": "Alex Zychowski",
+        "votes": 69,
+        "percent": 0.1,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 1070,
+    "currentRate": 1.7,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 1.5
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 1.7
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 1.7
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 997.9,
+    "annualChange": 10.4,
+    "ukPay": 811.2
+  }
+}

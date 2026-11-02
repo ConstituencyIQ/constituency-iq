@@ -1,0 +1,201 @@
+{
+  "name": "North East Somerset and Hanham",
+  "region": "England",
+  "onsCode": "E14001394",
+  "electorate": 73889,
+  "center_lat": 51.37548,
+  "center_lon": -2.54223,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19214,
+      "percent": 19.7,
+      "nationalPercent": 20.6,
+      "difference": -0.8
+    },
+    "18 to 24": {
+      "count": 7618,
+      "percent": 7.8,
+      "nationalPercent": 8.4,
+      "difference": -0.5
+    },
+    "25 to 34": {
+      "count": 11258,
+      "percent": 11.6,
+      "nationalPercent": 13.5,
+      "difference": -1.9
+    },
+    "35 to 49": {
+      "count": 17668,
+      "percent": 18.1,
+      "nationalPercent": 19.3,
+      "difference": -1.2
+    },
+    "50 to 64": {
+      "count": 19342,
+      "percent": 19.9,
+      "nationalPercent": 19.2,
+      "difference": 0.6
+    },
+    "65 and over": {
+      "count": 22319,
+      "percent": 22.9,
+      "nationalPercent": 19.0,
+      "difference": 3.9
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 1314,
+      "percent": 1.4,
+      "nationalPercent": 1.6,
+      "difference": -0.2
+    },
+    "Black, African or Caribbean": {
+      "count": 543,
+      "percent": 0.6,
+      "nationalPercent": 0.5,
+      "difference": 0.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1733,
+      "percent": 1.8,
+      "nationalPercent": 0.8,
+      "difference": 1.0
+    },
+    "White": {
+      "count": 91659,
+      "percent": 95.9,
+      "nationalPercent": 6.2,
+      "difference": 89.7
+    },
+    "Other": {
+      "count": 298,
+      "percent": 0.3,
+      "nationalPercent": 1.6,
+      "difference": -1.3
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 90067,
+      "percent": 94.3,
+      "nationalPercent": 13.9,
+      "difference": 80.4
+    },
+    "European Union": {
+      "count": 2550,
+      "percent": 2.7,
+      "nationalPercent": 0.5,
+      "difference": 2.2
+    },
+    "Rest of world": {
+      "count": 2924,
+      "percent": 3.1,
+      "nationalPercent": 0.3,
+      "difference": 2.8
+    }
+  },
+  "mp": {
+    "name": "Dan Norris",
+    "party": "Independent",
+    "memberId": 221,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/221/Thumbnail",
+    "email": "dan.norris@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 5319,
+    "turnout": 51125,
+    "turnoutPercent": 69.2,
+    "electorate": 73889,
+    "validVotes": 51125,
+    "invalidVotes": 142,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Dan Norris",
+        "votes": 20739,
+        "percent": 40.6,
+        "change": 14.4
+      },
+      {
+        "party": "Conservative",
+        "name": "Jacob Rees-Mogg",
+        "votes": 15420,
+        "percent": 30.2,
+        "change": -24.6
+      },
+      {
+        "party": "Reform UK",
+        "name": "Paul MacDonnell",
+        "votes": 7424,
+        "percent": 14.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Dine Romero",
+        "votes": 3878,
+        "percent": 7.6,
+        "change": -7.4
+      },
+      {
+        "party": "Green Party",
+        "name": "Edmund Cannon",
+        "votes": 3222,
+        "percent": 6.3,
+        "change": 3.9
+      },
+      {
+        "party": "Independent",
+        "name": "Nicholas Hales",
+        "votes": 231,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "name": "Barmy Brunch",
+        "votes": 211,
+        "percent": 0.4,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 1000,
+    "currentRate": 1.7,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 1.7
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 1.7
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 1.7
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 818.0,
+    "annualChange": 7.9,
+    "ukPay": 811.2
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "name": "Walthamstow",
+  "region": "England",
+  "onsCode": "E14001563",
+  "electorate": 74474,
+  "center_lat": 51.58502,
+  "center_lon": -0.02103,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 28396,
+      "percent": 22.8,
+      "nationalPercent": 20.6,
+      "difference": 2.2
+    },
+    "18 to 24": {
+      "count": 9691,
+      "percent": 7.8,
+      "nationalPercent": 8.4,
+      "difference": -0.6
+    },
+    "25 to 34": {
+      "count": 23402,
+      "percent": 18.8,
+      "nationalPercent": 13.5,
+      "difference": 5.3
+    },
+    "35 to 49": {
+      "count": 33522,
+      "percent": 26.9,
+      "nationalPercent": 19.3,
+      "difference": 7.5
+    },
+    "50 to 64": {
+      "count": 19391,
+      "percent": 15.5,
+      "nationalPercent": 19.2,
+      "difference": -3.7
+    },
+    "65 and over": {
+      "count": 10400,
+      "percent": 8.3,
+      "nationalPercent": 19.0,
+      "difference": -10.7
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 26514,
+      "percent": 21.7,
+      "nationalPercent": 1.6,
+      "difference": 20.1
+    },
+    "Black, African or Caribbean": {
+      "count": 18817,
+      "percent": 15.4,
+      "nationalPercent": 0.5,
+      "difference": 14.9
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 7991,
+      "percent": 6.5,
+      "nationalPercent": 0.8,
+      "difference": 5.7
+    },
+    "White": {
+      "count": 61802,
+      "percent": 50.5,
+      "nationalPercent": 6.2,
+      "difference": 44.3
+    },
+    "Other": {
+      "count": 7293,
+      "percent": 6.0,
+      "nationalPercent": 1.6,
+      "difference": 4.4
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 72546,
+      "percent": 59.3,
+      "nationalPercent": 13.9,
+      "difference": 45.4
+    },
+    "European Union": {
+      "count": 19560,
+      "percent": 16.0,
+      "nationalPercent": 0.5,
+      "difference": 15.5
+    },
+    "Rest of world": {
+      "count": 30312,
+      "percent": 24.8,
+      "nationalPercent": 0.3,
+      "difference": 24.5
+    }
+  },
+  "mp": {
+    "name": "Ms Stella Creasy",
+    "party": "Labour (Co-op)",
+    "memberId": 4088,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4088/Thumbnail",
+    "email": "ms.stella.creasy@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 17996,
+    "turnout": 45668,
+    "turnoutPercent": 61.3,
+    "electorate": 74474,
+    "validVotes": 45668,
+    "invalidVotes": 255,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Stella Creasy",
+        "votes": 27172,
+        "percent": 59.5,
+        "change": -16.6
+      },
+      {
+        "party": "Green Party",
+        "name": "Rosalind Rowlands",
+        "votes": 9176,
+        "percent": 20.1,
+        "change": 16.5
+      },
+      {
+        "party": "Conservative",
+        "name": "Sanjana Karnani",
+        "votes": 2353,
+        "percent": 5.2,
+        "change": -7.1
+      },
+      {
+        "party": "Reform UK",
+        "name": "Martin Lonergan",
+        "votes": 1836,
+        "percent": 4.0,
+        "change": 2.4
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Rebecca Taylor",
+        "votes": 1736,
+        "percent": 3.8,
+        "change": -2.1
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Imran Arshad",
+        "votes": 1535,
+        "percent": 3.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Mohammed Ashfaq",
+        "votes": 914,
+        "percent": 2.0,
+        "change": "N/A"
+      },
+      {
+        "party": "Trade Unionist and Socialist Coalition",
+        "name": "Nancy Taaffe",
+        "votes": 561,
+        "percent": 1.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Dan Edelstyn",
+        "votes": 288,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Ruth Rawlins",
+        "votes": 97,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 915,
+        "percent": 17.0
+      },
+      "Retail and wholesale": {
+        "count": 900,
+        "percent": 16.7
+      },
+      "Construction": {
+        "count": 830,
+        "percent": 15.4
+      },
+      "Information and communication": {
+        "count": 615,
+        "percent": 11.4
+      },
+      "Arts, entertainment and recreation": {
+        "count": 465,
+        "percent": 8.6
+      },
+      "Business admin and support": {
+        "count": 430,
+        "percent": 8.0
+      },
+      "Accommodation and food services": {
+        "count": 355,
+        "percent": 6.6
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 260,
+        "percent": 4.8
+      },
+      "Transport and storage": {
+        "count": 190,
+        "percent": 3.5
+      },
+      "Health": {
+        "count": 170,
+        "percent": 3.2
+      },
+      "Property": {
+        "count": 130,
+        "percent": 2.4
+      },
+      "Education": {
+        "count": 80,
+        "percent": 1.5
+      },
+      "Finance and insurance": {
+        "count": 30,
+        "percent": 0.6
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 10,
+        "percent": 0.2
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Education": {
+        "count": 5000,
+        "percent": 16.9
+      },
+      "Retail and wholesale": {
+        "count": 4550,
+        "percent": 15.4
+      },
+      "Health": {
+        "count": 3000,
+        "percent": 10.2
+      },
+      "Accommodation and food services": {
+        "count": 2500,
+        "percent": 8.5
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 2100,
+        "percent": 7.1
+      },
+      "Public admin and defence": {
+        "count": 2000,
+        "percent": 6.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2000,
+        "percent": 6.8
+      },
+      "Construction": {
+        "count": 2000,
+        "percent": 6.8
+      },
+      "Professional, scientific and technical": {
+        "count": 1750,
+        "percent": 5.9
+      },
+      "Business admin and support": {
+        "count": 1750,
+        "percent": 5.9
+      },
+      "Transport and storage": {
+        "count": 1000,
+        "percent": 3.4
+      },
+      "Information and communication": {
+        "count": 1000,
+        "percent": 3.4
+      },
+      "Property": {
+        "count": 600,
+        "percent": 2.0
+      },
+      "Finance and insurance": {
+        "count": 250,
+        "percent": 0.8
+      }
+    }
+  },
+  "unemployment": {
+    "count": 6190,
+    "currentRate": 7.0,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 7.1
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 6.7
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 7.0
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 957.0,
+    "annualChange": 4.2,
+    "ukPay": 811.2
+  }
+}

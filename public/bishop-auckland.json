@@ -1,0 +1,312 @@
+{
+  "name": "Bishop Auckland",
+  "region": "England",
+  "onsCode": "E14001101",
+  "electorate": 70745,
+  "center_lat": 54.66036,
+  "center_lon": -1.95037,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 17367,
+      "percent": 18.3,
+      "nationalPercent": 20.6,
+      "difference": -2.2
+    },
+    "18 to 24": {
+      "count": 6815,
+      "percent": 7.2,
+      "nationalPercent": 8.4,
+      "difference": -1.2
+    },
+    "25 to 34": {
+      "count": 9773,
+      "percent": 10.3,
+      "nationalPercent": 13.5,
+      "difference": -3.2
+    },
+    "35 to 49": {
+      "count": 15671,
+      "percent": 16.5,
+      "nationalPercent": 19.3,
+      "difference": -2.8
+    },
+    "50 to 64": {
+      "count": 21406,
+      "percent": 22.6,
+      "nationalPercent": 19.2,
+      "difference": 3.4
+    },
+    "65 and over": {
+      "count": 23676,
+      "percent": 25.0,
+      "nationalPercent": 19.0,
+      "difference": 6.0
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 686,
+      "percent": 0.7,
+      "nationalPercent": 1.6,
+      "difference": -0.9
+    },
+    "Black, African or Caribbean": {
+      "count": 282,
+      "percent": 0.3,
+      "nationalPercent": 0.5,
+      "difference": -0.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 676,
+      "percent": 0.7,
+      "nationalPercent": 0.8,
+      "difference": -0.1
+    },
+    "White": {
+      "count": 90467,
+      "percent": 98.0,
+      "nationalPercent": 6.2,
+      "difference": 91.8
+    },
+    "Other": {
+      "count": 171,
+      "percent": 0.2,
+      "nationalPercent": 1.6,
+      "difference": -1.4
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 89425,
+      "percent": 96.9,
+      "nationalPercent": 13.9,
+      "difference": 83.0
+    },
+    "European Union": {
+      "count": 1355,
+      "percent": 1.5,
+      "nationalPercent": 0.5,
+      "difference": 1.0
+    },
+    "Rest of world": {
+      "count": 1506,
+      "percent": 1.6,
+      "nationalPercent": 0.3,
+      "difference": 1.3
+    }
+  },
+  "mp": {
+    "name": "Dr Sam Rushworth",
+    "party": "Labour",
+    "memberId": 5108,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5108/Thumbnail",
+    "email": "dr.sam.rushworth@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 6672,
+    "turnout": 40427,
+    "turnoutPercent": 57.1,
+    "electorate": 70745,
+    "validVotes": 40427,
+    "invalidVotes": 133,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Sam Rushworth",
+        "votes": 17036,
+        "percent": 42.1,
+        "change": 5.5
+      },
+      {
+        "party": "Conservative",
+        "name": "Jane MacBean",
+        "votes": 10364,
+        "percent": 25.6,
+        "change": -27.4
+      },
+      {
+        "party": "Reform UK",
+        "name": "Rhys Burriss",
+        "votes": 9466,
+        "percent": 23.4,
+        "change": 17.9
+      },
+      {
+        "party": "Green Party",
+        "name": "Sarah Hannan",
+        "votes": 1857,
+        "percent": 4.6,
+        "change": 4.0
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Helen Cross",
+        "votes": 1373,
+        "percent": 3.4,
+        "change": -0.2
+      },
+      {
+        "party": "Transform Party",
+        "name": "Rachel Maughan",
+        "votes": 331,
+        "percent": 0.8,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Agriculture, forestry and fishing": {
+        "count": 785,
+        "percent": 22.1
+      },
+      "Construction": {
+        "count": 550,
+        "percent": 15.5
+      },
+      "Retail and wholesale": {
+        "count": 455,
+        "percent": 12.8
+      },
+      "Professional, scientific and technical": {
+        "count": 330,
+        "percent": 9.3
+      },
+      "Accommodation and food services": {
+        "count": 290,
+        "percent": 8.2
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 230,
+        "percent": 6.5
+      },
+      "Business admin and support": {
+        "count": 215,
+        "percent": 6.0
+      },
+      "Arts, entertainment and recreation": {
+        "count": 195,
+        "percent": 5.5
+      },
+      "Transport and storage": {
+        "count": 155,
+        "percent": 4.4
+      },
+      "Property": {
+        "count": 95,
+        "percent": 2.7
+      },
+      "Health": {
+        "count": 95,
+        "percent": 2.7
+      },
+      "Information and communication": {
+        "count": 65,
+        "percent": 1.8
+      },
+      "Finance and insurance": {
+        "count": 35,
+        "percent": 1.0
+      },
+      "Education": {
+        "count": 35,
+        "percent": 1.0
+      },
+      "Public admin and defence": {
+        "count": 25,
+        "percent": 0.7
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 6000,
+        "percent": 20.0
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 4850,
+        "percent": 16.2
+      },
+      "Retail and wholesale": {
+        "count": 4325,
+        "percent": 14.4
+      },
+      "Education": {
+        "count": 2500,
+        "percent": 8.3
+      },
+      "Accommodation and food services": {
+        "count": 2500,
+        "percent": 8.3
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2000,
+        "percent": 6.7
+      },
+      "Construction": {
+        "count": 2000,
+        "percent": 6.7
+      },
+      "Professional, scientific and technical": {
+        "count": 1250,
+        "percent": 4.2
+      },
+      "Business admin and support": {
+        "count": 1250,
+        "percent": 4.2
+      },
+      "Transport and storage": {
+        "count": 1250,
+        "percent": 4.2
+      },
+      "Public admin and defence": {
+        "count": 1000,
+        "percent": 3.3
+      },
+      "Property": {
+        "count": 700,
+        "percent": 2.3
+      },
+      "Information and communication": {
+        "count": 225,
+        "percent": 0.8
+      },
+      "Finance and insurance": {
+        "count": 150,
+        "percent": 0.5
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1870,
+    "currentRate": 3.4,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.1
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.3
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.4
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 682.7,
+    "annualChange": 5.5,
+    "ukPay": 811.2
+  }
+}

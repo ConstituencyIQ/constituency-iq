@@ -1,0 +1,82 @@
+---
+// src/components/WageCard.astro
+export interface Props {
+  constituencyName: string;
+  medianPay: number;
+  annualChange?: number;
+  ukPay?: number;
+}
+
+const { 
+  constituencyName, 
+  medianPay, 
+  annualChange, 
+  ukPay = 811.00 
+} = Astro.props;
+
+const maxScale = 1200; // Scaled up to £1,200 to comfortably fit high-wage seats like Windsor (£977)
+const getPct = (val: number) => `${Math.min(Math.max((val / maxScale) * 100, 5), 100)}%`;
+---
+
+<div class="card" style="background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; padding: 25px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 25px;">
+  <div class="card-title">Median Weekly Earnings &amp; Pay Gap</div>
+  <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0; margin-bottom: 20px;">
+    Median gross weekly pay for full-time employee jobs for residents in <strong style="color: var(--text-main);">{constituencyName}</strong> compared to the national benchmark (ONS ASHE April 2026).
+  </p>
+
+  <!-- Chart Container with Axis Grid Lines -->
+  <div style="position: relative; margin-top: 15px; padding-bottom: 25px;">
+    
+    <!-- Vertical Background Grid Lines (£0, £600, £1,200) -->
+    <div style="position: absolute; top: 0; bottom: 25px; left: 130px; right: 0; display: flex; justify-content: space-between; pointer-events: none; z-index: 1;">
+      <div style="border-left: 1px dashed #e2e8f0; height: 100%;"></div>
+      <div style="border-left: 1px dashed #e2e8f0; height: 100%;"></div>
+      <div style="border-left: 1px dashed #e2e8f0; height: 100%;"></div>
+    </div>
+
+    <!-- Rows Wrapper (Constituency + UK Average) -->
+    <div style="display: flex; flex-direction: column; gap: 16px; position: relative; z-index: 2;">
+      
+      <!-- Row 1: Constituency Bar -->
+      <div style="display: flex; align-items: center;">
+        <div style="width: 130px; font-size: 0.85rem; font-weight: 600; color: var(--text-main); padding-right: 12px; text-align: right; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title={constituencyName}>
+          {constituencyName}
+        </div>
+        <div style="flex-grow: 1; position: relative; height: 32px; background: #f8fafc; border-radius: 4px; display: flex; align-items: center;">
+          <div style={`width: ${getPct(medianPay)}; background: #065f46; height: 100%; border-radius: 4px; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 0.8rem; font-weight: 600; transition: width 0.4s ease;`}>
+            £{medianPay.toFixed(0)}
+          </div>
+        </div>
+      </div>
+
+      <!-- Row 2: UK Average Bar -->
+      <div style="display: flex; align-items: center;">
+        <div style="width: 130px; font-size: 0.85rem; font-weight: 600; color: var(--text-main); padding-right: 12px; text-align: right; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+          UK Average
+        </div>
+        <div style="flex-grow: 1; position: relative; height: 32px; background: #f8fafc; border-radius: 4px; display: flex; align-items: center;">
+          <div style={`width: ${getPct(ukPay)}; background: #2a9d8f; height: 100%; border-radius: 4px; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; color: white; font-size: 0.8rem; font-weight: 600; transition: width 0.4s ease;`}>
+            £{ukPay.toFixed(0)}
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Axis Labels Footer -->
+    <div style="display: flex; justify-content: space-between; margin-left: 130px; padding-top: 8px; font-size: 0.75rem; color: var(--text-muted); font-weight: 500;">
+      <span>£0</span>
+      <span>£600</span>
+      <span>£1,200</span>
+    </div>
+  </div>
+
+  {annualChange !== undefined && annualChange !== null && (
+    <div style="border-top: 1px solid var(--border-color); padding-top: 12px; display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; color: var(--text-muted);">
+      <span>Annual change from previous year</span>
+      <span style={`font-weight: 600; color: ${annualChange >= 0 ? '#047857' : '#b91c1c'};`}>
+        {annualChange >= 0 ? '+' : ''}{annualChange}%
+      </span>
+    </div>
+  )}
+</div>

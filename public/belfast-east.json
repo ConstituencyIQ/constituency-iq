@@ -1,0 +1,314 @@
+{
+  "name": "Belfast East",
+  "region": "Northern Ireland",
+  "onsCode": "N05000001",
+  "electorate": 72917,
+  "center_lat": 54.59564,
+  "center_lon": -5.84274,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 21434,
+      "percent": 20.7,
+      "nationalPercent": 20.6,
+      "difference": 0.2
+    },
+    "18 to 24": {
+      "count": 6476,
+      "percent": 6.3,
+      "nationalPercent": 8.4,
+      "difference": -2.1
+    },
+    "25 to 34": {
+      "count": 15799,
+      "percent": 15.3,
+      "nationalPercent": 13.5,
+      "difference": 1.8
+    },
+    "35 to 49": {
+      "count": 22508,
+      "percent": 21.8,
+      "nationalPercent": 19.3,
+      "difference": 2.4
+    },
+    "50 to 64": {
+      "count": 19639,
+      "percent": 19.0,
+      "nationalPercent": 19.2,
+      "difference": -0.2
+    },
+    "65 and over": {
+      "count": 17537,
+      "percent": 17.0,
+      "nationalPercent": 19.0,
+      "difference": -2.0
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 96850,
+      "percent": 94.7,
+      "nationalPercent": 0.1,
+      "difference": 94.6
+    },
+    "Asian": {
+      "count": 2882,
+      "percent": 2.8,
+      "nationalPercent": 0.3,
+      "difference": 2.5
+    },
+    "Other": {
+      "count": 327,
+      "percent": 0.3,
+      "nationalPercent": 0.2,
+      "difference": 0.1
+    },
+    "Black, African or Caribbean": {
+      "count": 918,
+      "percent": 0.9,
+      "nationalPercent": 0.2,
+      "difference": 0.7
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1302,
+      "percent": 1.3,
+      "nationalPercent": 0.8,
+      "difference": 0.5
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 91250,
+      "percent": 89.2,
+      "nationalPercent": 22.8,
+      "difference": 66.4
+    },
+    "European Union": {
+      "count": 6222,
+      "percent": 6.1,
+      "nationalPercent": 0.4,
+      "difference": 5.7
+    },
+    "Rest of world": {
+      "count": 4810,
+      "percent": 4.7,
+      "nationalPercent": 0.2,
+      "difference": 4.5
+    }
+  },
+  "mp": {
+    "name": "Gavin Robinson",
+    "party": "Democratic Unionist Party",
+    "memberId": 4360,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4360/Thumbnail",
+    "email": "gavin.robinson@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "DUP hold",
+    "majority": 2676,
+    "turnout": 42706,
+    "turnoutPercent": 58.6,
+    "electorate": 72917,
+    "validVotes": 42706,
+    "invalidVotes": 184,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Democratic Unionist Party",
+        "name": "Gavin Robinson",
+        "votes": 19894,
+        "percent": 46.6,
+        "change": -1.3
+      },
+      {
+        "party": "Alliance",
+        "name": "Naomi Long",
+        "votes": 17218,
+        "percent": 40.3,
+        "change": -1.8
+      },
+      {
+        "party": "Traditional Unionist Voice",
+        "name": "John Ross",
+        "votes": 1918,
+        "percent": 4.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Ulster Unionist Party",
+        "name": "Ryan Warren",
+        "votes": 1818,
+        "percent": 4.3,
+        "change": -1.5
+      },
+      {
+        "party": "Green Party Northern Ireland",
+        "name": "Brian Smyth",
+        "votes": 1077,
+        "percent": 2.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic & Labour Party",
+        "name": "S\u00e9amas De Faoite",
+        "votes": 619,
+        "percent": 1.4,
+        "change": -2.8
+      },
+      {
+        "party": "Independent",
+        "name": "Ryan North",
+        "votes": 162,
+        "percent": 0.4,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 560,
+        "percent": 18.7
+      },
+      "Professional, scientific and technical": {
+        "count": 420,
+        "percent": 14.0
+      },
+      "Construction": {
+        "count": 310,
+        "percent": 10.3
+      },
+      "Arts, entertainment and recreation": {
+        "count": 290,
+        "percent": 9.7
+      },
+      "Accommodation and food services": {
+        "count": 230,
+        "percent": 7.7
+      },
+      "Information and communication": {
+        "count": 225,
+        "percent": 7.5
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 195,
+        "percent": 6.5
+      },
+      "Business admin and support": {
+        "count": 180,
+        "percent": 6.0
+      },
+      "Health": {
+        "count": 180,
+        "percent": 6.0
+      },
+      "Property": {
+        "count": 115,
+        "percent": 3.8
+      },
+      "Transport and storage": {
+        "count": 105,
+        "percent": 3.5
+      },
+      "Finance and insurance": {
+        "count": 85,
+        "percent": 2.8
+      },
+      "Education": {
+        "count": 55,
+        "percent": 1.8
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 45,
+        "percent": 1.5
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.2
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 9147,
+        "percent": 8.1
+      },
+      "Public admin and defence": {
+        "count": 7724,
+        "percent": 6.9
+      },
+      "Retail and wholesale": {
+        "count": 6451,
+        "percent": 5.7
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 5600,
+        "percent": 5.0
+      },
+      "Admin and support services": {
+        "count": 5391,
+        "percent": 4.8
+      },
+      "Education": {
+        "count": 3802,
+        "percent": 3.4
+      },
+      "Finance and insurance": {
+        "count": 3492,
+        "percent": 3.1
+      },
+      "Professional, scientific and technical": {
+        "count": 3088,
+        "percent": 2.7
+      },
+      "Accommodation and food services": {
+        "count": 2939,
+        "percent": 2.6
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2519,
+        "percent": 2.2
+      },
+      "Information and communication": {
+        "count": 2422,
+        "percent": 2.2
+      },
+      "Construction": {
+        "count": 1822,
+        "percent": 1.6
+      },
+      "Transport and storage": {
+        "count": 1422,
+        "percent": 1.3
+      },
+      "Property": {
+        "count": 390,
+        "percent": 0.3
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1970,
+    "currentRate": 2.9,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.2
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.9
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.9
+      }
+    ]
+  }
+}

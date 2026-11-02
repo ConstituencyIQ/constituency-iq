@@ -1,0 +1,55 @@
+---
+export interface Props {
+  economy: {
+    businesses?: Record<string, { count: number; percent: number }>;
+    employees?: Record<string, { count: number; percent: number }>;
+  };
+}
+
+const { economy = {} } = Astro.props;
+const businesses = economy?.businesses || {};
+const employees = economy?.employees || {};
+---
+
+<div class="card" style="margin-top: 25px; background: white; border-radius: 12px; padding: 25px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); border: 1px solid var(--border-color, #e2e8f0);">
+  <div class="card-title" style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted, #64748b); margin-bottom: 10px; font-weight: 600;">
+    Local Economy &amp; Industries
+  </div>
+  <p style="font-size: 0.85rem; color: var(--text-muted, #64748b); margin-top: 0; margin-bottom: 15px;">
+    Dominant employment sectors and active business enterprise counts.
+  </p>
+
+  <!-- Top Employee Sectors -->
+  <div style="margin-bottom: 20px;">
+    <div style="font-size: 0.75rem; font-weight: 700; color: var(--primary, #4f46e5); text-transform: uppercase; margin-bottom: 8px;">Top Employee Sectors</div>
+    {Object.keys(employees).length > 0 ? (
+      Object.entries(employees).slice(0, 5).map(([ind, info]) => (
+        <div style="display: flex; justify-content: space-between; align-items: center; padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 0.9rem;">
+          <span style="font-weight: 500; color: #1e293b; max-width: 70%;">{ind}</span>
+          <span style="font-variant-numeric: tabular-nums; font-weight: 600; color: #0f172a;">
+            {(info?.count ?? 0).toLocaleString()} <span style="font-size: 0.75rem; font-weight: 400; color: var(--text-muted);">({info?.percent ?? 0}%)</span>
+          </span>
+        </div>
+      ))
+    ) : (
+      <p style="font-size: 0.85rem; color: var(--text-muted);">No employee data available.</p>
+    )}
+  </div>
+
+  <!-- Top Business Sectors -->
+  <div>
+    <div style="font-size: 0.75rem; font-weight: 700; color: var(--primary, #4f46e5); text-transform: uppercase; margin-bottom: 8px;">Top Business Enterprises</div>
+    {Object.keys(businesses).length > 0 ? (
+      Object.entries(businesses).slice(0, 5).map(([ind, info]) => (
+        <div style="display: flex; justify-content: space-between; align-items: center; padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 0.9rem;">
+          <span style="font-weight: 500; color: #1e293b; max-width: 70%;">{ind}</span>
+          <span style="font-variant-numeric: tabular-nums; font-weight: 600; color: #0f172a;">
+            {(info?.count ?? 0).toLocaleString()} <span style="font-size: 0.75rem; font-weight: 400; color: var(--text-muted);">({info?.percent ?? 0}%)</span>
+          </span>
+        </div>
+      ))
+    ) : (
+      <p style="font-size: 0.85rem; color: var(--text-muted);">No business data available.</p>
+    )}
+  </div>
+</div>

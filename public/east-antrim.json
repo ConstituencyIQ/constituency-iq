@@ -1,0 +1,253 @@
+{
+  "name": "East Antrim",
+  "region": "Northern Ireland",
+  "onsCode": "N05000005",
+  "electorate": 73302,
+  "center_lat": 54.88363,
+  "center_lon": -6.02748,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19570,
+      "percent": 20.1,
+      "nationalPercent": 20.6,
+      "difference": -0.5
+    },
+    "18 to 24": {
+      "count": 7015,
+      "percent": 7.2,
+      "nationalPercent": 8.4,
+      "difference": -1.2
+    },
+    "25 to 34": {
+      "count": 10688,
+      "percent": 11.0,
+      "nationalPercent": 13.5,
+      "difference": -2.5
+    },
+    "35 to 49": {
+      "count": 17987,
+      "percent": 18.4,
+      "nationalPercent": 19.3,
+      "difference": -0.9
+    },
+    "50 to 64": {
+      "count": 21821,
+      "percent": 22.4,
+      "nationalPercent": 19.2,
+      "difference": 3.1
+    },
+    "65 and over": {
+      "count": 20435,
+      "percent": 21.0,
+      "nationalPercent": 19.0,
+      "difference": 2.0
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 94874,
+      "percent": 97.9,
+      "nationalPercent": 0.1,
+      "difference": 97.8
+    },
+    "Asian": {
+      "count": 1089,
+      "percent": 1.1,
+      "nationalPercent": 0.3,
+      "difference": 0.8
+    },
+    "Other": {
+      "count": 143,
+      "percent": 0.1,
+      "nationalPercent": 0.2,
+      "difference": -0.1
+    },
+    "Black, African or Caribbean": {
+      "count": 234,
+      "percent": 0.2,
+      "nationalPercent": 0.2,
+      "difference": 0.0
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 614,
+      "percent": 0.6,
+      "nationalPercent": 0.8,
+      "difference": -0.2
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 92354,
+      "percent": 95.3,
+      "nationalPercent": 22.8,
+      "difference": 72.5
+    },
+    "European Union": {
+      "count": 2403,
+      "percent": 2.5,
+      "nationalPercent": 0.4,
+      "difference": 2.1
+    },
+    "Rest of world": {
+      "count": 2194,
+      "percent": 2.3,
+      "nationalPercent": 0.2,
+      "difference": 2.1
+    }
+  },
+  "mp": {
+    "name": "Sammy Wilson",
+    "party": "Democratic Unionist Party",
+    "memberId": 1593,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/1593/Thumbnail",
+    "email": "sammy.wilson@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "DUP hold",
+    "majority": 1306,
+    "turnout": 39675,
+    "turnoutPercent": 54.1,
+    "electorate": 73302,
+    "validVotes": 39675,
+    "invalidVotes": 142,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Democratic Unionist Party",
+        "name": "Sammy Wilson",
+        "votes": 11462,
+        "percent": 28.9,
+        "change": -13.0
+      },
+      {
+        "party": "Alliance",
+        "name": "Danny Donnelly",
+        "votes": 10156,
+        "percent": 25.6,
+        "change": -0.4
+      },
+      {
+        "party": "Ulster Unionist Party",
+        "name": "John Stewart",
+        "votes": 9476,
+        "percent": 23.9,
+        "change": 7.3
+      },
+      {
+        "party": "Traditional Unionist Voice",
+        "name": "Matthew Warwick",
+        "votes": 4135,
+        "percent": 10.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Sinn F\u00e9in",
+        "name": "Oliver McMullan",
+        "votes": 2986,
+        "percent": 7.5,
+        "change": -0.2
+      },
+      {
+        "party": "Social Democratic & Labour Party",
+        "name": "Margaret McKillop",
+        "votes": 892,
+        "percent": 2.2,
+        "change": -1.3
+      },
+      {
+        "party": "Green Party Northern Ireland",
+        "name": "Mark Bailey",
+        "votes": 568,
+        "percent": 1.4,
+        "change": -0.3
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {
+      "Retail and wholesale": {
+        "count": 3650,
+        "percent": 17.5
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3182,
+        "percent": 15.3
+      },
+      "Education": {
+        "count": 3119,
+        "percent": 15.0
+      },
+      "Health": {
+        "count": 2804,
+        "percent": 13.5
+      },
+      "Accommodation and food services": {
+        "count": 1950,
+        "percent": 9.4
+      },
+      "Transport and storage": {
+        "count": 1106,
+        "percent": 5.3
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1025,
+        "percent": 4.9
+      },
+      "Construction": {
+        "count": 968,
+        "percent": 4.6
+      },
+      "Public admin and defence": {
+        "count": 952,
+        "percent": 4.6
+      },
+      "Admin and support services": {
+        "count": 687,
+        "percent": 3.3
+      },
+      "Professional, scientific and technical": {
+        "count": 676,
+        "percent": 3.2
+      },
+      "Finance and insurance": {
+        "count": 330,
+        "percent": 1.6
+      },
+      "Information and communication": {
+        "count": 203,
+        "percent": 1.0
+      },
+      "Property": {
+        "count": 176,
+        "percent": 0.8
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1530,
+    "currentRate": 2.5,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.7
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.4
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.5
+      }
+    ]
+  }
+}

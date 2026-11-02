@@ -1,0 +1,208 @@
+{
+  "name": "East Worthing and Shoreham",
+  "region": "England",
+  "onsCode": "E14001218",
+  "electorate": 74738,
+  "center_lat": 50.84292,
+  "center_lon": -0.34342,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19862,
+      "percent": 19.8,
+      "nationalPercent": 20.6,
+      "difference": -0.7
+    },
+    "18 to 24": {
+      "count": 6126,
+      "percent": 6.1,
+      "nationalPercent": 8.4,
+      "difference": -2.2
+    },
+    "25 to 34": {
+      "count": 10264,
+      "percent": 10.3,
+      "nationalPercent": 13.5,
+      "difference": -3.2
+    },
+    "35 to 49": {
+      "count": 19682,
+      "percent": 19.7,
+      "nationalPercent": 19.3,
+      "difference": 0.3
+    },
+    "50 to 64": {
+      "count": 21462,
+      "percent": 21.4,
+      "nationalPercent": 19.2,
+      "difference": 2.2
+    },
+    "65 and over": {
+      "count": 22682,
+      "percent": 22.7,
+      "nationalPercent": 19.0,
+      "difference": 3.7
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 2921,
+      "percent": 2.9,
+      "nationalPercent": 1.6,
+      "difference": 1.3
+    },
+    "Black, African or Caribbean": {
+      "count": 855,
+      "percent": 0.9,
+      "nationalPercent": 0.5,
+      "difference": 0.4
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2513,
+      "percent": 2.5,
+      "nationalPercent": 0.8,
+      "difference": 1.7
+    },
+    "White": {
+      "count": 92299,
+      "percent": 92.6,
+      "nationalPercent": 6.2,
+      "difference": 86.4
+    },
+    "Other": {
+      "count": 1036,
+      "percent": 1.0,
+      "nationalPercent": 1.6,
+      "difference": -0.6
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 90215,
+      "percent": 90.6,
+      "nationalPercent": 13.9,
+      "difference": 76.7
+    },
+    "European Union": {
+      "count": 3867,
+      "percent": 3.9,
+      "nationalPercent": 0.5,
+      "difference": 3.4
+    },
+    "Rest of world": {
+      "count": 5538,
+      "percent": 5.6,
+      "nationalPercent": 0.3,
+      "difference": 5.3
+    }
+  },
+  "mp": {
+    "name": "Tom Rutland",
+    "party": "Labour",
+    "memberId": 5222,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5222/Thumbnail",
+    "email": "tom.rutland@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 9519,
+    "turnout": 49078,
+    "turnoutPercent": 65.7,
+    "electorate": 74738,
+    "validVotes": 49078,
+    "invalidVotes": 181,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Tom Rutland",
+        "votes": 22120,
+        "percent": 45.1,
+        "change": 8.1
+      },
+      {
+        "party": "Conservative",
+        "name": "Leila Williams",
+        "votes": 12601,
+        "percent": 25.7,
+        "change": -25.3
+      },
+      {
+        "party": "Reform UK",
+        "name": "Lionel Harman",
+        "votes": 7169,
+        "percent": 14.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Debbie Woudman",
+        "votes": 3246,
+        "percent": 6.6,
+        "change": 2.8
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "David Batchelor",
+        "votes": 3180,
+        "percent": 6.5,
+        "change": -1.3
+      },
+      {
+        "party": "Independent",
+        "name": "Frank Ward",
+        "votes": 320,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "John Greenshields",
+        "votes": 273,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Ivana Forman",
+        "votes": 169,
+        "percent": 0.3,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 1835,
+    "currentRate": 3.1,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.8
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.0
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.1
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 765.7,
+    "annualChange": 4.2,
+    "ukPay": 811.2
+  }
+}

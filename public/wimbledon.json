@@ -1,0 +1,333 @@
+{
+  "name": "Wimbledon",
+  "region": "England",
+  "onsCode": "E14001586",
+  "electorate": 76334,
+  "center_lat": 51.41211,
+  "center_lon": -0.21611,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 23586,
+      "percent": 21.2,
+      "nationalPercent": 20.6,
+      "difference": 0.6
+    },
+    "18 to 24": {
+      "count": 6881,
+      "percent": 6.2,
+      "nationalPercent": 8.4,
+      "difference": -2.2
+    },
+    "25 to 34": {
+      "count": 17515,
+      "percent": 15.7,
+      "nationalPercent": 13.5,
+      "difference": 2.2
+    },
+    "35 to 49": {
+      "count": 26329,
+      "percent": 23.6,
+      "nationalPercent": 19.3,
+      "difference": 4.3
+    },
+    "50 to 64": {
+      "count": 19986,
+      "percent": 17.9,
+      "nationalPercent": 19.2,
+      "difference": -1.3
+    },
+    "65 and over": {
+      "count": 17112,
+      "percent": 15.4,
+      "nationalPercent": 19.0,
+      "difference": -3.6
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 19358,
+      "percent": 17.5,
+      "nationalPercent": 1.6,
+      "difference": 15.9
+    },
+    "Black, African or Caribbean": {
+      "count": 3873,
+      "percent": 3.5,
+      "nationalPercent": 0.5,
+      "difference": 3.0
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 6373,
+      "percent": 5.8,
+      "nationalPercent": 0.8,
+      "difference": 5.0
+    },
+    "White": {
+      "count": 75973,
+      "percent": 68.8,
+      "nationalPercent": 6.2,
+      "difference": 62.6
+    },
+    "Other": {
+      "count": 4820,
+      "percent": 4.4,
+      "nationalPercent": 1.6,
+      "difference": 2.8
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 68362,
+      "percent": 61.9,
+      "nationalPercent": 13.9,
+      "difference": 48.0
+    },
+    "European Union": {
+      "count": 13307,
+      "percent": 12.1,
+      "nationalPercent": 0.5,
+      "difference": 11.6
+    },
+    "Rest of world": {
+      "count": 28722,
+      "percent": 26.0,
+      "nationalPercent": 0.3,
+      "difference": 25.7
+    }
+  },
+  "mp": {
+    "name": "Mr Paul Kohler",
+    "party": "Liberal Democrat",
+    "memberId": 5321,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5321/Thumbnail",
+    "email": "mr.paul.kohler@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "LD gain from Con",
+    "majority": 12610,
+    "turnout": 54985,
+    "turnoutPercent": 72.0,
+    "electorate": 76334,
+    "validVotes": 54985,
+    "invalidVotes": 171,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Liberal Democrat",
+        "name": "Paul Kohler",
+        "votes": 24790,
+        "percent": 45.1,
+        "change": 6.8
+      },
+      {
+        "party": "Conservative",
+        "name": "Danielle Dunfield-Prayero",
+        "votes": 12180,
+        "percent": 22.2,
+        "change": -17.6
+      },
+      {
+        "party": "Labour",
+        "name": "Eleanor Stringer",
+        "votes": 11733,
+        "percent": 21.3,
+        "change": 0.5
+      },
+      {
+        "party": "Reform UK",
+        "name": "Ben Cronin",
+        "votes": 3221,
+        "percent": 5.9,
+        "change": 5.6
+      },
+      {
+        "party": "Green Party",
+        "name": "Rachel Brooks",
+        "votes": 2442,
+        "percent": 4.4,
+        "change": 4.2
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Aaron Mafi",
+        "votes": 341,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Sarah Barber",
+        "votes": 129,
+        "percent": 0.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Amy Lynch",
+        "votes": 80,
+        "percent": 0.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Heritage Party",
+        "name": "Michael Watson",
+        "votes": 69,
+        "percent": 0.1,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 1700,
+        "percent": 23.7
+      },
+      "Retail and wholesale": {
+        "count": 890,
+        "percent": 12.4
+      },
+      "Information and communication": {
+        "count": 850,
+        "percent": 11.9
+      },
+      "Construction": {
+        "count": 740,
+        "percent": 10.3
+      },
+      "Business admin and support": {
+        "count": 700,
+        "percent": 9.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 520,
+        "percent": 7.3
+      },
+      "Health": {
+        "count": 395,
+        "percent": 5.5
+      },
+      "Property": {
+        "count": 380,
+        "percent": 5.3
+      },
+      "Accommodation and food services": {
+        "count": 320,
+        "percent": 4.5
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 180,
+        "percent": 2.5
+      },
+      "Transport and storage": {
+        "count": 175,
+        "percent": 2.4
+      },
+      "Education": {
+        "count": 170,
+        "percent": 2.4
+      },
+      "Finance and insurance": {
+        "count": 125,
+        "percent": 1.7
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 15,
+        "percent": 0.2
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Business admin and support": {
+        "count": 9000,
+        "percent": 14.3
+      },
+      "Retail and wholesale": {
+        "count": 7450,
+        "percent": 11.8
+      },
+      "Accommodation and food services": {
+        "count": 7000,
+        "percent": 11.1
+      },
+      "Professional, scientific and technical": {
+        "count": 6000,
+        "percent": 9.5
+      },
+      "Transport and storage": {
+        "count": 5000,
+        "percent": 7.9
+      },
+      "Education": {
+        "count": 5000,
+        "percent": 7.9
+      },
+      "Health": {
+        "count": 5000,
+        "percent": 7.9
+      },
+      "Arts, entertainment and recreation": {
+        "count": 4500,
+        "percent": 7.2
+      },
+      "Information and communication": {
+        "count": 4000,
+        "percent": 6.4
+      },
+      "Construction": {
+        "count": 2500,
+        "percent": 4.0
+      },
+      "Public admin and defence": {
+        "count": 2250,
+        "percent": 3.6
+      },
+      "Finance and insurance": {
+        "count": 2000,
+        "percent": 3.2
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 1700,
+        "percent": 2.7
+      },
+      "Property": {
+        "count": 1500,
+        "percent": 2.4
+      }
+    }
+  },
+  "unemployment": {
+    "count": 2150,
+    "currentRate": 2.9,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.9
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.8
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.9
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 1209.5,
+    "annualChange": 4.6,
+    "ukPay": 811.2
+  }
+}

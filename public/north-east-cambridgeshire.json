@@ -1,0 +1,201 @@
+{
+  "name": "North East Cambridgeshire",
+  "region": "England",
+  "onsCode": "E14001390",
+  "electorate": 71511,
+  "center_lat": 52.53392,
+  "center_lon": 0.01225,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 20720,
+      "percent": 19.8,
+      "nationalPercent": 20.6,
+      "difference": -0.8
+    },
+    "18 to 24": {
+      "count": 6393,
+      "percent": 6.1,
+      "nationalPercent": 8.4,
+      "difference": -2.3
+    },
+    "25 to 34": {
+      "count": 12662,
+      "percent": 12.1,
+      "nationalPercent": 13.5,
+      "difference": -1.4
+    },
+    "35 to 49": {
+      "count": 18713,
+      "percent": 17.8,
+      "nationalPercent": 19.3,
+      "difference": -1.5
+    },
+    "50 to 64": {
+      "count": 21900,
+      "percent": 20.9,
+      "nationalPercent": 19.2,
+      "difference": 1.6
+    },
+    "65 and over": {
+      "count": 24508,
+      "percent": 23.4,
+      "nationalPercent": 19.0,
+      "difference": 4.4
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 1232,
+      "percent": 1.2,
+      "nationalPercent": 1.6,
+      "difference": -0.4
+    },
+    "Black, African or Caribbean": {
+      "count": 814,
+      "percent": 0.8,
+      "nationalPercent": 0.5,
+      "difference": 0.3
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1412,
+      "percent": 1.4,
+      "nationalPercent": 0.8,
+      "difference": 0.6
+    },
+    "White": {
+      "count": 98280,
+      "percent": 95.9,
+      "nationalPercent": 6.2,
+      "difference": 89.7
+    },
+    "Other": {
+      "count": 723,
+      "percent": 0.7,
+      "nationalPercent": 1.6,
+      "difference": -0.9
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 89691,
+      "percent": 87.5,
+      "nationalPercent": 13.9,
+      "difference": 73.6
+    },
+    "European Union": {
+      "count": 9834,
+      "percent": 9.6,
+      "nationalPercent": 0.5,
+      "difference": 9.1
+    },
+    "Rest of world": {
+      "count": 2936,
+      "percent": 2.9,
+      "nationalPercent": 0.3,
+      "difference": 2.6
+    }
+  },
+  "mp": {
+    "name": "Steve Barclay",
+    "party": "Conservative",
+    "memberId": 4095,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4095/Thumbnail",
+    "email": "steve.barclay@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Con hold",
+    "majority": 7189,
+    "turnout": 39176,
+    "turnoutPercent": 54.8,
+    "electorate": 71511,
+    "validVotes": 39176,
+    "invalidVotes": 145,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Conservative",
+        "name": "Steve Barclay",
+        "votes": 16246,
+        "percent": 41.5,
+        "change": -32.4
+      },
+      {
+        "party": "Reform UK",
+        "name": "Chris Thornhill",
+        "votes": 9057,
+        "percent": 23.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Labour",
+        "name": "Javeria Hussain",
+        "votes": 8008,
+        "percent": 20.4,
+        "change": 4.4
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "David Chalmers",
+        "votes": 2716,
+        "percent": 6.9,
+        "change": 0.2
+      },
+      {
+        "party": "Green Party",
+        "name": "Andrew Crawford",
+        "votes": 2001,
+        "percent": 5.1,
+        "change": 1.7
+      },
+      {
+        "party": "Independent",
+        "name": "David Patrick",
+        "votes": 958,
+        "percent": 2.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Clayton Payne",
+        "votes": 190,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 2385,
+    "currentRate": 3.8,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.6
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.8
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.8
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 727.9,
+    "annualChange": 3.4,
+    "ukPay": 811.2
+  }
+}

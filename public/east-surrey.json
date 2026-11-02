@@ -1,0 +1,201 @@
+{
+  "name": "East Surrey",
+  "region": "England",
+  "onsCode": "E14001215",
+  "electorate": 73307,
+  "center_lat": 51.23772,
+  "center_lon": -0.04589,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 22611,
+      "percent": 22.1,
+      "nationalPercent": 20.6,
+      "difference": 1.5
+    },
+    "18 to 24": {
+      "count": 6340,
+      "percent": 6.2,
+      "nationalPercent": 8.4,
+      "difference": -2.2
+    },
+    "25 to 34": {
+      "count": 10879,
+      "percent": 10.6,
+      "nationalPercent": 13.5,
+      "difference": -2.9
+    },
+    "35 to 49": {
+      "count": 20435,
+      "percent": 20.0,
+      "nationalPercent": 19.3,
+      "difference": 0.6
+    },
+    "50 to 64": {
+      "count": 21192,
+      "percent": 20.7,
+      "nationalPercent": 19.2,
+      "difference": 1.5
+    },
+    "65 and over": {
+      "count": 20935,
+      "percent": 20.4,
+      "nationalPercent": 19.0,
+      "difference": 1.4
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 3993,
+      "percent": 4.0,
+      "nationalPercent": 1.6,
+      "difference": 2.4
+    },
+    "Black, African or Caribbean": {
+      "count": 2453,
+      "percent": 2.5,
+      "nationalPercent": 0.5,
+      "difference": 2.0
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 3875,
+      "percent": 3.9,
+      "nationalPercent": 0.8,
+      "difference": 3.1
+    },
+    "White": {
+      "count": 87899,
+      "percent": 88.6,
+      "nationalPercent": 6.2,
+      "difference": 82.4
+    },
+    "Other": {
+      "count": 945,
+      "percent": 1.0,
+      "nationalPercent": 1.6,
+      "difference": -0.6
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 87851,
+      "percent": 88.6,
+      "nationalPercent": 13.9,
+      "difference": 74.7
+    },
+    "European Union": {
+      "count": 3853,
+      "percent": 3.9,
+      "nationalPercent": 0.5,
+      "difference": 3.4
+    },
+    "Rest of world": {
+      "count": 7461,
+      "percent": 7.5,
+      "nationalPercent": 0.3,
+      "difference": 7.2
+    }
+  },
+  "mp": {
+    "name": "Claire Coutinho",
+    "party": "Conservative",
+    "memberId": 4806,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4806/Thumbnail",
+    "email": "claire.coutinho@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Con hold",
+    "majority": 7450,
+    "turnout": 49196,
+    "turnoutPercent": 67.1,
+    "electorate": 73307,
+    "validVotes": 49196,
+    "invalidVotes": 208,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Conservative",
+        "name": "Claire Coutinho",
+        "votes": 17502,
+        "percent": 35.6,
+        "change": -24.8
+      },
+      {
+        "party": "Labour",
+        "name": "Thomas Bowell",
+        "votes": 10052,
+        "percent": 20.4,
+        "change": 7.2
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Claire Malcomson",
+        "votes": 8833,
+        "percent": 18.0,
+        "change": -2.4
+      },
+      {
+        "party": "Reform UK",
+        "name": "Chris Scott",
+        "votes": 8380,
+        "percent": 17.0,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Shasha Khan",
+        "votes": 2957,
+        "percent": 6.0,
+        "change": 3.0
+      },
+      {
+        "party": "Independent",
+        "name": "Judy Moore",
+        "votes": 1145,
+        "percent": 2.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "name": "Martin Hogbin",
+        "votes": 327,
+        "percent": 0.7,
+        "change": -0.3
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 1600,
+    "currentRate": 2.6,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.5
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.6
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.6
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 981.2,
+    "annualChange": 16.3,
+    "ukPay": 811.2
+  }
+}

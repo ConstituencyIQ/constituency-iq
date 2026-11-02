@@ -1,0 +1,50 @@
+---
+export interface Props {
+  migration: Record<string, { count: number; percent: number; nationalPercent: number; difference: number }>;
+}
+
+const { migration = {} } = Astro.ts ?? Astro.props;
+// Directly map the flat migration object passed from the JSON payload
+const broadGroups = migration || {};
+---
+
+<div class="card" style="margin-top: 25px; background: white; border-radius: 12px; padding: 25px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); border: 1px solid var(--border-color, #e2e8f0);">
+  <div class="card-title" style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted, #64748b); margin-bottom: 10px; font-weight: 600;">
+    Country of Birth &amp; Migration Profile
+  </div>
+  <p style="font-size: 0.85rem; color: var(--text-muted, #64748b); margin-top: 0; margin-bottom: 15px;">
+    Resident population distribution by broad region of birth and variance from UK averages (Census 2021/2022).
+  </p>
+
+  <!-- Broad Groups Section -->
+  <div>
+    {Object.keys(broadGroups).length > 0 ? (
+      Object.entries(broadGroups).map(([group, info]) => {
+        const diff = info.difference || 0;
+        const diffLabel = diff > 0 ? `+${diff}% vs UK` : `${diff}% vs UK`;
+        const diffColor = diff > 0 ? '#047857' : diff < 0 ? '#b91c1c' : '#64748b';
+        
+        return (
+          <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0; border-bottom: 1px solid #f1f5f9; font-size: 0.9rem;">
+            <div>
+              <span style="font-weight: 500; display: block; color: #1e293b;">{group}</span>
+              <span style="font-size: 0.75rem; color: var(--text-muted, #64748b);">
+                {info.percent}% local ({info.nationalPercent}% UK)
+              </span>
+            </div>
+            <div style="text-align: right;">
+              <span style="font-variant-numeric: tabular-nums; font-weight: 600; display: block; color: #0f172a;">
+                {info.count ? info.count.toLocaleString() : 'N/A'}
+              </span>
+              <span style={`font-size: 0.75rem; font-weight: 600; color: ${diffColor};`}>
+                {diffLabel}
+              </span>
+            </div>
+          </div>
+        );
+      })
+    ) : (
+      <p style="font-size: 0.85rem; color: var(--text-muted, #64748b);">No migration data available for this constituency.</p>
+    )}
+  </div>
+</div>

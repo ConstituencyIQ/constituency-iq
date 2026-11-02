@@ -1,0 +1,194 @@
+{
+  "name": "Eastbourne",
+  "region": "England",
+  "onsCode": "E14001219",
+  "electorate": 72590,
+  "center_lat": 50.77262,
+  "center_lon": 0.2583,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19716,
+      "percent": 18.9,
+      "nationalPercent": 20.6,
+      "difference": -1.7
+    },
+    "18 to 24": {
+      "count": 7352,
+      "percent": 7.1,
+      "nationalPercent": 8.4,
+      "difference": -1.3
+    },
+    "25 to 34": {
+      "count": 11807,
+      "percent": 11.3,
+      "nationalPercent": 13.5,
+      "difference": -2.2
+    },
+    "35 to 49": {
+      "count": 18806,
+      "percent": 18.0,
+      "nationalPercent": 19.3,
+      "difference": -1.3
+    },
+    "50 to 64": {
+      "count": 20653,
+      "percent": 19.8,
+      "nationalPercent": 19.2,
+      "difference": 0.6
+    },
+    "65 and over": {
+      "count": 25925,
+      "percent": 24.9,
+      "nationalPercent": 19.0,
+      "difference": 5.9
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 3544,
+      "percent": 3.5,
+      "nationalPercent": 1.6,
+      "difference": 1.9
+    },
+    "Black, African or Caribbean": {
+      "count": 1308,
+      "percent": 1.3,
+      "nationalPercent": 0.5,
+      "difference": 0.8
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2802,
+      "percent": 2.8,
+      "nationalPercent": 0.8,
+      "difference": 2.0
+    },
+    "White": {
+      "count": 92342,
+      "percent": 90.8,
+      "nationalPercent": 6.2,
+      "difference": 84.6
+    },
+    "Other": {
+      "count": 1684,
+      "percent": 1.7,
+      "nationalPercent": 1.6,
+      "difference": 0.1
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 86238,
+      "percent": 84.8,
+      "nationalPercent": 13.9,
+      "difference": 70.9
+    },
+    "European Union": {
+      "count": 7674,
+      "percent": 7.5,
+      "nationalPercent": 0.5,
+      "difference": 7.0
+    },
+    "Rest of world": {
+      "count": 7781,
+      "percent": 7.7,
+      "nationalPercent": 0.3,
+      "difference": 7.4
+    }
+  },
+  "mp": {
+    "name": "Josh Babarinde",
+    "party": "Liberal Democrat",
+    "memberId": 5086,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5086/Thumbnail",
+    "email": "josh.babarinde@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "LD gain from Con",
+    "majority": 12204,
+    "turnout": 45605,
+    "turnoutPercent": 62.8,
+    "electorate": 72590,
+    "validVotes": 45605,
+    "invalidVotes": 159,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Liberal Democrat",
+        "name": "Josh Babarinde",
+        "votes": 23742,
+        "percent": 52.1,
+        "change": 9.2
+      },
+      {
+        "party": "Conservative",
+        "name": "Caroline Ansell",
+        "votes": 11538,
+        "percent": 25.3,
+        "change": -21.8
+      },
+      {
+        "party": "Reform UK",
+        "name": "Mark Ashdown",
+        "votes": 6061,
+        "percent": 13.3,
+        "change": 10.5
+      },
+      {
+        "party": "Labour",
+        "name": "Paul Richards",
+        "votes": 2689,
+        "percent": 5.9,
+        "change": -1.0
+      },
+      {
+        "party": "Green Party",
+        "name": "Mike Munson",
+        "votes": 1421,
+        "percent": 3.1,
+        "change": "N/A"
+      },
+      {
+        "party": "UK Independence Party",
+        "name": "Ian Garbutt",
+        "votes": 154,
+        "percent": 0.3,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 2960,
+    "currentRate": 4.8,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 4.7
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 4.8
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 4.8
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 796.1,
+    "annualChange": 10.3,
+    "ukPay": 811.2
+  }
+}

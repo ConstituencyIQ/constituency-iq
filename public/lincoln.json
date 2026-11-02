@@ -1,0 +1,333 @@
+{
+  "name": "Lincoln",
+  "region": "England",
+  "onsCode": "E14001336",
+  "electorate": 72315,
+  "center_lat": 53.20443,
+  "center_lon": -0.5732,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 21797,
+      "percent": 18.2,
+      "nationalPercent": 20.6,
+      "difference": -2.3
+    },
+    "18 to 24": {
+      "count": 19107,
+      "percent": 16.0,
+      "nationalPercent": 8.4,
+      "difference": 7.6
+    },
+    "25 to 34": {
+      "count": 17759,
+      "percent": 14.9,
+      "nationalPercent": 13.5,
+      "difference": 1.4
+    },
+    "35 to 49": {
+      "count": 22196,
+      "percent": 18.6,
+      "nationalPercent": 19.3,
+      "difference": -0.8
+    },
+    "50 to 64": {
+      "count": 19687,
+      "percent": 16.5,
+      "nationalPercent": 19.2,
+      "difference": -2.8
+    },
+    "65 and over": {
+      "count": 18897,
+      "percent": 15.8,
+      "nationalPercent": 19.0,
+      "difference": -3.2
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 3492,
+      "percent": 3.0,
+      "nationalPercent": 1.6,
+      "difference": 1.4
+    },
+    "Black, African or Caribbean": {
+      "count": 1518,
+      "percent": 1.3,
+      "nationalPercent": 0.5,
+      "difference": 0.8
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2197,
+      "percent": 1.9,
+      "nationalPercent": 0.8,
+      "difference": 1.1
+    },
+    "White": {
+      "count": 108840,
+      "percent": 92.7,
+      "nationalPercent": 6.2,
+      "difference": 86.5
+    },
+    "Other": {
+      "count": 1324,
+      "percent": 1.1,
+      "nationalPercent": 1.6,
+      "difference": -0.5
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 100863,
+      "percent": 85.9,
+      "nationalPercent": 13.9,
+      "difference": 72.0
+    },
+    "European Union": {
+      "count": 10366,
+      "percent": 8.8,
+      "nationalPercent": 0.5,
+      "difference": 8.3
+    },
+    "Rest of world": {
+      "count": 6141,
+      "percent": 5.2,
+      "nationalPercent": 0.3,
+      "difference": 4.9
+    }
+  },
+  "mp": {
+    "name": "Mr Hamish Falconer",
+    "party": "Labour",
+    "memberId": 5148,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5148/Thumbnail",
+    "email": "mr.hamish.falconer@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 8793,
+    "turnout": 42160,
+    "turnoutPercent": 58.3,
+    "electorate": 72315,
+    "validVotes": 42160,
+    "invalidVotes": 165,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Hamish Falconer",
+        "votes": 18470,
+        "percent": 43.8,
+        "change": 2.8
+      },
+      {
+        "party": "Conservative",
+        "name": "Karl McCartney",
+        "votes": 9677,
+        "percent": 23.0,
+        "change": -25.0
+      },
+      {
+        "party": "Reform UK",
+        "name": "Jamie-Lee McMillan",
+        "votes": 7602,
+        "percent": 18.0,
+        "change": 15.9
+      },
+      {
+        "party": "Green Party",
+        "name": "Sally Horscroft",
+        "votes": 2751,
+        "percent": 6.5,
+        "change": 4.2
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Clare Smalley",
+        "votes": 2580,
+        "percent": 6.1,
+        "change": 1.3
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Linda Richardson",
+        "votes": 479,
+        "percent": 1.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal",
+        "name": "Charles Shaw",
+        "votes": 278,
+        "percent": 0.7,
+        "change": 0.1
+      },
+      {
+        "party": "Independent",
+        "name": "Laura Ashby",
+        "votes": 243,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Craig Marshall",
+        "votes": 80,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Construction": {
+        "count": 535,
+        "percent": 17.7
+      },
+      "Retail and wholesale": {
+        "count": 500,
+        "percent": 16.6
+      },
+      "Professional, scientific and technical": {
+        "count": 405,
+        "percent": 13.4
+      },
+      "Accommodation and food services": {
+        "count": 275,
+        "percent": 9.1
+      },
+      "Business admin and support": {
+        "count": 215,
+        "percent": 7.1
+      },
+      "Arts, entertainment and recreation": {
+        "count": 210,
+        "percent": 7.0
+      },
+      "Health": {
+        "count": 165,
+        "percent": 5.5
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 145,
+        "percent": 4.8
+      },
+      "Property": {
+        "count": 140,
+        "percent": 4.6
+      },
+      "Information and communication": {
+        "count": 135,
+        "percent": 4.5
+      },
+      "Transport and storage": {
+        "count": 115,
+        "percent": 3.8
+      },
+      "Education": {
+        "count": 65,
+        "percent": 2.2
+      },
+      "Finance and insurance": {
+        "count": 60,
+        "percent": 2.0
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 40,
+        "percent": 1.3
+      },
+      "Public admin and defence": {
+        "count": 10,
+        "percent": 0.3
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 14000,
+        "percent": 23.7
+      },
+      "Retail and wholesale": {
+        "count": 8500,
+        "percent": 14.4
+      },
+      "Education": {
+        "count": 6000,
+        "percent": 10.1
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 5750,
+        "percent": 9.7
+      },
+      "Accommodation and food services": {
+        "count": 5000,
+        "percent": 8.5
+      },
+      "Public admin and defence": {
+        "count": 5000,
+        "percent": 8.5
+      },
+      "Business admin and support": {
+        "count": 4000,
+        "percent": 6.8
+      },
+      "Professional, scientific and technical": {
+        "count": 3000,
+        "percent": 5.1
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2250,
+        "percent": 3.8
+      },
+      "Construction": {
+        "count": 1750,
+        "percent": 3.0
+      },
+      "Transport and storage": {
+        "count": 1750,
+        "percent": 3.0
+      },
+      "Information and communication": {
+        "count": 1000,
+        "percent": 1.7
+      },
+      "Property": {
+        "count": 700,
+        "percent": 1.2
+      },
+      "Finance and insurance": {
+        "count": 450,
+        "percent": 0.8
+      }
+    }
+  },
+  "unemployment": {
+    "count": 2890,
+    "currentRate": 3.6,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.5
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.5
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.6
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 710.5,
+    "annualChange": 3.5,
+    "ukPay": 811.2
+  }
+}

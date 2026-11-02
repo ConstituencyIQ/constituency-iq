@@ -1,16 +1,216 @@
 {
-    "name": "Cities of London and Westminster",
-    "region": "London",
-    "onsCode": "E14000637",
-    "electorate": 66500,
-    "metrics": {
-        "medianEarnings": "\u00a3920.00",
-        "earningsVariance": "+35.5% vs UK",
-        "housePrice": "\u00a3950000",
-        "housePriceVariance": "+233.0% vs UK",
-        "claimantRate": "2.5%",
-        "claimantVariance": "-1.6 pp vs UK",
-        "crimeRate": "110.2 per 1,000",
-        "crimeVariance": "+22.0% vs UK"
+  "name": "Cities of London and Westminster",
+  "region": "England",
+  "onsCode": "E14001172",
+  "electorate": 73369,
+  "center_lat": 51.51235,
+  "center_lon": -0.1239,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 15578,
+      "percent": 11.9,
+      "nationalPercent": 20.6,
+      "difference": -8.7
+    },
+    "18 to 24": {
+      "count": 17501,
+      "percent": 13.3,
+      "nationalPercent": 8.4,
+      "difference": 5.0
+    },
+    "25 to 34": {
+      "count": 31298,
+      "percent": 23.8,
+      "nationalPercent": 13.5,
+      "difference": 10.4
+    },
+    "35 to 49": {
+      "count": 26358,
+      "percent": 20.1,
+      "nationalPercent": 19.3,
+      "difference": 0.7
+    },
+    "50 to 64": {
+      "count": 23138,
+      "percent": 17.6,
+      "nationalPercent": 19.2,
+      "difference": -1.6
+    },
+    "65 and over": {
+      "count": 17374,
+      "percent": 13.2,
+      "nationalPercent": 19.0,
+      "difference": -5.8
     }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 21404,
+      "percent": 17.8,
+      "nationalPercent": 1.6,
+      "difference": 16.2
+    },
+    "Black, African or Caribbean": {
+      "count": 6495,
+      "percent": 5.4,
+      "nationalPercent": 0.5,
+      "difference": 4.9
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 7343,
+      "percent": 6.1,
+      "nationalPercent": 0.8,
+      "difference": 5.3
+    },
+    "White": {
+      "count": 72023,
+      "percent": 60.0,
+      "nationalPercent": 6.2,
+      "difference": 53.8
+    },
+    "Other": {
+      "count": 12716,
+      "percent": 10.6,
+      "nationalPercent": 1.6,
+      "difference": 9.0
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 51902,
+      "percent": 43.3,
+      "nationalPercent": 13.9,
+      "difference": 29.4
+    },
+    "European Union": {
+      "count": 22203,
+      "percent": 18.5,
+      "nationalPercent": 0.5,
+      "difference": 18.0
+    },
+    "Rest of world": {
+      "count": 45876,
+      "percent": 38.2,
+      "nationalPercent": 0.3,
+      "difference": 37.9
+    }
+  },
+  "mp": {
+    "name": "Rachel Blake",
+    "party": "Labour (Co-op)",
+    "memberId": 5257,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5257/Thumbnail",
+    "email": "rachel.blake@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 2708,
+    "turnout": 39215,
+    "turnoutPercent": 53.4,
+    "electorate": 73369,
+    "validVotes": 39215,
+    "invalidVotes": 202,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Rachel Blake",
+        "votes": 15302,
+        "percent": 39.0,
+        "change": 10.2
+      },
+      {
+        "party": "Conservative",
+        "name": "Tim Barnes",
+        "votes": 12594,
+        "percent": 32.1,
+        "change": -8.2
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Edward Lucas",
+        "votes": 4335,
+        "percent": 11.1,
+        "change": -17.2
+      },
+      {
+        "party": "Green Party",
+        "name": "Rajiv Sinha",
+        "votes": 2844,
+        "percent": 7.3,
+        "change": 5.3
+      },
+      {
+        "party": "Reform UK",
+        "name": "Tarun Ghulati",
+        "votes": 2752,
+        "percent": 7.0,
+        "change": 6.8
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Hoz Shafiei",
+        "votes": 727,
+        "percent": 1.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Rejoin EU",
+        "name": "Liz Burford",
+        "votes": 352,
+        "percent": 0.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Huge De Burgh",
+        "votes": 110,
+        "percent": 0.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "John Generic",
+        "votes": 110,
+        "percent": 0.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Tim Hallett",
+        "votes": 55,
+        "percent": 0.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Matthew Carr",
+        "votes": 34,
+        "percent": 0.1,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 0,
+    "currentRate": 0.0,
+    "history": []
+  },
+  "wage": {
+    "medianWeeklyPay": 1457.0,
+    "annualChange": 37.2,
+    "ukPay": 811.2
+  }
 }

@@ -1,0 +1,340 @@
+{
+  "name": "Preston",
+  "region": "England",
+  "onsCode": "E14001433",
+  "electorate": 77400,
+  "center_lat": 53.77386,
+  "center_lon": -2.70932,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 27689,
+      "percent": 22.2,
+      "nationalPercent": 20.6,
+      "difference": 1.6
+    },
+    "18 to 24": {
+      "count": 16129,
+      "percent": 12.9,
+      "nationalPercent": 8.4,
+      "difference": 4.6
+    },
+    "25 to 34": {
+      "count": 20921,
+      "percent": 16.8,
+      "nationalPercent": 13.5,
+      "difference": 3.3
+    },
+    "35 to 49": {
+      "count": 23806,
+      "percent": 19.1,
+      "nationalPercent": 19.3,
+      "difference": -0.2
+    },
+    "50 to 64": {
+      "count": 20329,
+      "percent": 16.3,
+      "nationalPercent": 19.2,
+      "difference": -2.9
+    },
+    "65 and over": {
+      "count": 15728,
+      "percent": 12.6,
+      "nationalPercent": 19.0,
+      "difference": -6.4
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 25185,
+      "percent": 21.8,
+      "nationalPercent": 1.6,
+      "difference": 20.2
+    },
+    "Black, African or Caribbean": {
+      "count": 3086,
+      "percent": 2.7,
+      "nationalPercent": 0.5,
+      "difference": 2.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 3764,
+      "percent": 3.3,
+      "nationalPercent": 0.8,
+      "difference": 2.5
+    },
+    "White": {
+      "count": 80981,
+      "percent": 70.1,
+      "nationalPercent": 6.2,
+      "difference": 63.9
+    },
+    "Other": {
+      "count": 2470,
+      "percent": 2.1,
+      "nationalPercent": 1.6,
+      "difference": 0.5
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 90504,
+      "percent": 78.4,
+      "nationalPercent": 13.9,
+      "difference": 64.5
+    },
+    "European Union": {
+      "count": 9049,
+      "percent": 7.8,
+      "nationalPercent": 0.5,
+      "difference": 7.3
+    },
+    "Rest of world": {
+      "count": 15928,
+      "percent": 13.8,
+      "nationalPercent": 0.3,
+      "difference": 13.5
+    }
+  },
+  "mp": {
+    "name": "Sir Mark Hendrick",
+    "party": "Labour (Co-op)",
+    "memberId": 473,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/473/Thumbnail",
+    "email": "sir.mark.hendrick@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 5291,
+    "turnout": 39993,
+    "turnoutPercent": 51.7,
+    "electorate": 77400,
+    "validVotes": 39993,
+    "invalidVotes": 139,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Mark Hendrick",
+        "votes": 14006,
+        "percent": 35.0,
+        "change": -22.3
+      },
+      {
+        "party": "Independent",
+        "name": "Michael Lavalette",
+        "votes": 8715,
+        "percent": 21.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Reform UK",
+        "name": "James Elliot",
+        "votes": 5738,
+        "percent": 14.3,
+        "change": 10.2
+      },
+      {
+        "party": "Conservative",
+        "name": "Trevor Hart",
+        "votes": 5212,
+        "percent": 13.0,
+        "change": -16.8
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Neil Darby",
+        "votes": 3195,
+        "percent": 8.0,
+        "change": 1.2
+      },
+      {
+        "party": "Green Party",
+        "name": "Isabella Metcalf-Riener",
+        "votes": 1751,
+        "percent": 4.4,
+        "change": 2.4
+      },
+      {
+        "party": "Independent",
+        "name": "Yousuf Bhailok",
+        "votes": 891,
+        "percent": 2.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Rejoin EU",
+        "name": "Joseph O'Meachair",
+        "votes": 216,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Alliance for Democracy and Freedom",
+        "name": "David Brooks",
+        "votes": 145,
+        "percent": 0.4,
+        "change": "N/A"
+      },
+      {
+        "party": "UK Independence Party",
+        "name": "Derek Killeen",
+        "votes": 124,
+        "percent": 0.3,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 985,
+        "percent": 23.0
+      },
+      "Professional, scientific and technical": {
+        "count": 565,
+        "percent": 13.2
+      },
+      "Construction": {
+        "count": 515,
+        "percent": 12.0
+      },
+      "Business admin and support": {
+        "count": 340,
+        "percent": 7.9
+      },
+      "Accommodation and food services": {
+        "count": 320,
+        "percent": 7.5
+      },
+      "Transport and storage": {
+        "count": 265,
+        "percent": 6.2
+      },
+      "Arts, entertainment and recreation": {
+        "count": 265,
+        "percent": 6.2
+      },
+      "Property": {
+        "count": 235,
+        "percent": 5.5
+      },
+      "Health": {
+        "count": 235,
+        "percent": 5.5
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 220,
+        "percent": 5.1
+      },
+      "Information and communication": {
+        "count": 165,
+        "percent": 3.9
+      },
+      "Finance and insurance": {
+        "count": 90,
+        "percent": 2.1
+      },
+      "Education": {
+        "count": 65,
+        "percent": 1.5
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 15,
+        "percent": 0.4
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.1
+      }
+    },
+    "employees": {
+      "Public admin and defence": {
+        "count": 14000,
+        "percent": 19.2
+      },
+      "Retail and wholesale": {
+        "count": 12000,
+        "percent": 16.5
+      },
+      "Business admin and support": {
+        "count": 8000,
+        "percent": 11.0
+      },
+      "Education": {
+        "count": 7000,
+        "percent": 9.6
+      },
+      "Health": {
+        "count": 6000,
+        "percent": 8.2
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 5000,
+        "percent": 6.9
+      },
+      "Professional, scientific and technical": {
+        "count": 5000,
+        "percent": 6.9
+      },
+      "Construction": {
+        "count": 4000,
+        "percent": 5.5
+      },
+      "Accommodation and food services": {
+        "count": 3500,
+        "percent": 4.8
+      },
+      "Transport and storage": {
+        "count": 2500,
+        "percent": 3.4
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2500,
+        "percent": 3.4
+      },
+      "Property": {
+        "count": 1250,
+        "percent": 1.7
+      },
+      "Information and communication": {
+        "count": 1000,
+        "percent": 1.4
+      },
+      "Finance and insurance": {
+        "count": 1000,
+        "percent": 1.4
+      }
+    }
+  },
+  "unemployment": {
+    "count": 4540,
+    "currentRate": 5.4,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 5.3
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 5.3
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 5.4
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 706.2,
+    "annualChange": 3.8,
+    "ukPay": 811.2
+  }
+}

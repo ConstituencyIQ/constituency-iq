@@ -1,0 +1,194 @@
+{
+  "name": "Eastleigh",
+  "region": "England",
+  "onsCode": "E14001220",
+  "electorate": 69965,
+  "center_lat": 50.95496,
+  "center_lon": -1.3306,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 20343,
+      "percent": 21.0,
+      "nationalPercent": 20.6,
+      "difference": 0.4
+    },
+    "18 to 24": {
+      "count": 6116,
+      "percent": 6.3,
+      "nationalPercent": 8.4,
+      "difference": -2.0
+    },
+    "25 to 34": {
+      "count": 11775,
+      "percent": 12.2,
+      "nationalPercent": 13.5,
+      "difference": -1.3
+    },
+    "35 to 49": {
+      "count": 19873,
+      "percent": 20.5,
+      "nationalPercent": 19.3,
+      "difference": 1.2
+    },
+    "50 to 64": {
+      "count": 18756,
+      "percent": 19.4,
+      "nationalPercent": 19.2,
+      "difference": 0.1
+    },
+    "65 and over": {
+      "count": 19915,
+      "percent": 20.6,
+      "nationalPercent": 19.0,
+      "difference": 1.6
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 4664,
+      "percent": 5.0,
+      "nationalPercent": 1.6,
+      "difference": 3.4
+    },
+    "Black, African or Caribbean": {
+      "count": 962,
+      "percent": 1.0,
+      "nationalPercent": 0.5,
+      "difference": 0.5
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2038,
+      "percent": 2.2,
+      "nationalPercent": 0.8,
+      "difference": 1.4
+    },
+    "White": {
+      "count": 85001,
+      "percent": 90.9,
+      "nationalPercent": 6.2,
+      "difference": 84.7
+    },
+    "Other": {
+      "count": 890,
+      "percent": 1.0,
+      "nationalPercent": 1.6,
+      "difference": -0.6
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 83615,
+      "percent": 89.4,
+      "nationalPercent": 13.9,
+      "difference": 75.5
+    },
+    "European Union": {
+      "count": 3601,
+      "percent": 3.8,
+      "nationalPercent": 0.5,
+      "difference": 3.3
+    },
+    "Rest of world": {
+      "count": 6333,
+      "percent": 6.8,
+      "nationalPercent": 0.3,
+      "difference": 6.5
+    }
+  },
+  "mp": {
+    "name": "Liz Jarvis",
+    "party": "Liberal Democrat",
+    "memberId": 5040,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5040/Thumbnail",
+    "email": "liz.jarvis@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "LD gain from Con",
+    "majority": 1546,
+    "turnout": 46420,
+    "turnoutPercent": 66.3,
+    "electorate": 69965,
+    "validVotes": 46420,
+    "invalidVotes": 130,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Liberal Democrat",
+        "name": "Liz Jarvis",
+        "votes": 15970,
+        "percent": 34.4,
+        "change": -0.0
+      },
+      {
+        "party": "Conservative",
+        "name": "Sam Joynson",
+        "votes": 14424,
+        "percent": 31.1,
+        "change": -20.8
+      },
+      {
+        "party": "Labour",
+        "name": "Daniel Shearer",
+        "votes": 7005,
+        "percent": 15.1,
+        "change": 3.4
+      },
+      {
+        "party": "Reform UK",
+        "name": "Clare Fawcett",
+        "votes": 6151,
+        "percent": 13.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Ben Parry",
+        "votes": 2403,
+        "percent": 5.2,
+        "change": 3.1
+      },
+      {
+        "party": "Independent",
+        "name": "Russ Kitching",
+        "votes": 467,
+        "percent": 1.0,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 1375,
+    "currentRate": 2.3,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.2
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.3
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.3
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 862.9,
+    "annualChange": 6.5,
+    "ukPay": 811.2
+  }
+}

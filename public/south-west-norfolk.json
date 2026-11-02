@@ -1,0 +1,333 @@
+{
+  "name": "South West Norfolk",
+  "region": "England",
+  "onsCode": "E14001497",
+  "electorate": 74724,
+  "center_lat": 52.54597,
+  "center_lon": 0.54974,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 20451,
+      "percent": 19.1,
+      "nationalPercent": 20.6,
+      "difference": -1.4
+    },
+    "18 to 24": {
+      "count": 6630,
+      "percent": 6.2,
+      "nationalPercent": 8.4,
+      "difference": -2.1
+    },
+    "25 to 34": {
+      "count": 12433,
+      "percent": 11.6,
+      "nationalPercent": 13.5,
+      "difference": -1.8
+    },
+    "35 to 49": {
+      "count": 18368,
+      "percent": 17.2,
+      "nationalPercent": 19.3,
+      "difference": -2.1
+    },
+    "50 to 64": {
+      "count": 22648,
+      "percent": 21.2,
+      "nationalPercent": 19.2,
+      "difference": 2.0
+    },
+    "65 and over": {
+      "count": 26270,
+      "percent": 24.6,
+      "nationalPercent": 19.0,
+      "difference": 5.6
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 924,
+      "percent": 0.9,
+      "nationalPercent": 1.6,
+      "difference": -0.7
+    },
+    "Black, African or Caribbean": {
+      "count": 577,
+      "percent": 0.6,
+      "nationalPercent": 0.5,
+      "difference": 0.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1671,
+      "percent": 1.6,
+      "nationalPercent": 0.8,
+      "difference": 0.8
+    },
+    "White": {
+      "count": 99580,
+      "percent": 96.2,
+      "nationalPercent": 6.2,
+      "difference": 90.0
+    },
+    "Other": {
+      "count": 797,
+      "percent": 0.8,
+      "nationalPercent": 1.6,
+      "difference": -0.8
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 91123,
+      "percent": 88.0,
+      "nationalPercent": 13.9,
+      "difference": 74.1
+    },
+    "European Union": {
+      "count": 7927,
+      "percent": 7.7,
+      "nationalPercent": 0.5,
+      "difference": 7.2
+    },
+    "Rest of world": {
+      "count": 4501,
+      "percent": 4.3,
+      "nationalPercent": 0.3,
+      "difference": 4.0
+    }
+  },
+  "mp": {
+    "name": "Terry Jermy",
+    "party": "Labour",
+    "memberId": 5338,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5338/Thumbnail",
+    "email": "terry.jermy@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 630,
+    "turnout": 44335,
+    "turnoutPercent": 59.3,
+    "electorate": 74724,
+    "validVotes": 44335,
+    "invalidVotes": 139,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Terry Jermy",
+        "votes": 11847,
+        "percent": 26.7,
+        "change": 8.4
+      },
+      {
+        "party": "Conservative",
+        "name": "Liz Truss",
+        "votes": 11217,
+        "percent": 25.3,
+        "change": -43.4
+      },
+      {
+        "party": "Reform UK",
+        "name": "Tobias McKenzie",
+        "votes": 9958,
+        "percent": 22.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "James Bagge",
+        "votes": 6282,
+        "percent": 14.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Josie Ratcliffe",
+        "votes": 2618,
+        "percent": 5.9,
+        "change": -2.3
+      },
+      {
+        "party": "Green Party",
+        "name": "Pallavi Devulapalli",
+        "votes": 1838,
+        "percent": 4.1,
+        "change": 1.1
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "name": "Earl Elvis Of East Anglia",
+        "votes": 338,
+        "percent": 0.8,
+        "change": -1.0
+      },
+      {
+        "party": "Heritage Party",
+        "name": "Gary Conway",
+        "votes": 160,
+        "percent": 0.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Communist Party of Britain",
+        "name": "Lorraine Douglas",
+        "votes": 77,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Construction": {
+        "count": 630,
+        "percent": 17.7
+      },
+      "Retail and wholesale": {
+        "count": 560,
+        "percent": 15.8
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 465,
+        "percent": 13.1
+      },
+      "Professional, scientific and technical": {
+        "count": 365,
+        "percent": 10.3
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 275,
+        "percent": 7.7
+      },
+      "Business admin and support": {
+        "count": 270,
+        "percent": 7.6
+      },
+      "Accommodation and food services": {
+        "count": 210,
+        "percent": 5.9
+      },
+      "Arts, entertainment and recreation": {
+        "count": 175,
+        "percent": 4.9
+      },
+      "Transport and storage": {
+        "count": 155,
+        "percent": 4.4
+      },
+      "Information and communication": {
+        "count": 110,
+        "percent": 3.1
+      },
+      "Property": {
+        "count": 100,
+        "percent": 2.8
+      },
+      "Health": {
+        "count": 85,
+        "percent": 2.4
+      },
+      "Public admin and defence": {
+        "count": 55,
+        "percent": 1.5
+      },
+      "Education": {
+        "count": 55,
+        "percent": 1.5
+      },
+      "Finance and insurance": {
+        "count": 45,
+        "percent": 1.3
+      }
+    },
+    "employees": {
+      "Manufacturing, mining and utilities": {
+        "count": 6700,
+        "percent": 22.8
+      },
+      "Retail and wholesale": {
+        "count": 5800,
+        "percent": 19.7
+      },
+      "Business admin and support": {
+        "count": 2500,
+        "percent": 8.5
+      },
+      "Health": {
+        "count": 2500,
+        "percent": 8.5
+      },
+      "Accommodation and food services": {
+        "count": 2250,
+        "percent": 7.7
+      },
+      "Education": {
+        "count": 2000,
+        "percent": 6.8
+      },
+      "Construction": {
+        "count": 1750,
+        "percent": 6.0
+      },
+      "Professional, scientific and technical": {
+        "count": 1750,
+        "percent": 6.0
+      },
+      "Transport and storage": {
+        "count": 1500,
+        "percent": 5.1
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1000,
+        "percent": 3.4
+      },
+      "Public admin and defence": {
+        "count": 900,
+        "percent": 3.1
+      },
+      "Property": {
+        "count": 350,
+        "percent": 1.2
+      },
+      "Information and communication": {
+        "count": 250,
+        "percent": 0.9
+      },
+      "Finance and insurance": {
+        "count": 150,
+        "percent": 0.5
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1760,
+    "currentRate": 2.8,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.4
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.7
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.8
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 788.7,
+    "annualChange": 8.5,
+    "ukPay": 811.2
+  }
+}

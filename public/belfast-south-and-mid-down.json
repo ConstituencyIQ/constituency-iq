@@ -1,0 +1,250 @@
+{
+  "name": "Belfast South and Mid Down",
+  "region": "Northern Ireland",
+  "onsCode": "N05000003",
+  "electorate": 74749,
+  "center_lat": 54.52547,
+  "center_lon": -5.91349,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 21466,
+      "percent": 17.3,
+      "nationalPercent": 20.6,
+      "difference": -3.3
+    },
+    "18 to 24": {
+      "count": 19758,
+      "percent": 15.9,
+      "nationalPercent": 8.4,
+      "difference": 7.5
+    },
+    "25 to 34": {
+      "count": 21878,
+      "percent": 17.6,
+      "nationalPercent": 13.5,
+      "difference": 4.1
+    },
+    "35 to 49": {
+      "count": 22779,
+      "percent": 18.3,
+      "nationalPercent": 19.3,
+      "difference": -1.0
+    },
+    "50 to 64": {
+      "count": 19691,
+      "percent": 15.8,
+      "nationalPercent": 19.2,
+      "difference": -3.4
+    },
+    "65 and over": {
+      "count": 18751,
+      "percent": 15.1,
+      "nationalPercent": 19.0,
+      "difference": -3.9
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 106594,
+      "percent": 89.2,
+      "nationalPercent": 0.1,
+      "difference": 89.1
+    },
+    "Asian": {
+      "count": 8422,
+      "percent": 7.0,
+      "nationalPercent": 0.3,
+      "difference": 6.7
+    },
+    "Other": {
+      "count": 976,
+      "percent": 0.8,
+      "nationalPercent": 0.2,
+      "difference": 0.6
+    },
+    "Black, African or Caribbean": {
+      "count": 1779,
+      "percent": 1.5,
+      "nationalPercent": 0.2,
+      "difference": 1.3
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1776,
+      "percent": 1.5,
+      "nationalPercent": 0.8,
+      "difference": 0.7
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 99361,
+      "percent": 83.1,
+      "nationalPercent": 22.8,
+      "difference": 60.3
+    },
+    "European Union": {
+      "count": 8246,
+      "percent": 6.9,
+      "nationalPercent": 0.4,
+      "difference": 6.5
+    },
+    "Rest of world": {
+      "count": 11943,
+      "percent": 10.0,
+      "nationalPercent": 0.2,
+      "difference": 9.8
+    }
+  },
+  "mp": {
+    "name": "Claire Hanna",
+    "party": "Social Democratic & Labour Party",
+    "memberId": 4827,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4827/Thumbnail",
+    "email": "claire.hanna@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "SDLP hold",
+    "majority": 12506,
+    "turnout": 43491,
+    "turnoutPercent": 58.2,
+    "electorate": 74749,
+    "validVotes": 43491,
+    "invalidVotes": 266,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Social Democratic & Labour Party",
+        "name": "Claire Hanna",
+        "votes": 21345,
+        "percent": 49.1,
+        "change": -4.2
+      },
+      {
+        "party": "Alliance",
+        "name": "Kate Nicholl",
+        "votes": 8839,
+        "percent": 20.3,
+        "change": 4.9
+      },
+      {
+        "party": "Democratic Unionist Party",
+        "name": "Tracy Kelly",
+        "votes": 6859,
+        "percent": 15.8,
+        "change": -9.6
+      },
+      {
+        "party": "Ulster Unionist Party",
+        "name": "Michael Henderson",
+        "votes": 2653,
+        "percent": 6.1,
+        "change": 2.5
+      },
+      {
+        "party": "Traditional Unionist Voice",
+        "name": "Dan Boucher",
+        "votes": 2218,
+        "percent": 5.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party Northern Ireland",
+        "name": "\u00c3\u0081ine Groogan",
+        "votes": 1577,
+        "percent": 3.6,
+        "change": 3.5
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 1225,
+        "percent": 20.9
+      },
+      "Retail and wholesale": {
+        "count": 870,
+        "percent": 14.9
+      },
+      "Arts, entertainment and recreation": {
+        "count": 510,
+        "percent": 8.7
+      },
+      "Information and communication": {
+        "count": 490,
+        "percent": 8.4
+      },
+      "Accommodation and food services": {
+        "count": 435,
+        "percent": 7.4
+      },
+      "Health": {
+        "count": 405,
+        "percent": 6.9
+      },
+      "Construction": {
+        "count": 395,
+        "percent": 6.8
+      },
+      "Property": {
+        "count": 380,
+        "percent": 6.5
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 300,
+        "percent": 5.1
+      },
+      "Business admin and support": {
+        "count": 300,
+        "percent": 5.1
+      },
+      "Finance and insurance": {
+        "count": 175,
+        "percent": 3.0
+      },
+      "Transport and storage": {
+        "count": 135,
+        "percent": 2.3
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 115,
+        "percent": 2.0
+      },
+      "Education": {
+        "count": 95,
+        "percent": 1.6
+      },
+      "Public admin and defence": {
+        "count": 20,
+        "percent": 0.3
+      }
+    },
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 2095,
+    "currentRate": 2.4,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.5
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.4
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.4
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "name": "Lewisham West and East Dulwich",
+  "region": "England",
+  "onsCode": "E14001333",
+  "electorate": 69386,
+  "center_lat": 51.44426,
+  "center_lon": -0.04889,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 21191,
+      "percent": 21.3,
+      "nationalPercent": 20.6,
+      "difference": 0.8
+    },
+    "18 to 24": {
+      "count": 6471,
+      "percent": 6.5,
+      "nationalPercent": 8.4,
+      "difference": -1.8
+    },
+    "25 to 34": {
+      "count": 18680,
+      "percent": 18.8,
+      "nationalPercent": 13.5,
+      "difference": 5.3
+    },
+    "35 to 49": {
+      "count": 24589,
+      "percent": 24.8,
+      "nationalPercent": 19.3,
+      "difference": 5.4
+    },
+    "50 to 64": {
+      "count": 17470,
+      "percent": 17.6,
+      "nationalPercent": 19.2,
+      "difference": -1.6
+    },
+    "65 and over": {
+      "count": 10910,
+      "percent": 11.0,
+      "nationalPercent": 19.0,
+      "difference": -8.0
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 5951,
+      "percent": 6.0,
+      "nationalPercent": 1.6,
+      "difference": 4.4
+    },
+    "Black, African or Caribbean": {
+      "count": 19986,
+      "percent": 20.1,
+      "nationalPercent": 0.5,
+      "difference": 19.6
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 8177,
+      "percent": 8.2,
+      "nationalPercent": 0.8,
+      "difference": 7.4
+    },
+    "White": {
+      "count": 61907,
+      "percent": 62.2,
+      "nationalPercent": 6.2,
+      "difference": 56.0
+    },
+    "Other": {
+      "count": 3573,
+      "percent": 3.6,
+      "nationalPercent": 1.6,
+      "difference": 2.0
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 71589,
+      "percent": 71.9,
+      "nationalPercent": 13.9,
+      "difference": 58.0
+    },
+    "European Union": {
+      "count": 9146,
+      "percent": 9.2,
+      "nationalPercent": 0.5,
+      "difference": 8.7
+    },
+    "Rest of world": {
+      "count": 18857,
+      "percent": 18.9,
+      "nationalPercent": 0.3,
+      "difference": 18.6
+    }
+  },
+  "mp": {
+    "name": "Ellie Reeves",
+    "party": "Labour",
+    "memberId": 4620,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4620/Thumbnail",
+    "email": "ellie.reeves@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 18397,
+    "turnout": 46414,
+    "turnoutPercent": 66.9,
+    "electorate": 69386,
+    "validVotes": 46414,
+    "invalidVotes": 213,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Ellie Reeves",
+        "votes": 27406,
+        "percent": 59.0,
+        "change": -7.0
+      },
+      {
+        "party": "Green Party",
+        "name": "Callum Fowler",
+        "votes": 9009,
+        "percent": 19.4,
+        "change": 12.1
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Josh Matthews",
+        "votes": 3558,
+        "percent": 7.7,
+        "change": -2.2
+      },
+      {
+        "party": "Conservative",
+        "name": "Christine Wallace",
+        "votes": 3477,
+        "percent": 7.5,
+        "change": -7.0
+      },
+      {
+        "party": "Reform UK",
+        "name": "Marian Newton",
+        "votes": 2234,
+        "percent": 4.8,
+        "change": 3.0
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Gwenton Sloley",
+        "votes": 427,
+        "percent": 0.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Christian Peoples Alliance",
+        "name": "Katherine Hortense",
+        "votes": 303,
+        "percent": 0.7,
+        "change": 0.2
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 3945,
+    "currentRate": 5.7,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 5.8
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 5.5
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 5.7
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 1144.3,
+    "annualChange": 18.7,
+    "ukPay": 811.2
+  }
+}

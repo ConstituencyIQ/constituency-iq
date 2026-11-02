@@ -1,0 +1,354 @@
+{
+  "name": "Holborn and St Pancras",
+  "region": "England",
+  "onsCode": "E14001290",
+  "electorate": 71300,
+  "center_lat": 51.53586,
+  "center_lon": -0.13715,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 16154,
+      "percent": 14.4,
+      "nationalPercent": 20.6,
+      "difference": -6.1
+    },
+    "18 to 24": {
+      "count": 24294,
+      "percent": 21.7,
+      "nationalPercent": 8.4,
+      "difference": 13.4
+    },
+    "25 to 34": {
+      "count": 22923,
+      "percent": 20.5,
+      "nationalPercent": 13.5,
+      "difference": 7.0
+    },
+    "35 to 49": {
+      "count": 19521,
+      "percent": 17.5,
+      "nationalPercent": 19.3,
+      "difference": -1.9
+    },
+    "50 to 64": {
+      "count": 17061,
+      "percent": 15.3,
+      "nationalPercent": 19.2,
+      "difference": -4.0
+    },
+    "65 and over": {
+      "count": 11900,
+      "percent": 10.6,
+      "nationalPercent": 19.0,
+      "difference": -8.4
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 23030,
+      "percent": 21.7,
+      "nationalPercent": 1.6,
+      "difference": 20.1
+    },
+    "Black, African or Caribbean": {
+      "count": 11296,
+      "percent": 10.7,
+      "nationalPercent": 0.5,
+      "difference": 10.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 7200,
+      "percent": 6.8,
+      "nationalPercent": 0.8,
+      "difference": 6.0
+    },
+    "White": {
+      "count": 58108,
+      "percent": 54.8,
+      "nationalPercent": 6.2,
+      "difference": 48.6
+    },
+    "Other": {
+      "count": 6386,
+      "percent": 6.0,
+      "nationalPercent": 1.6,
+      "difference": 4.4
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 58489,
+      "percent": 55.2,
+      "nationalPercent": 13.9,
+      "difference": 41.3
+    },
+    "European Union": {
+      "count": 14676,
+      "percent": 13.8,
+      "nationalPercent": 0.5,
+      "difference": 13.3
+    },
+    "Rest of world": {
+      "count": 32855,
+      "percent": 31.0,
+      "nationalPercent": 0.3,
+      "difference": 30.7
+    }
+  },
+  "mp": {
+    "name": "Sagal Abdi-Wali",
+    "party": "Labour",
+    "memberId": 5484,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5484/Thumbnail",
+    "email": "sagal.abdi-wali@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 11572,
+    "turnout": 38602,
+    "turnoutPercent": 54.1,
+    "electorate": 71300,
+    "validVotes": 38602,
+    "invalidVotes": 223,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Keir Starmer",
+        "votes": 18884,
+        "percent": 48.9,
+        "change": -17.3
+      },
+      {
+        "party": "Independent",
+        "name": "Andrew Feinstein",
+        "votes": 7312,
+        "percent": 18.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "David Stansell",
+        "votes": 4030,
+        "percent": 10.4,
+        "change": 6.4
+      },
+      {
+        "party": "Conservative",
+        "name": "Mehreen Malik",
+        "votes": 2776,
+        "percent": 7.2,
+        "change": -8.0
+      },
+      {
+        "party": "Reform UK",
+        "name": "David Roberts",
+        "votes": 2371,
+        "percent": 6.1,
+        "change": 4.3
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Charlie Clinton",
+        "votes": 2236,
+        "percent": 5.8,
+        "change": -6.5
+      },
+      {
+        "party": "Independent",
+        "name": "Wais Islam",
+        "votes": 636,
+        "percent": 1.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "name": "Nick the Incredible Flying Brick",
+        "votes": 162,
+        "percent": 0.4,
+        "change": "N/A"
+      },
+      {
+        "party": "UK Independence Party",
+        "name": "John Poynton",
+        "votes": 75,
+        "percent": 0.2,
+        "change": -0.1
+      },
+      {
+        "party": "Socialist Equality Party",
+        "name": "Tom Scripps",
+        "votes": 61,
+        "percent": 0.2,
+        "change": 0.1
+      },
+      {
+        "party": "Independent",
+        "name": "Senthil Kumar",
+        "votes": 40,
+        "percent": 0.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Bobby Smith",
+        "votes": 19,
+        "percent": 0.0,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 9085,
+        "percent": 29.8
+      },
+      "Information and communication": {
+        "count": 4885,
+        "percent": 16.0
+      },
+      "Retail and wholesale": {
+        "count": 3300,
+        "percent": 10.8
+      },
+      "Business admin and support": {
+        "count": 2715,
+        "percent": 8.9
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2425,
+        "percent": 7.9
+      },
+      "Construction": {
+        "count": 1445,
+        "percent": 4.7
+      },
+      "Property": {
+        "count": 1365,
+        "percent": 4.5
+      },
+      "Accommodation and food services": {
+        "count": 1320,
+        "percent": 4.3
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 945,
+        "percent": 3.1
+      },
+      "Health": {
+        "count": 885,
+        "percent": 2.9
+      },
+      "Finance and insurance": {
+        "count": 875,
+        "percent": 2.9
+      },
+      "Transport and storage": {
+        "count": 635,
+        "percent": 2.1
+      },
+      "Education": {
+        "count": 580,
+        "percent": 1.9
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 40,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 15,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Professional, scientific and technical": {
+        "count": 82000,
+        "percent": 22.5
+      },
+      "Information and communication": {
+        "count": 51000,
+        "percent": 14.0
+      },
+      "Education": {
+        "count": 36000,
+        "percent": 9.9
+      },
+      "Business admin and support": {
+        "count": 34000,
+        "percent": 9.3
+      },
+      "Health": {
+        "count": 34000,
+        "percent": 9.3
+      },
+      "Accommodation and food services": {
+        "count": 26000,
+        "percent": 7.1
+      },
+      "Retail and wholesale": {
+        "count": 26000,
+        "percent": 7.1
+      },
+      "Arts, entertainment and recreation": {
+        "count": 23000,
+        "percent": 6.3
+      },
+      "Finance and insurance": {
+        "count": 13000,
+        "percent": 3.6
+      },
+      "Construction": {
+        "count": 9000,
+        "percent": 2.5
+      },
+      "Public admin and defence": {
+        "count": 9000,
+        "percent": 2.5
+      },
+      "Transport and storage": {
+        "count": 8000,
+        "percent": 2.2
+      },
+      "Property": {
+        "count": 7000,
+        "percent": 1.9
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 7000,
+        "percent": 1.9
+      }
+    }
+  },
+  "unemployment": {
+    "count": 4390,
+    "currentRate": 5.1,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 5.1
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 5.0
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 5.1
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 1015.7,
+    "annualChange": 12.2,
+    "ukPay": 811.2
+  }
+}

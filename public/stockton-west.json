@@ -1,0 +1,333 @@
+{
+  "name": "Stockton West",
+  "region": "England",
+  "onsCode": "E14001519",
+  "electorate": 71868,
+  "center_lat": 54.53443,
+  "center_lon": -1.42082,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19794,
+      "percent": 20.7,
+      "nationalPercent": 20.6,
+      "difference": 0.1
+    },
+    "18 to 24": {
+      "count": 5778,
+      "percent": 6.0,
+      "nationalPercent": 8.4,
+      "difference": -2.3
+    },
+    "25 to 34": {
+      "count": 10275,
+      "percent": 10.8,
+      "nationalPercent": 13.5,
+      "difference": -2.7
+    },
+    "35 to 49": {
+      "count": 18250,
+      "percent": 19.1,
+      "nationalPercent": 19.3,
+      "difference": -0.2
+    },
+    "50 to 64": {
+      "count": 20172,
+      "percent": 21.1,
+      "nationalPercent": 19.2,
+      "difference": 1.9
+    },
+    "65 and over": {
+      "count": 21263,
+      "percent": 22.3,
+      "nationalPercent": 19.0,
+      "difference": 3.3
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 3638,
+      "percent": 4.0,
+      "nationalPercent": 1.6,
+      "difference": 2.4
+    },
+    "Black, African or Caribbean": {
+      "count": 543,
+      "percent": 0.6,
+      "nationalPercent": 0.5,
+      "difference": 0.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1385,
+      "percent": 1.5,
+      "nationalPercent": 0.8,
+      "difference": 0.7
+    },
+    "White": {
+      "count": 85204,
+      "percent": 93.3,
+      "nationalPercent": 6.2,
+      "difference": 87.1
+    },
+    "Other": {
+      "count": 574,
+      "percent": 0.6,
+      "nationalPercent": 1.6,
+      "difference": -1.0
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 86532,
+      "percent": 94.7,
+      "nationalPercent": 13.9,
+      "difference": 80.8
+    },
+    "European Union": {
+      "count": 1350,
+      "percent": 1.5,
+      "nationalPercent": 0.5,
+      "difference": 1.0
+    },
+    "Rest of world": {
+      "count": 3461,
+      "percent": 3.8,
+      "nationalPercent": 0.3,
+      "difference": 3.5
+    }
+  },
+  "mp": {
+    "name": "Matt Vickers",
+    "party": "Conservative",
+    "memberId": 4844,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4844/Thumbnail",
+    "email": "matt.vickers@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Con hold",
+    "majority": 2139,
+    "turnout": 48638,
+    "turnoutPercent": 67.7,
+    "electorate": 71868,
+    "validVotes": 48638,
+    "invalidVotes": 114,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Conservative",
+        "name": "Matt Vickers",
+        "votes": 20372,
+        "percent": 41.9,
+        "change": -14.6
+      },
+      {
+        "party": "Labour",
+        "name": "Joe Dancey",
+        "votes": 18233,
+        "percent": 37.5,
+        "change": 3.6
+      },
+      {
+        "party": "Reform UK",
+        "name": "Steve Matthews",
+        "votes": 6833,
+        "percent": 14.0,
+        "change": 9.4
+      },
+      {
+        "party": "Green Party",
+        "name": "Anna-Maria Toms",
+        "votes": 1477,
+        "percent": 3.0,
+        "change": 2.5
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Nigel Boddy",
+        "votes": 1203,
+        "percent": 2.5,
+        "change": -2.0
+      },
+      {
+        "party": "Independent",
+        "name": "Mohammed Zaroof",
+        "votes": 263,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Niko Omilana",
+        "votes": 106,
+        "percent": 0.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Vivek Chhabra",
+        "votes": 106,
+        "percent": 0.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Independents for Direct Democracy",
+        "name": "Monty Brack",
+        "votes": 45,
+        "percent": 0.1,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 575,
+        "percent": 21.3
+      },
+      "Construction": {
+        "count": 470,
+        "percent": 17.4
+      },
+      "Retail and wholesale": {
+        "count": 295,
+        "percent": 10.9
+      },
+      "Business admin and support": {
+        "count": 245,
+        "percent": 9.1
+      },
+      "Arts, entertainment and recreation": {
+        "count": 155,
+        "percent": 5.7
+      },
+      "Accommodation and food services": {
+        "count": 150,
+        "percent": 5.6
+      },
+      "Health": {
+        "count": 145,
+        "percent": 5.4
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 135,
+        "percent": 5.0
+      },
+      "Information and communication": {
+        "count": 125,
+        "percent": 4.6
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 110,
+        "percent": 4.1
+      },
+      "Property": {
+        "count": 95,
+        "percent": 3.5
+      },
+      "Transport and storage": {
+        "count": 90,
+        "percent": 3.3
+      },
+      "Education": {
+        "count": 55,
+        "percent": 2.0
+      },
+      "Finance and insurance": {
+        "count": 45,
+        "percent": 1.7
+      },
+      "Public admin and defence": {
+        "count": 10,
+        "percent": 0.4
+      }
+    },
+    "employees": {
+      "Education": {
+        "count": 3500,
+        "percent": 13.6
+      },
+      "Health": {
+        "count": 3000,
+        "percent": 11.7
+      },
+      "Transport and storage": {
+        "count": 3000,
+        "percent": 11.7
+      },
+      "Accommodation and food services": {
+        "count": 2250,
+        "percent": 8.7
+      },
+      "Information and communication": {
+        "count": 2250,
+        "percent": 8.7
+      },
+      "Business admin and support": {
+        "count": 2000,
+        "percent": 7.8
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 1925,
+        "percent": 7.5
+      },
+      "Retail and wholesale": {
+        "count": 1775,
+        "percent": 6.9
+      },
+      "Construction": {
+        "count": 1500,
+        "percent": 5.8
+      },
+      "Professional, scientific and technical": {
+        "count": 1500,
+        "percent": 5.8
+      },
+      "Public admin and defence": {
+        "count": 1250,
+        "percent": 4.9
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1250,
+        "percent": 4.9
+      },
+      "Property": {
+        "count": 400,
+        "percent": 1.6
+      },
+      "Finance and insurance": {
+        "count": 150,
+        "percent": 0.6
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1165,
+    "currentRate": 2.0,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 1.9
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.0
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.0
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 821.0,
+    "annualChange": 5.1,
+    "ukPay": 811.2
+  }
+}

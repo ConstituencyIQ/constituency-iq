@@ -1,0 +1,208 @@
+{
+  "name": "East Thanet",
+  "region": "England",
+  "onsCode": "E14001216",
+  "electorate": 74927,
+  "center_lat": 51.35241,
+  "center_lon": 1.41332,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 22339,
+      "percent": 21.0,
+      "nationalPercent": 20.6,
+      "difference": 0.5
+    },
+    "18 to 24": {
+      "count": 6834,
+      "percent": 6.4,
+      "nationalPercent": 8.4,
+      "difference": -1.9
+    },
+    "25 to 34": {
+      "count": 12447,
+      "percent": 11.7,
+      "nationalPercent": 13.5,
+      "difference": -1.8
+    },
+    "35 to 49": {
+      "count": 19867,
+      "percent": 18.7,
+      "nationalPercent": 19.3,
+      "difference": -0.6
+    },
+    "50 to 64": {
+      "count": 21217,
+      "percent": 20.0,
+      "nationalPercent": 19.2,
+      "difference": 0.7
+    },
+    "65 and over": {
+      "count": 23530,
+      "percent": 22.1,
+      "nationalPercent": 19.0,
+      "difference": 3.1
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 2696,
+      "percent": 2.6,
+      "nationalPercent": 1.6,
+      "difference": 1.0
+    },
+    "Black, African or Caribbean": {
+      "count": 1278,
+      "percent": 1.2,
+      "nationalPercent": 0.5,
+      "difference": 0.7
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2758,
+      "percent": 2.6,
+      "nationalPercent": 0.8,
+      "difference": 1.8
+    },
+    "White": {
+      "count": 96887,
+      "percent": 92.2,
+      "nationalPercent": 6.2,
+      "difference": 86.0
+    },
+    "Other": {
+      "count": 1455,
+      "percent": 1.4,
+      "nationalPercent": 1.6,
+      "difference": -0.2
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 93683,
+      "percent": 89.2,
+      "nationalPercent": 13.9,
+      "difference": 75.3
+    },
+    "European Union": {
+      "count": 5997,
+      "percent": 5.7,
+      "nationalPercent": 0.5,
+      "difference": 5.2
+    },
+    "Rest of world": {
+      "count": 5394,
+      "percent": 5.1,
+      "nationalPercent": 0.3,
+      "difference": 4.8
+    }
+  },
+  "mp": {
+    "name": "Ms Polly Billington",
+    "party": "Labour",
+    "memberId": 5123,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5123/Thumbnail",
+    "email": "ms.polly.billington@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 6971,
+    "turnout": 42713,
+    "turnoutPercent": 57.0,
+    "electorate": 74927,
+    "validVotes": 42713,
+    "invalidVotes": 167,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Polly Billington",
+        "votes": 17054,
+        "percent": 39.9,
+        "change": 2.3
+      },
+      {
+        "party": "Conservative",
+        "name": "Helen Harrison",
+        "votes": 10083,
+        "percent": 23.6,
+        "change": -29.8
+      },
+      {
+        "party": "Reform UK",
+        "name": "Paul Webb",
+        "votes": 8591,
+        "percent": 20.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Steve Roberts",
+        "votes": 4590,
+        "percent": 10.7,
+        "change": 7.0
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Jai Singh",
+        "votes": 1365,
+        "percent": 3.2,
+        "change": -2.0
+      },
+      {
+        "party": "Independent",
+        "name": "Grahame Birchall",
+        "votes": 563,
+        "percent": 1.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Paul Holton",
+        "votes": 369,
+        "percent": 0.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Mo Shafaei",
+        "votes": 98,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 3585,
+    "currentRate": 5.7,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 5.2
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 5.7
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 5.7
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 787.9,
+    "annualChange": 17.7,
+    "ukPay": 811.2
+  }
+}

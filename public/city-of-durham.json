@@ -1,0 +1,181 @@
+{
+  "name": "City of Durham",
+  "region": "England",
+  "onsCode": "E14001173",
+  "electorate": 70583,
+  "center_lat": 54.75506,
+  "center_lon": -1.61305,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 16439,
+      "percent": 15.9,
+      "nationalPercent": 20.6,
+      "difference": -4.7
+    },
+    "18 to 24": {
+      "count": 20326,
+      "percent": 19.7,
+      "nationalPercent": 8.4,
+      "difference": 11.3
+    },
+    "25 to 34": {
+      "count": 10650,
+      "percent": 10.3,
+      "nationalPercent": 13.5,
+      "difference": -3.2
+    },
+    "35 to 49": {
+      "count": 17125,
+      "percent": 16.6,
+      "nationalPercent": 19.3,
+      "difference": -2.8
+    },
+    "50 to 64": {
+      "count": 18474,
+      "percent": 17.9,
+      "nationalPercent": 19.2,
+      "difference": -1.4
+    },
+    "65 and over": {
+      "count": 20398,
+      "percent": 19.7,
+      "nationalPercent": 19.0,
+      "difference": 0.7
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 4138,
+      "percent": 4.1,
+      "nationalPercent": 1.6,
+      "difference": 2.5
+    },
+    "Black, African or Caribbean": {
+      "count": 725,
+      "percent": 0.7,
+      "nationalPercent": 0.5,
+      "difference": 0.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1904,
+      "percent": 1.9,
+      "nationalPercent": 0.8,
+      "difference": 1.1
+    },
+    "White": {
+      "count": 92897,
+      "percent": 92.3,
+      "nationalPercent": 6.2,
+      "difference": 86.1
+    },
+    "Other": {
+      "count": 1011,
+      "percent": 1.0,
+      "nationalPercent": 1.6,
+      "difference": -0.6
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 91225,
+      "percent": 90.6,
+      "nationalPercent": 13.9,
+      "difference": 76.7
+    },
+    "European Union": {
+      "count": 2942,
+      "percent": 2.9,
+      "nationalPercent": 0.5,
+      "difference": 2.4
+    },
+    "Rest of world": {
+      "count": 6513,
+      "percent": 6.5,
+      "nationalPercent": 0.3,
+      "difference": 6.2
+    }
+  },
+  "mp": {
+    "name": "Mary Kelly Foy",
+    "party": "Labour",
+    "memberId": 4753,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4753/Thumbnail",
+    "email": "mary.kelly.foy@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 11757,
+    "turnout": 40627,
+    "turnoutPercent": 57.6,
+    "electorate": 70583,
+    "validVotes": 40627,
+    "invalidVotes": 165,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Mary Foy",
+        "votes": 19131,
+        "percent": 47.1,
+        "change": 6.2
+      },
+      {
+        "party": "Reform UK",
+        "name": "Mark Belch",
+        "votes": 7374,
+        "percent": 18.2,
+        "change": 11.6
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Mark Wilkes",
+        "votes": 5920,
+        "percent": 14.6,
+        "change": -2.4
+      },
+      {
+        "party": "Conservative",
+        "name": "Luke Holmes",
+        "votes": 5221,
+        "percent": 12.9,
+        "change": -19.0
+      },
+      {
+        "party": "Green Party",
+        "name": "Jonathan Elmer",
+        "votes": 2803,
+        "percent": 6.9,
+        "change": 3.6
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Sarah Welbourne",
+        "votes": 178,
+        "percent": 0.4,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 0,
+    "currentRate": 0.0,
+    "history": []
+  },
+  "wage": {
+    "medianWeeklyPay": 806.3,
+    "annualChange": 5.8,
+    "ukPay": 811.2
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "name": "South West Hertfordshire",
+  "region": "England",
+  "onsCode": "E14001496",
+  "electorate": 71737,
+  "center_lat": 51.67009,
+  "center_lon": -0.47384,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 22365,
+      "percent": 22.1,
+      "nationalPercent": 20.6,
+      "difference": 1.5
+    },
+    "18 to 24": {
+      "count": 6776,
+      "percent": 6.7,
+      "nationalPercent": 8.4,
+      "difference": -1.7
+    },
+    "25 to 34": {
+      "count": 11035,
+      "percent": 10.9,
+      "nationalPercent": 13.5,
+      "difference": -2.6
+    },
+    "35 to 49": {
+      "count": 21597,
+      "percent": 21.3,
+      "nationalPercent": 19.3,
+      "difference": 2.0
+    },
+    "50 to 64": {
+      "count": 20511,
+      "percent": 20.3,
+      "nationalPercent": 19.2,
+      "difference": 1.0
+    },
+    "65 and over": {
+      "count": 18939,
+      "percent": 18.7,
+      "nationalPercent": 19.0,
+      "difference": -0.3
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 14468,
+      "percent": 14.6,
+      "nationalPercent": 1.6,
+      "difference": 13.0
+    },
+    "Black, African or Caribbean": {
+      "count": 2278,
+      "percent": 2.3,
+      "nationalPercent": 0.5,
+      "difference": 1.8
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 3552,
+      "percent": 3.6,
+      "nationalPercent": 0.8,
+      "difference": 2.8
+    },
+    "White": {
+      "count": 77147,
+      "percent": 77.9,
+      "nationalPercent": 6.2,
+      "difference": 71.7
+    },
+    "Other": {
+      "count": 1614,
+      "percent": 1.6,
+      "nationalPercent": 1.6,
+      "difference": 0.0
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 80690,
+      "percent": 81.5,
+      "nationalPercent": 13.9,
+      "difference": 67.6
+    },
+    "European Union": {
+      "count": 6096,
+      "percent": 6.2,
+      "nationalPercent": 0.5,
+      "difference": 5.7
+    },
+    "Rest of world": {
+      "count": 12276,
+      "percent": 12.4,
+      "nationalPercent": 0.3,
+      "difference": 12.1
+    }
+  },
+  "mp": {
+    "name": "Mr Gagan Mohindra",
+    "party": "Conservative",
+    "memberId": 4804,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4804/Thumbnail",
+    "email": "mr.gagan.mohindra@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Con hold",
+    "majority": 4456,
+    "turnout": 48254,
+    "turnoutPercent": 67.3,
+    "electorate": 71737,
+    "validVotes": 48254,
+    "invalidVotes": 145,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Conservative",
+        "name": "Gagan Mohindra",
+        "votes": 16458,
+        "percent": 34.1,
+        "change": -18.1
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Sally Symington",
+        "votes": 12002,
+        "percent": 24.9,
+        "change": 12.2
+      },
+      {
+        "party": "Labour",
+        "name": "Alex Sufit",
+        "votes": 9637,
+        "percent": 20.0,
+        "change": 3.9
+      },
+      {
+        "party": "Reform UK",
+        "name": "Keith Steers",
+        "votes": 6790,
+        "percent": 14.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Narinder Sian",
+        "votes": 2532,
+        "percent": 5.2,
+        "change": 3.7
+      },
+      {
+        "party": "Party of Women",
+        "name": "Bernadette O'Malley",
+        "votes": 295,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Rejoin EU",
+        "name": "Victor Silkin",
+        "votes": 232,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Michael McGetrick",
+        "votes": 158,
+        "percent": 0.3,
+        "change": "N/A"
+      },
+      {
+        "party": "UK Voice",
+        "name": "Ketankumar Pipaliya",
+        "votes": 150,
+        "percent": 0.3,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 1095,
+        "percent": 18.8
+      },
+      "Construction": {
+        "count": 960,
+        "percent": 16.5
+      },
+      "Retail and wholesale": {
+        "count": 740,
+        "percent": 12.7
+      },
+      "Information and communication": {
+        "count": 625,
+        "percent": 10.7
+      },
+      "Business admin and support": {
+        "count": 535,
+        "percent": 9.2
+      },
+      "Arts, entertainment and recreation": {
+        "count": 350,
+        "percent": 6.0
+      },
+      "Property": {
+        "count": 335,
+        "percent": 5.7
+      },
+      "Health": {
+        "count": 285,
+        "percent": 4.9
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 270,
+        "percent": 4.6
+      },
+      "Accommodation and food services": {
+        "count": 215,
+        "percent": 3.7
+      },
+      "Transport and storage": {
+        "count": 140,
+        "percent": 2.4
+      },
+      "Finance and insurance": {
+        "count": 115,
+        "percent": 2.0
+      },
+      "Education": {
+        "count": 110,
+        "percent": 1.9
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 45,
+        "percent": 0.8
+      },
+      "Public admin and defence": {
+        "count": 10,
+        "percent": 0.2
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 6750,
+        "percent": 15.3
+      },
+      "Construction": {
+        "count": 6000,
+        "percent": 13.6
+      },
+      "Professional, scientific and technical": {
+        "count": 6000,
+        "percent": 13.6
+      },
+      "Business admin and support": {
+        "count": 5000,
+        "percent": 11.3
+      },
+      "Education": {
+        "count": 4000,
+        "percent": 9.0
+      },
+      "Accommodation and food services": {
+        "count": 3000,
+        "percent": 6.8
+      },
+      "Health": {
+        "count": 2500,
+        "percent": 5.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2500,
+        "percent": 5.7
+      },
+      "Information and communication": {
+        "count": 2250,
+        "percent": 5.1
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 1800,
+        "percent": 4.1
+      },
+      "Finance and insurance": {
+        "count": 1250,
+        "percent": 2.8
+      },
+      "Property": {
+        "count": 1250,
+        "percent": 2.8
+      },
+      "Transport and storage": {
+        "count": 1000,
+        "percent": 2.3
+      },
+      "Public admin and defence": {
+        "count": 900,
+        "percent": 2.0
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1685,
+    "currentRate": 2.7,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.6
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.6
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.7
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 923.1,
+    "annualChange": 4.2,
+    "ukPay": 811.2
+  }
+}

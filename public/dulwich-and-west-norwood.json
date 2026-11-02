@@ -1,16 +1,312 @@
 {
-    "name": "Dulwich and West Norwood",
-    "region": "London",
-    "onsCode": "E14000645",
-    "electorate": 70500,
-    "metrics": {
-        "medianEarnings": "\u00a3710.00",
-        "earningsVariance": "+4.6% vs UK",
-        "housePrice": "\u00a3560000",
-        "housePriceVariance": "+95.0% vs UK",
-        "claimantRate": "3.9%",
-        "claimantVariance": "-0.2 pp vs UK",
-        "crimeRate": "65.4 per 1,000",
-        "crimeVariance": "-27.0% vs UK"
+  "name": "Dulwich and West Norwood",
+  "region": "England",
+  "onsCode": "E14001205",
+  "electorate": 74259,
+  "center_lat": 51.44706,
+  "center_lon": -0.0917,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 21091,
+      "percent": 20.0,
+      "nationalPercent": 20.6,
+      "difference": -0.5
+    },
+    "18 to 24": {
+      "count": 8903,
+      "percent": 8.5,
+      "nationalPercent": 8.4,
+      "difference": 0.1
+    },
+    "25 to 34": {
+      "count": 21915,
+      "percent": 20.8,
+      "nationalPercent": 13.5,
+      "difference": 7.3
+    },
+    "35 to 49": {
+      "count": 22087,
+      "percent": 21.0,
+      "nationalPercent": 19.3,
+      "difference": 1.6
+    },
+    "50 to 64": {
+      "count": 19758,
+      "percent": 18.8,
+      "nationalPercent": 19.2,
+      "difference": -0.5
+    },
+    "65 and over": {
+      "count": 11505,
+      "percent": 10.9,
+      "nationalPercent": 19.0,
+      "difference": -8.1
     }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 6866,
+      "percent": 6.4,
+      "nationalPercent": 1.6,
+      "difference": 4.8
+    },
+    "Black, African or Caribbean": {
+      "count": 27142,
+      "percent": 25.3,
+      "nationalPercent": 0.5,
+      "difference": 24.8
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 9137,
+      "percent": 8.5,
+      "nationalPercent": 0.8,
+      "difference": 7.7
+    },
+    "White": {
+      "count": 58783,
+      "percent": 54.9,
+      "nationalPercent": 6.2,
+      "difference": 48.7
+    },
+    "Other": {
+      "count": 5169,
+      "percent": 4.8,
+      "nationalPercent": 1.6,
+      "difference": 3.2
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 71518,
+      "percent": 66.8,
+      "nationalPercent": 13.9,
+      "difference": 52.9
+    },
+    "European Union": {
+      "count": 10552,
+      "percent": 9.9,
+      "nationalPercent": 0.5,
+      "difference": 9.4
+    },
+    "Rest of world": {
+      "count": 25034,
+      "percent": 23.4,
+      "nationalPercent": 0.3,
+      "difference": 23.1
+    }
+  },
+  "mp": {
+    "name": "Helen Hayes",
+    "party": "Labour",
+    "memberId": 4510,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4510/Thumbnail",
+    "email": "helen.hayes@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 18789,
+    "turnout": 45378,
+    "turnoutPercent": 61.1,
+    "electorate": 74259,
+    "validVotes": 45378,
+    "invalidVotes": 227,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Helen Hayes",
+        "votes": 27356,
+        "percent": 60.3,
+        "change": -4.2
+      },
+      {
+        "party": "Green Party",
+        "name": "Pete Elliott",
+        "votes": 8567,
+        "percent": 18.9,
+        "change": 2.6
+      },
+      {
+        "party": "Conservative",
+        "name": "Leon Cook",
+        "votes": 3873,
+        "percent": 8.5,
+        "change": -8.1
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Donna Harris",
+        "votes": 3485,
+        "percent": 7.7,
+        "change": 6.7
+      },
+      {
+        "party": "Reform UK",
+        "name": "Gary Stevens",
+        "votes": 1801,
+        "percent": 4.0,
+        "change": 2.9
+      },
+      {
+        "party": "Independent",
+        "name": "Mike Spenser",
+        "votes": 296,
+        "percent": 0.7,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 1010,
+        "percent": 23.4
+      },
+      "Information and communication": {
+        "count": 565,
+        "percent": 13.1
+      },
+      "Retail and wholesale": {
+        "count": 550,
+        "percent": 12.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 440,
+        "percent": 10.2
+      },
+      "Business admin and support": {
+        "count": 410,
+        "percent": 9.5
+      },
+      "Accommodation and food services": {
+        "count": 295,
+        "percent": 6.8
+      },
+      "Construction": {
+        "count": 290,
+        "percent": 6.7
+      },
+      "Health": {
+        "count": 210,
+        "percent": 4.9
+      },
+      "Property": {
+        "count": 175,
+        "percent": 4.0
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 130,
+        "percent": 3.0
+      },
+      "Education": {
+        "count": 125,
+        "percent": 2.9
+      },
+      "Transport and storage": {
+        "count": 80,
+        "percent": 1.8
+      },
+      "Finance and insurance": {
+        "count": 40,
+        "percent": 0.9
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 5,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 13000,
+        "percent": 33.4
+      },
+      "Education": {
+        "count": 6000,
+        "percent": 15.4
+      },
+      "Accommodation and food services": {
+        "count": 3500,
+        "percent": 9.0
+      },
+      "Retail and wholesale": {
+        "count": 3075,
+        "percent": 7.9
+      },
+      "Professional, scientific and technical": {
+        "count": 2250,
+        "percent": 5.8
+      },
+      "Business admin and support": {
+        "count": 2250,
+        "percent": 5.8
+      },
+      "Information and communication": {
+        "count": 2000,
+        "percent": 5.1
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2000,
+        "percent": 5.1
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 1450,
+        "percent": 3.7
+      },
+      "Transport and storage": {
+        "count": 1000,
+        "percent": 2.6
+      },
+      "Public admin and defence": {
+        "count": 1000,
+        "percent": 2.6
+      },
+      "Construction": {
+        "count": 700,
+        "percent": 1.8
+      },
+      "Property": {
+        "count": 600,
+        "percent": 1.5
+      },
+      "Finance and insurance": {
+        "count": 150,
+        "percent": 0.4
+      }
+    }
+  },
+  "unemployment": {
+    "count": 4775,
+    "currentRate": 6.3,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 6.3
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 6.2
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 6.3
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 957.5,
+    "annualChange": 6.0,
+    "ukPay": 811.2
+  }
 }

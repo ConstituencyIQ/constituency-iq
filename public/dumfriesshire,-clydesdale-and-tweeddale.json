@@ -1,0 +1,319 @@
+{
+  "name": "Dumfriesshire, Clydesdale and Tweeddale",
+  "region": "Scotland",
+  "onsCode": "S14000074",
+  "electorate": 71900,
+  "center_lat": 55.3944,
+  "center_lon": -3.70007,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 15437,
+      "percent": 17.6,
+      "nationalPercent": 20.6,
+      "difference": -3.0
+    },
+    "18 to 24": {
+      "count": 5071,
+      "percent": 5.8,
+      "nationalPercent": 8.4,
+      "difference": -2.6
+    },
+    "25 to 34": {
+      "count": 7751,
+      "percent": 8.8,
+      "nationalPercent": 13.5,
+      "difference": -4.7
+    },
+    "35 to 49": {
+      "count": 13896,
+      "percent": 15.8,
+      "nationalPercent": 19.3,
+      "difference": -3.5
+    },
+    "50 to 64": {
+      "count": 21877,
+      "percent": 24.9,
+      "nationalPercent": 19.2,
+      "difference": 5.7
+    },
+    "65 and over": {
+      "count": 23796,
+      "percent": 27.1,
+      "nationalPercent": 19.0,
+      "difference": 8.1
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 86259,
+      "percent": 98.4,
+      "nationalPercent": 3.0,
+      "difference": 95.4
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 588,
+      "percent": 0.7,
+      "nationalPercent": 1.1,
+      "difference": -0.4
+    },
+    "Asian": {
+      "count": 458,
+      "percent": 0.5,
+      "nationalPercent": 0.6,
+      "difference": -0.1
+    },
+    "Black, African or Caribbean": {
+      "count": 191,
+      "percent": 0.2,
+      "nationalPercent": 0.1,
+      "difference": 0.1
+    },
+    "Other": {
+      "count": 173,
+      "percent": 0.2,
+      "nationalPercent": 0.5,
+      "difference": -0.3
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 83884,
+      "percent": 95.7,
+      "nationalPercent": 18.0,
+      "difference": 77.7
+    },
+    "Rest of world": {
+      "count": 1941,
+      "percent": 2.2,
+      "nationalPercent": 0.2,
+      "difference": 2.0
+    },
+    "European Union": {
+      "count": 1847,
+      "percent": 2.1,
+      "nationalPercent": 0.3,
+      "difference": 1.8
+    }
+  },
+  "mp": {
+    "name": "David Mundell",
+    "party": "Conservative",
+    "memberId": 1512,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/1512/Thumbnail",
+    "email": "david.mundell@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Con hold",
+    "majority": 4242,
+    "turnout": 44214,
+    "turnoutPercent": 61.5,
+    "electorate": 71900,
+    "validVotes": 44214,
+    "invalidVotes": 133,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Conservative",
+        "name": "David Mundell",
+        "votes": 14999,
+        "percent": 33.9,
+        "change": -12.5
+      },
+      {
+        "party": "Scottish National Party",
+        "name": "Kim Marshall",
+        "votes": 10757,
+        "percent": 24.3,
+        "change": -13.6
+      },
+      {
+        "party": "Labour",
+        "name": "Daniel Coleman",
+        "votes": 10140,
+        "percent": 22.9,
+        "change": 14.6
+      },
+      {
+        "party": "Reform UK",
+        "name": "David Kirkwood",
+        "votes": 3822,
+        "percent": 8.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Drummond Begg",
+        "votes": 2800,
+        "percent": 6.3,
+        "change": -1.0
+      },
+      {
+        "party": "Scottish Green Party",
+        "name": "Dominic Ashmole",
+        "votes": 1488,
+        "percent": 3.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Scottish Family Party",
+        "name": "Gareth Kirk",
+        "votes": 208,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Agriculture, forestry and fishing": {
+        "count": 1165,
+        "percent": 29.2
+      },
+      "Construction": {
+        "count": 475,
+        "percent": 11.9
+      },
+      "Retail and wholesale": {
+        "count": 440,
+        "percent": 11.0
+      },
+      "Professional, scientific and technical": {
+        "count": 395,
+        "percent": 9.9
+      },
+      "Accommodation and food services": {
+        "count": 275,
+        "percent": 6.9
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 240,
+        "percent": 6.0
+      },
+      "Business admin and support": {
+        "count": 235,
+        "percent": 5.9
+      },
+      "Arts, entertainment and recreation": {
+        "count": 225,
+        "percent": 5.6
+      },
+      "Transport and storage": {
+        "count": 180,
+        "percent": 4.5
+      },
+      "Health": {
+        "count": 110,
+        "percent": 2.8
+      },
+      "Information and communication": {
+        "count": 105,
+        "percent": 2.6
+      },
+      "Property": {
+        "count": 85,
+        "percent": 2.1
+      },
+      "Education": {
+        "count": 35,
+        "percent": 0.9
+      },
+      "Finance and insurance": {
+        "count": 20,
+        "percent": 0.5
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.1
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 5000,
+        "percent": 19.1
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 4000,
+        "percent": 15.3
+      },
+      "Accommodation and food services": {
+        "count": 3500,
+        "percent": 13.4
+      },
+      "Retail and wholesale": {
+        "count": 3400,
+        "percent": 13.0
+      },
+      "Education": {
+        "count": 2250,
+        "percent": 8.6
+      },
+      "Transport and storage": {
+        "count": 2000,
+        "percent": 7.7
+      },
+      "Construction": {
+        "count": 1500,
+        "percent": 5.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1250,
+        "percent": 4.8
+      },
+      "Professional, scientific and technical": {
+        "count": 1000,
+        "percent": 3.8
+      },
+      "Business admin and support": {
+        "count": 900,
+        "percent": 3.4
+      },
+      "Public admin and defence": {
+        "count": 500,
+        "percent": 1.9
+      },
+      "Information and communication": {
+        "count": 350,
+        "percent": 1.3
+      },
+      "Property": {
+        "count": 350,
+        "percent": 1.3
+      },
+      "Finance and insurance": {
+        "count": 125,
+        "percent": 0.5
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1355,
+    "currentRate": 2.6,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.5
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.6
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.6
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 737.8,
+    "annualChange": 1.3,
+    "ukPay": 811.2
+  }
+}

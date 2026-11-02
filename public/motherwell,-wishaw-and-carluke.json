@@ -1,0 +1,333 @@
+{
+  "name": "Motherwell, Wishaw and Carluke",
+  "region": "Scotland",
+  "onsCode": "S14000099",
+  "electorate": 71777,
+  "center_lat": 55.75407,
+  "center_lon": -3.7609,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19293,
+      "percent": 19.7,
+      "nationalPercent": 20.6,
+      "difference": -0.8
+    },
+    "18 to 24": {
+      "count": 7422,
+      "percent": 7.6,
+      "nationalPercent": 8.4,
+      "difference": -0.8
+    },
+    "25 to 34": {
+      "count": 11992,
+      "percent": 12.3,
+      "nationalPercent": 13.5,
+      "difference": -1.2
+    },
+    "35 to 49": {
+      "count": 18987,
+      "percent": 19.4,
+      "nationalPercent": 19.3,
+      "difference": 0.1
+    },
+    "50 to 64": {
+      "count": 21307,
+      "percent": 21.8,
+      "nationalPercent": 19.2,
+      "difference": 2.6
+    },
+    "65 and over": {
+      "count": 18773,
+      "percent": 19.2,
+      "nationalPercent": 19.0,
+      "difference": 0.2
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 92968,
+      "percent": 95.4,
+      "nationalPercent": 3.0,
+      "difference": 92.4
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 563,
+      "percent": 0.6,
+      "nationalPercent": 1.1,
+      "difference": -0.5
+    },
+    "Asian": {
+      "count": 2600,
+      "percent": 2.7,
+      "nationalPercent": 0.6,
+      "difference": 2.1
+    },
+    "Black, African or Caribbean": {
+      "count": 956,
+      "percent": 1.0,
+      "nationalPercent": 0.1,
+      "difference": 0.9
+    },
+    "Other": {
+      "count": 402,
+      "percent": 0.4,
+      "nationalPercent": 0.5,
+      "difference": -0.1
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 91401,
+      "percent": 93.8,
+      "nationalPercent": 18.0,
+      "difference": 75.8
+    },
+    "Rest of world": {
+      "count": 2887,
+      "percent": 3.0,
+      "nationalPercent": 0.2,
+      "difference": 2.8
+    },
+    "European Union": {
+      "count": 3200,
+      "percent": 3.3,
+      "nationalPercent": 0.3,
+      "difference": 3.0
+    }
+  },
+  "mp": {
+    "name": "Pamela Nash",
+    "party": "Labour",
+    "memberId": 3909,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/3909/Thumbnail",
+    "email": "pamela.nash@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from SNP",
+    "majority": 7085,
+    "turnout": 39026,
+    "turnoutPercent": 54.4,
+    "electorate": 71777,
+    "validVotes": 39026,
+    "invalidVotes": 125,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Pamela Nash",
+        "votes": 19168,
+        "percent": 49.1,
+        "change": 21.6
+      },
+      {
+        "party": "Scottish National Party",
+        "name": "Marion Fellows",
+        "votes": 12083,
+        "percent": 31.0,
+        "change": -15.0
+      },
+      {
+        "party": "Reform UK",
+        "name": "Robert McLaughlan",
+        "votes": 3004,
+        "percent": 7.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Conservative",
+        "name": "Oyebola Ajala",
+        "votes": 2415,
+        "percent": 6.2,
+        "change": -15.0
+      },
+      {
+        "party": "Scottish Green Party",
+        "name": "Gordon Miller",
+        "votes": 1200,
+        "percent": 3.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Hayley Bennie",
+        "votes": 822,
+        "percent": 2.1,
+        "change": -1.9
+      },
+      {
+        "party": "British Unionist Party B.U.P.",
+        "name": "Gus Ferguson",
+        "votes": 158,
+        "percent": 0.4,
+        "change": "N/A"
+      },
+      {
+        "party": "UK Independence Party",
+        "name": "Neil Wilson",
+        "votes": 110,
+        "percent": 0.3,
+        "change": -1.1
+      },
+      {
+        "party": "Scottish Libertarian Party",
+        "name": "Ross Hagen",
+        "votes": 66,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 385,
+        "percent": 17.3
+      },
+      "Construction": {
+        "count": 355,
+        "percent": 16.0
+      },
+      "Professional, scientific and technical": {
+        "count": 240,
+        "percent": 10.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 210,
+        "percent": 9.4
+      },
+      "Accommodation and food services": {
+        "count": 190,
+        "percent": 8.5
+      },
+      "Transport and storage": {
+        "count": 160,
+        "percent": 7.2
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 155,
+        "percent": 7.0
+      },
+      "Business admin and support": {
+        "count": 150,
+        "percent": 6.7
+      },
+      "Health": {
+        "count": 95,
+        "percent": 4.3
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 85,
+        "percent": 3.8
+      },
+      "Property": {
+        "count": 75,
+        "percent": 3.4
+      },
+      "Information and communication": {
+        "count": 70,
+        "percent": 3.1
+      },
+      "Education": {
+        "count": 35,
+        "percent": 1.6
+      },
+      "Finance and insurance": {
+        "count": 20,
+        "percent": 0.9
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 8000,
+        "percent": 25.6
+      },
+      "Public admin and defence": {
+        "count": 4500,
+        "percent": 14.4
+      },
+      "Retail and wholesale": {
+        "count": 4300,
+        "percent": 13.7
+      },
+      "Accommodation and food services": {
+        "count": 2000,
+        "percent": 6.4
+      },
+      "Business admin and support": {
+        "count": 2000,
+        "percent": 6.4
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 1950,
+        "percent": 6.2
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1750,
+        "percent": 5.6
+      },
+      "Transport and storage": {
+        "count": 1750,
+        "percent": 5.6
+      },
+      "Education": {
+        "count": 1750,
+        "percent": 5.6
+      },
+      "Construction": {
+        "count": 1500,
+        "percent": 4.8
+      },
+      "Professional, scientific and technical": {
+        "count": 900,
+        "percent": 2.9
+      },
+      "Property": {
+        "count": 350,
+        "percent": 1.1
+      },
+      "Information and communication": {
+        "count": 300,
+        "percent": 1.0
+      },
+      "Finance and insurance": {
+        "count": 225,
+        "percent": 0.7
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1950,
+    "currentRate": 3.1,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.0
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.2
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.1
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 851.9,
+    "annualChange": 8.5,
+    "ukPay": 811.2
+  }
+}

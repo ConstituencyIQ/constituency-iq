@@ -1,16 +1,319 @@
 {
-    "name": "Hackney South and Shoreditch",
-    "region": "London",
-    "onsCode": "E14000679",
-    "electorate": 73100,
-    "metrics": {
-        "medianEarnings": "\u00a3780.00",
-        "earningsVariance": "+14.9% vs UK",
-        "housePrice": "\u00a3640000",
-        "housePriceVariance": "+122.0% vs UK",
-        "claimantRate": "4.6%",
-        "claimantVariance": "+0.5 pp vs UK",
-        "crimeRate": "98.4 per 1,000",
-        "crimeVariance": "+9.0% vs UK"
+  "name": "Hackney South and Shoreditch",
+  "region": "England",
+  "onsCode": "E14001260",
+  "electorate": 78277,
+  "center_lat": 51.53652,
+  "center_lon": -0.06593,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19221,
+      "percent": 16.3,
+      "nationalPercent": 20.6,
+      "difference": -4.3
+    },
+    "18 to 24": {
+      "count": 12142,
+      "percent": 10.3,
+      "nationalPercent": 8.4,
+      "difference": 1.9
+    },
+    "25 to 34": {
+      "count": 33876,
+      "percent": 28.7,
+      "nationalPercent": 13.5,
+      "difference": 15.2
+    },
+    "35 to 49": {
+      "count": 25786,
+      "percent": 21.9,
+      "nationalPercent": 19.3,
+      "difference": 2.5
+    },
+    "50 to 64": {
+      "count": 17490,
+      "percent": 14.8,
+      "nationalPercent": 19.2,
+      "difference": -4.4
+    },
+    "65 and over": {
+      "count": 9402,
+      "percent": 8.0,
+      "nationalPercent": 19.0,
+      "difference": -11.0
     }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 11992,
+      "percent": 10.7,
+      "nationalPercent": 1.6,
+      "difference": 9.1
+    },
+    "Black, African or Caribbean": {
+      "count": 26626,
+      "percent": 23.7,
+      "nationalPercent": 0.5,
+      "difference": 23.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 8162,
+      "percent": 7.3,
+      "nationalPercent": 0.8,
+      "difference": 6.5
+    },
+    "White": {
+      "count": 56785,
+      "percent": 50.4,
+      "nationalPercent": 6.2,
+      "difference": 44.2
+    },
+    "Other": {
+      "count": 8992,
+      "percent": 8.0,
+      "nationalPercent": 1.6,
+      "difference": 6.4
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 64542,
+      "percent": 57.3,
+      "nationalPercent": 13.9,
+      "difference": 43.4
+    },
+    "European Union": {
+      "count": 15335,
+      "percent": 13.6,
+      "nationalPercent": 0.5,
+      "difference": 13.1
+    },
+    "Rest of world": {
+      "count": 32677,
+      "percent": 29.0,
+      "nationalPercent": 0.3,
+      "difference": 28.7
+    }
+  },
+  "mp": {
+    "name": "Dame Meg Hillier",
+    "party": "Labour (Co-op)",
+    "memberId": 1524,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/1524/Thumbnail",
+    "email": "dame.meg.hillier@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 14737,
+    "turnout": 41701,
+    "turnoutPercent": 53.3,
+    "electorate": 78277,
+    "validVotes": 41701,
+    "invalidVotes": 213,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Meg Hillier",
+        "votes": 24724,
+        "percent": 59.3,
+        "change": -14.1
+      },
+      {
+        "party": "Green Party",
+        "name": "Laura-Louise Fairley",
+        "votes": 9987,
+        "percent": 23.9,
+        "change": 17.5
+      },
+      {
+        "party": "Conservative",
+        "name": "Joanna Reeves",
+        "votes": 2076,
+        "percent": 5.0,
+        "change": -5.4
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Theo Roos",
+        "votes": 1996,
+        "percent": 4.8,
+        "change": -3.4
+      },
+      {
+        "party": "Reform UK",
+        "name": "Anil Bhatti",
+        "votes": 1601,
+        "percent": 3.8,
+        "change": 2.5
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Shahed Hussain",
+        "votes": 1007,
+        "percent": 2.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Workers Revolutionary Party",
+        "name": "Carol Small",
+        "votes": 310,
+        "percent": 0.7,
+        "change": 0.5
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 4610,
+        "percent": 25.4
+      },
+      "Information and communication": {
+        "count": 3865,
+        "percent": 21.3
+      },
+      "Retail and wholesale": {
+        "count": 1930,
+        "percent": 10.6
+      },
+      "Business admin and support": {
+        "count": 1765,
+        "percent": 9.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1275,
+        "percent": 7.0
+      },
+      "Construction": {
+        "count": 1045,
+        "percent": 5.8
+      },
+      "Accommodation and food services": {
+        "count": 835,
+        "percent": 4.6
+      },
+      "Property": {
+        "count": 680,
+        "percent": 3.7
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 580,
+        "percent": 3.2
+      },
+      "Health": {
+        "count": 555,
+        "percent": 3.1
+      },
+      "Transport and storage": {
+        "count": 355,
+        "percent": 2.0
+      },
+      "Education": {
+        "count": 345,
+        "percent": 1.9
+      },
+      "Finance and insurance": {
+        "count": 290,
+        "percent": 1.6
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 25,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Professional, scientific and technical": {
+        "count": 29000,
+        "percent": 20.4
+      },
+      "Information and communication": {
+        "count": 24000,
+        "percent": 16.9
+      },
+      "Business admin and support": {
+        "count": 20000,
+        "percent": 14.1
+      },
+      "Health": {
+        "count": 15000,
+        "percent": 10.5
+      },
+      "Retail and wholesale": {
+        "count": 11400,
+        "percent": 8.0
+      },
+      "Accommodation and food services": {
+        "count": 10000,
+        "percent": 7.0
+      },
+      "Finance and insurance": {
+        "count": 6000,
+        "percent": 4.2
+      },
+      "Arts, entertainment and recreation": {
+        "count": 6000,
+        "percent": 4.2
+      },
+      "Education": {
+        "count": 5000,
+        "percent": 3.5
+      },
+      "Public admin and defence": {
+        "count": 4500,
+        "percent": 3.2
+      },
+      "Transport and storage": {
+        "count": 3500,
+        "percent": 2.5
+      },
+      "Construction": {
+        "count": 3000,
+        "percent": 2.1
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 2625,
+        "percent": 1.8
+      },
+      "Property": {
+        "count": 2250,
+        "percent": 1.6
+      }
+    }
+  },
+  "unemployment": {
+    "count": 6225,
+    "currentRate": 6.8,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 6.7
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 6.6
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 6.8
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 1031.0,
+    "annualChange": 6.6,
+    "ukPay": 811.2
+  }
 }

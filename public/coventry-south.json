@@ -1,0 +1,333 @@
+{
+  "name": "Coventry South",
+  "region": "England",
+  "onsCode": "E14001182",
+  "electorate": 76232,
+  "center_lat": 52.39239,
+  "center_lon": -1.53815,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 25963,
+      "percent": 19.7,
+      "nationalPercent": 20.6,
+      "difference": -0.9
+    },
+    "18 to 24": {
+      "count": 25955,
+      "percent": 19.7,
+      "nationalPercent": 8.4,
+      "difference": 11.3
+    },
+    "25 to 34": {
+      "count": 22585,
+      "percent": 17.1,
+      "nationalPercent": 13.5,
+      "difference": 3.6
+    },
+    "35 to 49": {
+      "count": 23170,
+      "percent": 17.6,
+      "nationalPercent": 19.3,
+      "difference": -1.8
+    },
+    "50 to 64": {
+      "count": 17859,
+      "percent": 13.5,
+      "nationalPercent": 19.2,
+      "difference": -5.7
+    },
+    "65 and over": {
+      "count": 16477,
+      "percent": 12.5,
+      "nationalPercent": 19.0,
+      "difference": -6.5
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 25546,
+      "percent": 21.3,
+      "nationalPercent": 1.6,
+      "difference": 19.7
+    },
+    "Black, African or Caribbean": {
+      "count": 11818,
+      "percent": 9.9,
+      "nationalPercent": 0.5,
+      "difference": 9.4
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 4151,
+      "percent": 3.5,
+      "nationalPercent": 0.8,
+      "difference": 2.7
+    },
+    "White": {
+      "count": 73475,
+      "percent": 61.4,
+      "nationalPercent": 6.2,
+      "difference": 55.2
+    },
+    "Other": {
+      "count": 4762,
+      "percent": 4.0,
+      "nationalPercent": 1.6,
+      "difference": 2.4
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 82669,
+      "percent": 69.0,
+      "nationalPercent": 13.9,
+      "difference": 55.1
+    },
+    "European Union": {
+      "count": 11989,
+      "percent": 10.0,
+      "nationalPercent": 0.5,
+      "difference": 9.5
+    },
+    "Rest of world": {
+      "count": 25096,
+      "percent": 21.0,
+      "nationalPercent": 0.3,
+      "difference": 20.7
+    }
+  },
+  "mp": {
+    "name": "Zarah Sultana",
+    "party": "Your Party",
+    "memberId": 4786,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4786/Thumbnail",
+    "email": "zarah.sultana@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 10201,
+    "turnout": 42731,
+    "turnoutPercent": 56.1,
+    "electorate": 76232,
+    "validVotes": 42731,
+    "invalidVotes": 159,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Zarah Sultana",
+        "votes": 20361,
+        "percent": 47.6,
+        "change": 3.4
+      },
+      {
+        "party": "Conservative",
+        "name": "Mattie Heaven",
+        "votes": 10160,
+        "percent": 23.8,
+        "change": -18.8
+      },
+      {
+        "party": "Reform UK",
+        "name": "Chris Baddon",
+        "votes": 5711,
+        "percent": 13.4,
+        "change": 10.5
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Stephen Richmond",
+        "votes": 2531,
+        "percent": 5.9,
+        "change": -0.8
+      },
+      {
+        "party": "Green Party",
+        "name": "Anne Patterson",
+        "votes": 2363,
+        "percent": 5.5,
+        "change": 2.9
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Mohammed Syed",
+        "votes": 777,
+        "percent": 1.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Alastair Mellon",
+        "votes": 334,
+        "percent": 0.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Niko Omilana",
+        "votes": 263,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Joshua Morland",
+        "votes": 231,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 670,
+        "percent": 15.9
+      },
+      "Professional, scientific and technical": {
+        "count": 615,
+        "percent": 14.6
+      },
+      "Construction": {
+        "count": 415,
+        "percent": 9.9
+      },
+      "Information and communication": {
+        "count": 365,
+        "percent": 8.7
+      },
+      "Business admin and support": {
+        "count": 360,
+        "percent": 8.6
+      },
+      "Accommodation and food services": {
+        "count": 315,
+        "percent": 7.5
+      },
+      "Arts, entertainment and recreation": {
+        "count": 295,
+        "percent": 7.0
+      },
+      "Transport and storage": {
+        "count": 270,
+        "percent": 6.4
+      },
+      "Property": {
+        "count": 250,
+        "percent": 5.9
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 235,
+        "percent": 5.6
+      },
+      "Health": {
+        "count": 205,
+        "percent": 4.9
+      },
+      "Education": {
+        "count": 105,
+        "percent": 2.5
+      },
+      "Finance and insurance": {
+        "count": 95,
+        "percent": 2.3
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 10,
+        "percent": 0.2
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.1
+      }
+    },
+    "employees": {
+      "Education": {
+        "count": 18000,
+        "percent": 22.5
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 13000,
+        "percent": 16.3
+      },
+      "Business admin and support": {
+        "count": 9000,
+        "percent": 11.3
+      },
+      "Retail and wholesale": {
+        "count": 9000,
+        "percent": 11.3
+      },
+      "Public admin and defence": {
+        "count": 6000,
+        "percent": 7.5
+      },
+      "Health": {
+        "count": 5000,
+        "percent": 6.3
+      },
+      "Accommodation and food services": {
+        "count": 4500,
+        "percent": 5.6
+      },
+      "Professional, scientific and technical": {
+        "count": 4500,
+        "percent": 5.6
+      },
+      "Arts, entertainment and recreation": {
+        "count": 3000,
+        "percent": 3.8
+      },
+      "Transport and storage": {
+        "count": 2250,
+        "percent": 2.8
+      },
+      "Information and communication": {
+        "count": 2250,
+        "percent": 2.8
+      },
+      "Construction": {
+        "count": 1250,
+        "percent": 1.6
+      },
+      "Property": {
+        "count": 1250,
+        "percent": 1.6
+      },
+      "Finance and insurance": {
+        "count": 900,
+        "percent": 1.1
+      }
+    }
+  },
+  "unemployment": {
+    "count": 4780,
+    "currentRate": 5.2,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 4.7
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 5.1
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 5.2
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 771.6,
+    "annualChange": 0.6,
+    "ukPay": 811.2
+  }
+}

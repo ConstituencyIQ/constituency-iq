@@ -1,0 +1,194 @@
+{
+  "name": "East Grinstead and Uckfield",
+  "region": "England",
+  "onsCode": "E14001212",
+  "electorate": 75385,
+  "center_lat": 51.01219,
+  "center_lon": 0.04396,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 20832,
+      "percent": 20.6,
+      "nationalPercent": 20.6,
+      "difference": 0.1
+    },
+    "18 to 24": {
+      "count": 5816,
+      "percent": 5.8,
+      "nationalPercent": 8.4,
+      "difference": -2.6
+    },
+    "25 to 34": {
+      "count": 10486,
+      "percent": 10.4,
+      "nationalPercent": 13.5,
+      "difference": -3.1
+    },
+    "35 to 49": {
+      "count": 18722,
+      "percent": 18.5,
+      "nationalPercent": 19.3,
+      "difference": -0.8
+    },
+    "50 to 64": {
+      "count": 21696,
+      "percent": 21.5,
+      "nationalPercent": 19.2,
+      "difference": 2.2
+    },
+    "65 and over": {
+      "count": 23456,
+      "percent": 23.2,
+      "nationalPercent": 19.0,
+      "difference": 4.2
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 2184,
+      "percent": 2.3,
+      "nationalPercent": 1.6,
+      "difference": 0.7
+    },
+    "Black, African or Caribbean": {
+      "count": 670,
+      "percent": 0.7,
+      "nationalPercent": 0.5,
+      "difference": 0.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2199,
+      "percent": 2.3,
+      "nationalPercent": 0.8,
+      "difference": 1.5
+    },
+    "White": {
+      "count": 89994,
+      "percent": 94.1,
+      "nationalPercent": 6.2,
+      "difference": 87.9
+    },
+    "Other": {
+      "count": 561,
+      "percent": 0.6,
+      "nationalPercent": 1.6,
+      "difference": -1.0
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 85792,
+      "percent": 89.7,
+      "nationalPercent": 13.9,
+      "difference": 75.8
+    },
+    "European Union": {
+      "count": 4178,
+      "percent": 4.4,
+      "nationalPercent": 0.5,
+      "difference": 3.9
+    },
+    "Rest of world": {
+      "count": 5635,
+      "percent": 5.9,
+      "nationalPercent": 0.3,
+      "difference": 5.6
+    }
+  },
+  "mp": {
+    "name": "Mims Davies",
+    "party": "Conservative",
+    "memberId": 4513,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4513/Thumbnail",
+    "email": "mims.davies@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Con hold",
+    "majority": 8480,
+    "turnout": 50393,
+    "turnoutPercent": 66.8,
+    "electorate": 75385,
+    "validVotes": 50393,
+    "invalidVotes": 471,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Conservative",
+        "name": "Mims Davies",
+        "votes": 19319,
+        "percent": 38.3,
+        "change": -20.1
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Benedict Dempsey",
+        "votes": 10839,
+        "percent": 21.5,
+        "change": -1.5
+      },
+      {
+        "party": "Labour",
+        "name": "Ben Cox",
+        "votes": 10440,
+        "percent": 20.7,
+        "change": 7.1
+      },
+      {
+        "party": "Green Party",
+        "name": "Christina Coleman",
+        "votes": 5277,
+        "percent": 10.5,
+        "change": 5.5
+      },
+      {
+        "party": "Independent",
+        "name": "Ian Gibson",
+        "votes": 2482,
+        "percent": 4.9,
+        "change": "N/A"
+      },
+      {
+        "party": "English Democrats",
+        "name": "William Highton",
+        "votes": 2036,
+        "percent": 4.0,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 1410,
+    "currentRate": 2.4,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.1
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.2
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.4
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 868.6,
+    "annualChange": 4.3,
+    "ukPay": 811.2
+  }
+}

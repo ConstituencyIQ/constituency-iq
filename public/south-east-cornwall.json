@@ -1,0 +1,194 @@
+{
+  "name": "South East Cornwall",
+  "region": "England",
+  "onsCode": "E14001486",
+  "electorate": 72654,
+  "center_lat": 50.4433,
+  "center_lon": -4.42072,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 15551,
+      "percent": 16.7,
+      "nationalPercent": 20.6,
+      "difference": -3.9
+    },
+    "18 to 24": {
+      "count": 5242,
+      "percent": 5.6,
+      "nationalPercent": 8.4,
+      "difference": -2.7
+    },
+    "25 to 34": {
+      "count": 8251,
+      "percent": 8.9,
+      "nationalPercent": 13.5,
+      "difference": -4.6
+    },
+    "35 to 49": {
+      "count": 14528,
+      "percent": 15.6,
+      "nationalPercent": 19.3,
+      "difference": -3.7
+    },
+    "50 to 64": {
+      "count": 21936,
+      "percent": 23.6,
+      "nationalPercent": 19.2,
+      "difference": 4.3
+    },
+    "65 and over": {
+      "count": 27545,
+      "percent": 29.6,
+      "nationalPercent": 19.0,
+      "difference": 10.6
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 468,
+      "percent": 0.5,
+      "nationalPercent": 1.6,
+      "difference": -1.1
+    },
+    "Black, African or Caribbean": {
+      "count": 100,
+      "percent": 0.1,
+      "nationalPercent": 0.5,
+      "difference": -0.4
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 848,
+      "percent": 0.9,
+      "nationalPercent": 0.8,
+      "difference": 0.1
+    },
+    "White": {
+      "count": 88939,
+      "percent": 97.8,
+      "nationalPercent": 6.2,
+      "difference": 91.6
+    },
+    "Other": {
+      "count": 602,
+      "percent": 0.7,
+      "nationalPercent": 1.6,
+      "difference": -0.9
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 86940,
+      "percent": 95.6,
+      "nationalPercent": 13.9,
+      "difference": 81.7
+    },
+    "European Union": {
+      "count": 1968,
+      "percent": 2.2,
+      "nationalPercent": 0.5,
+      "difference": 1.7
+    },
+    "Rest of world": {
+      "count": 2049,
+      "percent": 2.3,
+      "nationalPercent": 0.3,
+      "difference": 2.0
+    }
+  },
+  "mp": {
+    "name": "Anna Gelderd",
+    "party": "Labour",
+    "memberId": 5353,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5353/Thumbnail",
+    "email": "anna.gelderd@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 1911,
+    "turnout": 49286,
+    "turnoutPercent": 67.8,
+    "electorate": 72654,
+    "validVotes": 49286,
+    "invalidVotes": 136,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Anna Gelderd",
+        "votes": 15670,
+        "percent": 31.8,
+        "change": 11.5
+      },
+      {
+        "party": "Conservative",
+        "name": "Sheryll Murray",
+        "votes": 13759,
+        "percent": 27.9,
+        "change": -31.1
+      },
+      {
+        "party": "Reform UK",
+        "name": "Paul Wadley",
+        "votes": 9311,
+        "percent": 18.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Colin Martin",
+        "votes": 8284,
+        "percent": 16.8,
+        "change": 0.5
+      },
+      {
+        "party": "Green Party",
+        "name": "Martin Corney",
+        "votes": 1999,
+        "percent": 4.1,
+        "change": 1.4
+      },
+      {
+        "party": "Heritage Party",
+        "name": "Graham Cowdry",
+        "votes": 263,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 1475,
+    "currentRate": 2.8,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.6
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.8
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.8
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 774.9,
+    "annualChange": 9.5,
+    "ukPay": 811.2
+  }
+}

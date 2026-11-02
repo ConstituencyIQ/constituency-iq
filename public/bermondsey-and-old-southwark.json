@@ -1,0 +1,326 @@
+{
+  "name": "Bermondsey and Old Southwark",
+  "region": "England",
+  "onsCode": "E14001085",
+  "electorate": 69482,
+  "center_lat": 51.49761,
+  "center_lon": -0.07126,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 16484,
+      "percent": 14.9,
+      "nationalPercent": 20.6,
+      "difference": -5.7
+    },
+    "18 to 24": {
+      "count": 15630,
+      "percent": 14.1,
+      "nationalPercent": 8.4,
+      "difference": 5.8
+    },
+    "25 to 34": {
+      "count": 30035,
+      "percent": 27.2,
+      "nationalPercent": 13.5,
+      "difference": 13.7
+    },
+    "35 to 49": {
+      "count": 23847,
+      "percent": 21.6,
+      "nationalPercent": 19.3,
+      "difference": 2.2
+    },
+    "50 to 64": {
+      "count": 16391,
+      "percent": 14.8,
+      "nationalPercent": 19.2,
+      "difference": -4.4
+    },
+    "65 and over": {
+      "count": 8228,
+      "percent": 7.4,
+      "nationalPercent": 19.0,
+      "difference": -11.6
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 14116,
+      "percent": 13.2,
+      "nationalPercent": 1.6,
+      "difference": 11.6
+    },
+    "Black, African or Caribbean": {
+      "count": 19489,
+      "percent": 18.2,
+      "nationalPercent": 0.5,
+      "difference": 17.7
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 7204,
+      "percent": 6.7,
+      "nationalPercent": 0.8,
+      "difference": 5.9
+    },
+    "White": {
+      "count": 59997,
+      "percent": 56.0,
+      "nationalPercent": 6.2,
+      "difference": 49.8
+    },
+    "Other": {
+      "count": 6353,
+      "percent": 5.9,
+      "nationalPercent": 1.6,
+      "difference": 4.3
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 58427,
+      "percent": 54.5,
+      "nationalPercent": 13.9,
+      "difference": 40.6
+    },
+    "European Union": {
+      "count": 17245,
+      "percent": 16.1,
+      "nationalPercent": 0.5,
+      "difference": 15.6
+    },
+    "Rest of world": {
+      "count": 31488,
+      "percent": 29.4,
+      "nationalPercent": 0.3,
+      "difference": 29.1
+    }
+  },
+  "mp": {
+    "name": "Neil Coyle",
+    "party": "Labour",
+    "memberId": 4368,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4368/Thumbnail",
+    "email": "neil.coyle@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 7787,
+    "turnout": 37603,
+    "turnoutPercent": 54.1,
+    "electorate": 69482,
+    "validVotes": 37603,
+    "invalidVotes": 180,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Neil Coyle",
+        "votes": 16857,
+        "percent": 44.8,
+        "change": -4.8
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Rachel Bentley",
+        "votes": 9070,
+        "percent": 24.1,
+        "change": -7.0
+      },
+      {
+        "party": "Green Party",
+        "name": "Susan Hunter",
+        "votes": 4477,
+        "percent": 11.9,
+        "change": 11.9
+      },
+      {
+        "party": "Reform UK",
+        "name": "Tony Sharp",
+        "votes": 3397,
+        "percent": 9.0,
+        "change": 6.6
+      },
+      {
+        "party": "Conservative",
+        "name": "Jonathan Iliff",
+        "votes": 2879,
+        "percent": 7.7,
+        "change": -9.1
+      },
+      {
+        "party": "Independent",
+        "name": "Piers Corbyn",
+        "votes": 403,
+        "percent": 1.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Niko Omilana",
+        "votes": 273,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Barry Duckett",
+        "votes": 247,
+        "percent": 0.7,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 2285,
+        "percent": 25.3
+      },
+      "Information and communication": {
+        "count": 1310,
+        "percent": 14.5
+      },
+      "Retail and wholesale": {
+        "count": 965,
+        "percent": 10.7
+      },
+      "Business admin and support": {
+        "count": 835,
+        "percent": 9.2
+      },
+      "Arts, entertainment and recreation": {
+        "count": 730,
+        "percent": 8.1
+      },
+      "Construction": {
+        "count": 520,
+        "percent": 5.8
+      },
+      "Accommodation and food services": {
+        "count": 515,
+        "percent": 5.7
+      },
+      "Property": {
+        "count": 445,
+        "percent": 4.9
+      },
+      "Finance and insurance": {
+        "count": 380,
+        "percent": 4.2
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 350,
+        "percent": 3.9
+      },
+      "Health": {
+        "count": 340,
+        "percent": 3.8
+      },
+      "Education": {
+        "count": 185,
+        "percent": 2.0
+      },
+      "Transport and storage": {
+        "count": 155,
+        "percent": 1.7
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 15,
+        "percent": 0.2
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.1
+      }
+    },
+    "employees": {
+      "Professional, scientific and technical": {
+        "count": 68000,
+        "percent": 29.4
+      },
+      "Business admin and support": {
+        "count": 31000,
+        "percent": 13.4
+      },
+      "Information and communication": {
+        "count": 29000,
+        "percent": 12.6
+      },
+      "Health": {
+        "count": 20000,
+        "percent": 8.7
+      },
+      "Accommodation and food services": {
+        "count": 13000,
+        "percent": 5.6
+      },
+      "Transport and storage": {
+        "count": 12000,
+        "percent": 5.2
+      },
+      "Education": {
+        "count": 11000,
+        "percent": 4.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 11000,
+        "percent": 4.8
+      },
+      "Retail and wholesale": {
+        "count": 8600,
+        "percent": 3.7
+      },
+      "Public admin and defence": {
+        "count": 8000,
+        "percent": 3.5
+      },
+      "Finance and insurance": {
+        "count": 7000,
+        "percent": 3.0
+      },
+      "Property": {
+        "count": 6000,
+        "percent": 2.6
+      },
+      "Construction": {
+        "count": 3500,
+        "percent": 1.5
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 2800,
+        "percent": 1.2
+      }
+    }
+  },
+  "unemployment": {
+    "count": 4330,
+    "currentRate": 4.9,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 4.7
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 4.8
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 4.9
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 996.5,
+    "annualChange": -2.8,
+    "ukPay": 811.2
+  }
+}

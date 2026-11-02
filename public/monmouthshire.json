@@ -1,0 +1,333 @@
+{
+  "name": "Monmouthshire",
+  "region": "Wales",
+  "onsCode": "W07000101",
+  "electorate": 74823,
+  "center_lat": 51.76848,
+  "center_lon": -2.86391,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 17083,
+      "percent": 18.0,
+      "nationalPercent": 20.6,
+      "difference": -2.6
+    },
+    "18 to 24": {
+      "count": 5032,
+      "percent": 5.3,
+      "nationalPercent": 8.4,
+      "difference": -3.1
+    },
+    "25 to 34": {
+      "count": 9702,
+      "percent": 10.2,
+      "nationalPercent": 13.5,
+      "difference": -3.3
+    },
+    "35 to 49": {
+      "count": 16048,
+      "percent": 16.9,
+      "nationalPercent": 19.3,
+      "difference": -2.4
+    },
+    "50 to 64": {
+      "count": 21842,
+      "percent": 23.0,
+      "nationalPercent": 19.2,
+      "difference": 3.8
+    },
+    "65 and over": {
+      "count": 25223,
+      "percent": 26.6,
+      "nationalPercent": 19.0,
+      "difference": 7.6
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 1185,
+      "percent": 1.3,
+      "nationalPercent": 1.6,
+      "difference": -0.3
+    },
+    "Black, African or Caribbean": {
+      "count": 230,
+      "percent": 0.2,
+      "nationalPercent": 0.5,
+      "difference": -0.3
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1115,
+      "percent": 1.2,
+      "nationalPercent": 0.8,
+      "difference": 0.4
+    },
+    "White": {
+      "count": 90106,
+      "percent": 96.9,
+      "nationalPercent": 6.2,
+      "difference": 90.7
+    },
+    "Other": {
+      "count": 324,
+      "percent": 0.3,
+      "nationalPercent": 1.6,
+      "difference": -1.3
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 87844,
+      "percent": 94.5,
+      "nationalPercent": 13.9,
+      "difference": 80.6
+    },
+    "European Union": {
+      "count": 2149,
+      "percent": 2.3,
+      "nationalPercent": 0.5,
+      "difference": 1.8
+    },
+    "Rest of world": {
+      "count": 2966,
+      "percent": 3.2,
+      "nationalPercent": 0.3,
+      "difference": 2.9
+    }
+  },
+  "mp": {
+    "name": "Catherine Fookes",
+    "party": "Labour",
+    "memberId": 5291,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5291/Thumbnail",
+    "email": "catherine.fookes@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 3338,
+    "turnout": 50844,
+    "turnoutPercent": 68.0,
+    "electorate": 74823,
+    "validVotes": 50844,
+    "invalidVotes": 154,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Catherine Fookes",
+        "votes": 21010,
+        "percent": 41.3,
+        "change": 9.7
+      },
+      {
+        "party": "Conservative",
+        "name": "David Davies",
+        "votes": 17672,
+        "percent": 34.8,
+        "change": -17.4
+      },
+      {
+        "party": "Reform UK",
+        "name": "Max Windsor-Peplow",
+        "votes": 5438,
+        "percent": 10.7,
+        "change": 9.8
+      },
+      {
+        "party": "Green Party",
+        "name": "Ian Chandler",
+        "votes": 2357,
+        "percent": 4.6,
+        "change": 2.1
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "William Powell",
+        "votes": 2279,
+        "percent": 4.5,
+        "change": -5.1
+      },
+      {
+        "party": "Plaid Cymru",
+        "name": "Ioan Bellin",
+        "votes": 1273,
+        "percent": 2.5,
+        "change": 0.1
+      },
+      {
+        "party": "Independent",
+        "name": "Owen Lewis",
+        "votes": 457,
+        "percent": 0.9,
+        "change": "N/A"
+      },
+      {
+        "party": "True & Fair Party",
+        "name": "June Davies",
+        "votes": 255,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Heritage Party",
+        "name": "Emma Meredith",
+        "votes": 103,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Agriculture, forestry and fishing": {
+        "count": 705,
+        "percent": 16.0
+      },
+      "Professional, scientific and technical": {
+        "count": 680,
+        "percent": 15.4
+      },
+      "Construction": {
+        "count": 510,
+        "percent": 11.6
+      },
+      "Retail and wholesale": {
+        "count": 510,
+        "percent": 11.6
+      },
+      "Business admin and support": {
+        "count": 330,
+        "percent": 7.5
+      },
+      "Accommodation and food services": {
+        "count": 295,
+        "percent": 6.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 255,
+        "percent": 5.8
+      },
+      "Information and communication": {
+        "count": 245,
+        "percent": 5.5
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 220,
+        "percent": 5.0
+      },
+      "Transport and storage": {
+        "count": 165,
+        "percent": 3.7
+      },
+      "Health": {
+        "count": 165,
+        "percent": 3.7
+      },
+      "Property": {
+        "count": 160,
+        "percent": 3.6
+      },
+      "Finance and insurance": {
+        "count": 75,
+        "percent": 1.7
+      },
+      "Education": {
+        "count": 70,
+        "percent": 1.6
+      },
+      "Public admin and defence": {
+        "count": 30,
+        "percent": 0.7
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 6000,
+        "percent": 16.5
+      },
+      "Retail and wholesale": {
+        "count": 5900,
+        "percent": 16.3
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3700,
+        "percent": 10.2
+      },
+      "Accommodation and food services": {
+        "count": 3500,
+        "percent": 9.6
+      },
+      "Construction": {
+        "count": 3000,
+        "percent": 8.3
+      },
+      "Public admin and defence": {
+        "count": 2500,
+        "percent": 6.9
+      },
+      "Education": {
+        "count": 2500,
+        "percent": 6.9
+      },
+      "Professional, scientific and technical": {
+        "count": 2250,
+        "percent": 6.2
+      },
+      "Business admin and support": {
+        "count": 2000,
+        "percent": 5.5
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1750,
+        "percent": 4.8
+      },
+      "Transport and storage": {
+        "count": 1500,
+        "percent": 4.1
+      },
+      "Information and communication": {
+        "count": 800,
+        "percent": 2.2
+      },
+      "Property": {
+        "count": 600,
+        "percent": 1.7
+      },
+      "Finance and insurance": {
+        "count": 300,
+        "percent": 0.8
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1315,
+    "currentRate": 2.4,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.3
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.3
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.4
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 906.6,
+    "annualChange": 8.2,
+    "ukPay": 811.2
+  }
+}

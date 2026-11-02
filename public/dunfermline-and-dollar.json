@@ -1,0 +1,333 @@
+{
+  "name": "Dunfermline and Dollar",
+  "region": "Scotland",
+  "onsCode": "S14000076",
+  "electorate": 72824,
+  "center_lat": 56.11046,
+  "center_lon": -3.57459,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19054,
+      "percent": 19.7,
+      "nationalPercent": 20.6,
+      "difference": -0.9
+    },
+    "18 to 24": {
+      "count": 6425,
+      "percent": 6.6,
+      "nationalPercent": 8.4,
+      "difference": -1.7
+    },
+    "25 to 34": {
+      "count": 11487,
+      "percent": 11.9,
+      "nationalPercent": 13.5,
+      "difference": -1.6
+    },
+    "35 to 49": {
+      "count": 19480,
+      "percent": 20.2,
+      "nationalPercent": 19.3,
+      "difference": 0.8
+    },
+    "50 to 64": {
+      "count": 20880,
+      "percent": 21.6,
+      "nationalPercent": 19.2,
+      "difference": 2.4
+    },
+    "65 and over": {
+      "count": 19299,
+      "percent": 20.0,
+      "nationalPercent": 19.0,
+      "difference": 1.0
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 91451,
+      "percent": 95.7,
+      "nationalPercent": 3.0,
+      "difference": 92.7
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 834,
+      "percent": 0.9,
+      "nationalPercent": 1.1,
+      "difference": -0.2
+    },
+    "Asian": {
+      "count": 2220,
+      "percent": 2.3,
+      "nationalPercent": 0.6,
+      "difference": 1.7
+    },
+    "Black, African or Caribbean": {
+      "count": 643,
+      "percent": 0.7,
+      "nationalPercent": 0.1,
+      "difference": 0.6
+    },
+    "Other": {
+      "count": 416,
+      "percent": 0.4,
+      "nationalPercent": 0.5,
+      "difference": -0.1
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 88205,
+      "percent": 92.3,
+      "nationalPercent": 18.0,
+      "difference": 74.3
+    },
+    "Rest of world": {
+      "count": 3746,
+      "percent": 3.9,
+      "nationalPercent": 0.2,
+      "difference": 3.7
+    },
+    "European Union": {
+      "count": 3624,
+      "percent": 3.8,
+      "nationalPercent": 0.3,
+      "difference": 3.5
+    }
+  },
+  "mp": {
+    "name": "Graeme Downie",
+    "party": "Labour",
+    "memberId": 5275,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5275/Thumbnail",
+    "email": "graeme.downie@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from SNP",
+    "majority": 8241,
+    "turnout": 44537,
+    "turnoutPercent": 61.2,
+    "electorate": 72824,
+    "validVotes": 44537,
+    "invalidVotes": 140,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Graeme Downie",
+        "votes": 20336,
+        "percent": 45.7,
+        "change": 22.1
+      },
+      {
+        "party": "Scottish National Party",
+        "name": "Naz Anis-Miah",
+        "votes": 12095,
+        "percent": 27.2,
+        "change": -17.1
+      },
+      {
+        "party": "Conservative",
+        "name": "Thomas Heald",
+        "votes": 3297,
+        "percent": 7.4,
+        "change": -14.0
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Lauren Buchanan-Quigley",
+        "votes": 3181,
+        "percent": 7.1,
+        "change": -1.3
+      },
+      {
+        "party": "Reform UK",
+        "name": "Udo van den Brock",
+        "votes": 2887,
+        "percent": 6.5,
+        "change": 6.5
+      },
+      {
+        "party": "Scottish Green Party",
+        "name": "Ryan Blackadder",
+        "votes": 2078,
+        "percent": 4.7,
+        "change": 2.4
+      },
+      {
+        "party": "Independent",
+        "name": "Graham Hadley",
+        "votes": 324,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Scottish Family Party",
+        "name": "Danny Smith",
+        "votes": 251,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "George Morton",
+        "votes": 88,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 365,
+        "percent": 16.5
+      },
+      "Construction": {
+        "count": 340,
+        "percent": 15.3
+      },
+      "Retail and wholesale": {
+        "count": 315,
+        "percent": 14.2
+      },
+      "Arts, entertainment and recreation": {
+        "count": 195,
+        "percent": 8.8
+      },
+      "Business admin and support": {
+        "count": 175,
+        "percent": 7.9
+      },
+      "Accommodation and food services": {
+        "count": 160,
+        "percent": 7.2
+      },
+      "Information and communication": {
+        "count": 120,
+        "percent": 5.4
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 115,
+        "percent": 5.2
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 105,
+        "percent": 4.7
+      },
+      "Health": {
+        "count": 105,
+        "percent": 4.7
+      },
+      "Transport and storage": {
+        "count": 80,
+        "percent": 3.6
+      },
+      "Property": {
+        "count": 80,
+        "percent": 3.6
+      },
+      "Finance and insurance": {
+        "count": 35,
+        "percent": 1.6
+      },
+      "Education": {
+        "count": 25,
+        "percent": 1.1
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 5500,
+        "percent": 14.4
+      },
+      "Health": {
+        "count": 5000,
+        "percent": 13.1
+      },
+      "Transport and storage": {
+        "count": 4000,
+        "percent": 10.5
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3800,
+        "percent": 10.0
+      },
+      "Education": {
+        "count": 3000,
+        "percent": 7.9
+      },
+      "Professional, scientific and technical": {
+        "count": 3000,
+        "percent": 7.9
+      },
+      "Finance and insurance": {
+        "count": 2500,
+        "percent": 6.6
+      },
+      "Accommodation and food services": {
+        "count": 2500,
+        "percent": 6.6
+      },
+      "Information and communication": {
+        "count": 2250,
+        "percent": 5.9
+      },
+      "Construction": {
+        "count": 1750,
+        "percent": 4.6
+      },
+      "Business admin and support": {
+        "count": 1750,
+        "percent": 4.6
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1500,
+        "percent": 3.9
+      },
+      "Public admin and defence": {
+        "count": 1250,
+        "percent": 3.3
+      },
+      "Property": {
+        "count": 300,
+        "percent": 0.8
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1585,
+    "currentRate": 2.6,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.4
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.7
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.6
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 807.7,
+    "annualChange": 2.7,
+    "ukPay": 811.2
+  }
+}

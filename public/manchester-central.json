@@ -1,16 +1,340 @@
 {
-    "name": "Manchester Central",
-    "region": "North West",
-    "onsCode": "E14000750",
-    "electorate": 68900,
-    "metrics": {
-        "medianEarnings": "\u00a3630.00",
-        "earningsVariance": "-7.4% vs UK",
-        "housePrice": "\u00a3260000",
-        "housePriceVariance": "-8.8% vs UK",
-        "claimantRate": "6.2%",
-        "claimantVariance": "+2.1 pp vs UK",
-        "crimeRate": "95.1 per 1,000",
-        "crimeVariance": "+5.8% vs UK"
+  "name": "Manchester Central",
+  "region": "England",
+  "onsCode": "E14001352",
+  "electorate": 85204,
+  "center_lat": 53.49498,
+  "center_lon": -2.17584,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 25406,
+      "percent": 18.3,
+      "nationalPercent": 20.6,
+      "difference": -2.3
+    },
+    "18 to 24": {
+      "count": 25691,
+      "percent": 18.5,
+      "nationalPercent": 8.4,
+      "difference": 10.1
+    },
+    "25 to 34": {
+      "count": 34928,
+      "percent": 25.1,
+      "nationalPercent": 13.5,
+      "difference": 11.7
+    },
+    "35 to 49": {
+      "count": 24908,
+      "percent": 17.9,
+      "nationalPercent": 19.3,
+      "difference": -1.4
+    },
+    "50 to 64": {
+      "count": 16926,
+      "percent": 12.2,
+      "nationalPercent": 19.2,
+      "difference": -7.1
+    },
+    "65 and over": {
+      "count": 11086,
+      "percent": 8.0,
+      "nationalPercent": 19.0,
+      "difference": -11.0
     }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 21456,
+      "percent": 17.5,
+      "nationalPercent": 1.6,
+      "difference": 15.9
+    },
+    "Black, African or Caribbean": {
+      "count": 14109,
+      "percent": 11.5,
+      "nationalPercent": 0.5,
+      "difference": 11.0
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 5882,
+      "percent": 4.8,
+      "nationalPercent": 0.8,
+      "difference": 4.0
+    },
+    "White": {
+      "count": 75164,
+      "percent": 61.4,
+      "nationalPercent": 6.2,
+      "difference": 55.2
+    },
+    "Other": {
+      "count": 5804,
+      "percent": 4.7,
+      "nationalPercent": 1.6,
+      "difference": 3.1
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 83179,
+      "percent": 67.9,
+      "nationalPercent": 13.9,
+      "difference": 54.0
+    },
+    "European Union": {
+      "count": 10800,
+      "percent": 8.8,
+      "nationalPercent": 0.5,
+      "difference": 8.3
+    },
+    "Rest of world": {
+      "count": 28436,
+      "percent": 23.2,
+      "nationalPercent": 0.3,
+      "difference": 22.9
+    }
+  },
+  "mp": {
+    "name": "Lucy Powell",
+    "party": "Labour (Co-op)",
+    "memberId": 4263,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4263/Thumbnail",
+    "email": "lucy.powell@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 13797,
+    "turnout": 39725,
+    "turnoutPercent": 46.6,
+    "electorate": 85204,
+    "validVotes": 39725,
+    "invalidVotes": 181,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Lucy Powell",
+        "votes": 20184,
+        "percent": 50.8,
+        "change": -14.6
+      },
+      {
+        "party": "Green Party",
+        "name": "Ekua Bayunu",
+        "votes": 6387,
+        "percent": 16.1,
+        "change": 13.2
+      },
+      {
+        "party": "Reform UK",
+        "name": "David Brown",
+        "votes": 4760,
+        "percent": 12.0,
+        "change": 7.5
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Chris Northwood",
+        "votes": 3051,
+        "percent": 7.7,
+        "change": 1.6
+      },
+      {
+        "party": "Conservative",
+        "name": "Scott Smith",
+        "votes": 2823,
+        "percent": 7.1,
+        "change": -13.9
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Parham Hashemi",
+        "votes": 1888,
+        "percent": 4.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Sebastian Moore",
+        "votes": 240,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Sabeena Khan",
+        "votes": 202,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Communist Future",
+        "name": "Caitriona Rylance",
+        "votes": 131,
+        "percent": 0.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Albati Kalonda",
+        "votes": 59,
+        "percent": 0.1,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 2640,
+        "percent": 21.9
+      },
+      "Retail and wholesale": {
+        "count": 2350,
+        "percent": 19.5
+      },
+      "Business admin and support": {
+        "count": 1165,
+        "percent": 9.7
+      },
+      "Information and communication": {
+        "count": 955,
+        "percent": 7.9
+      },
+      "Accommodation and food services": {
+        "count": 915,
+        "percent": 7.6
+      },
+      "Construction": {
+        "count": 805,
+        "percent": 6.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 805,
+        "percent": 6.7
+      },
+      "Property": {
+        "count": 785,
+        "percent": 6.5
+      },
+      "Health": {
+        "count": 415,
+        "percent": 3.4
+      },
+      "Finance and insurance": {
+        "count": 380,
+        "percent": 3.2
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 370,
+        "percent": 3.1
+      },
+      "Transport and storage": {
+        "count": 270,
+        "percent": 2.2
+      },
+      "Education": {
+        "count": 190,
+        "percent": 1.6
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 10,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Professional, scientific and technical": {
+        "count": 53000,
+        "percent": 20.5
+      },
+      "Business admin and support": {
+        "count": 35000,
+        "percent": 13.6
+      },
+      "Retail and wholesale": {
+        "count": 28000,
+        "percent": 10.9
+      },
+      "Accommodation and food services": {
+        "count": 25000,
+        "percent": 9.7
+      },
+      "Information and communication": {
+        "count": 23000,
+        "percent": 8.9
+      },
+      "Finance and insurance": {
+        "count": 23000,
+        "percent": 8.9
+      },
+      "Public admin and defence": {
+        "count": 14000,
+        "percent": 5.4
+      },
+      "Arts, entertainment and recreation": {
+        "count": 11000,
+        "percent": 4.3
+      },
+      "Transport and storage": {
+        "count": 9000,
+        "percent": 3.5
+      },
+      "Property": {
+        "count": 9000,
+        "percent": 3.5
+      },
+      "Education": {
+        "count": 9000,
+        "percent": 3.5
+      },
+      "Health": {
+        "count": 8000,
+        "percent": 3.1
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 7000,
+        "percent": 2.7
+      },
+      "Construction": {
+        "count": 4000,
+        "percent": 1.6
+      }
+    }
+  },
+  "unemployment": {
+    "count": 5290,
+    "currentRate": 5.0,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 4.8
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 4.9
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 5.0
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 699.3,
+    "annualChange": -1.4,
+    "ukPay": 811.2
+  }
 }

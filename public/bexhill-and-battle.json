@@ -1,0 +1,340 @@
+{
+  "name": "Bexhill and Battle",
+  "region": "England",
+  "onsCode": "E14001088",
+  "electorate": 72198,
+  "center_lat": 50.94044,
+  "center_lon": 0.52977,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 15641,
+      "percent": 16.9,
+      "nationalPercent": 20.6,
+      "difference": -3.6
+    },
+    "18 to 24": {
+      "count": 5055,
+      "percent": 5.5,
+      "nationalPercent": 8.4,
+      "difference": -2.9
+    },
+    "25 to 34": {
+      "count": 8329,
+      "percent": 9.0,
+      "nationalPercent": 13.5,
+      "difference": -4.5
+    },
+    "35 to 49": {
+      "count": 13315,
+      "percent": 14.4,
+      "nationalPercent": 19.3,
+      "difference": -4.9
+    },
+    "50 to 64": {
+      "count": 20219,
+      "percent": 21.9,
+      "nationalPercent": 19.2,
+      "difference": 2.7
+    },
+    "65 and over": {
+      "count": 29725,
+      "percent": 32.2,
+      "nationalPercent": 19.0,
+      "difference": 13.2
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 1325,
+      "percent": 1.5,
+      "nationalPercent": 1.6,
+      "difference": -0.1
+    },
+    "Black, African or Caribbean": {
+      "count": 510,
+      "percent": 0.6,
+      "nationalPercent": 0.5,
+      "difference": 0.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1604,
+      "percent": 1.8,
+      "nationalPercent": 0.8,
+      "difference": 1.0
+    },
+    "White": {
+      "count": 85212,
+      "percent": 95.6,
+      "nationalPercent": 6.2,
+      "difference": 89.4
+    },
+    "Other": {
+      "count": 458,
+      "percent": 0.5,
+      "nationalPercent": 1.6,
+      "difference": -1.1
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 82576,
+      "percent": 92.7,
+      "nationalPercent": 13.9,
+      "difference": 78.8
+    },
+    "European Union": {
+      "count": 2516,
+      "percent": 2.8,
+      "nationalPercent": 0.5,
+      "difference": 2.3
+    },
+    "Rest of world": {
+      "count": 4004,
+      "percent": 4.5,
+      "nationalPercent": 0.3,
+      "difference": 4.2
+    }
+  },
+  "mp": {
+    "name": "Dr Kieran Mullan",
+    "party": "Conservative",
+    "memberId": 4860,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4860/Thumbnail",
+    "email": "dr.kieran.mullan@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Con hold",
+    "majority": 2657,
+    "turnout": 47750,
+    "turnoutPercent": 66.1,
+    "electorate": 72198,
+    "validVotes": 47750,
+    "invalidVotes": 188,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Conservative",
+        "name": "Kieran Mullan",
+        "votes": 16186,
+        "percent": 33.9,
+        "change": -27.9
+      },
+      {
+        "party": "Labour",
+        "name": "Christine Bayliss",
+        "votes": 13529,
+        "percent": 28.3,
+        "change": 7.6
+      },
+      {
+        "party": "Reform UK",
+        "name": "Ian Gribbin",
+        "votes": 7929,
+        "percent": 16.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Becky Jones",
+        "votes": 3473,
+        "percent": 7.3,
+        "change": -6.1
+      },
+      {
+        "party": "Green Party",
+        "name": "Jonathan Kent",
+        "votes": 2972,
+        "percent": 6.2,
+        "change": 2.1
+      },
+      {
+        "party": "Independent",
+        "name": "Abul Azad",
+        "votes": 2206,
+        "percent": 4.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Jeff Newnham",
+        "votes": 769,
+        "percent": 1.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Party of Women",
+        "name": "Julia Long",
+        "votes": 332,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent Network",
+        "name": "Nigel Jacklin",
+        "votes": 210,
+        "percent": 0.4,
+        "change": "N/A"
+      },
+      {
+        "party": "UK Independence Party",
+        "name": "Colin Sullivan",
+        "votes": 144,
+        "percent": 0.3,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Construction": {
+        "count": 740,
+        "percent": 18.8
+      },
+      "Professional, scientific and technical": {
+        "count": 550,
+        "percent": 14.0
+      },
+      "Retail and wholesale": {
+        "count": 545,
+        "percent": 13.8
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 355,
+        "percent": 9.0
+      },
+      "Business admin and support": {
+        "count": 330,
+        "percent": 8.4
+      },
+      "Arts, entertainment and recreation": {
+        "count": 260,
+        "percent": 6.6
+      },
+      "Accommodation and food services": {
+        "count": 250,
+        "percent": 6.3
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 215,
+        "percent": 5.5
+      },
+      "Information and communication": {
+        "count": 195,
+        "percent": 4.9
+      },
+      "Health": {
+        "count": 150,
+        "percent": 3.8
+      },
+      "Property": {
+        "count": 145,
+        "percent": 3.7
+      },
+      "Transport and storage": {
+        "count": 65,
+        "percent": 1.6
+      },
+      "Education": {
+        "count": 65,
+        "percent": 1.6
+      },
+      "Finance and insurance": {
+        "count": 55,
+        "percent": 1.4
+      },
+      "Public admin and defence": {
+        "count": 20,
+        "percent": 0.5
+      }
+    },
+    "employees": {
+      "Accommodation and food services": {
+        "count": 7000,
+        "percent": 23.0
+      },
+      "Health": {
+        "count": 4500,
+        "percent": 14.8
+      },
+      "Retail and wholesale": {
+        "count": 3400,
+        "percent": 11.2
+      },
+      "Education": {
+        "count": 3000,
+        "percent": 9.8
+      },
+      "Finance and insurance": {
+        "count": 3000,
+        "percent": 9.8
+      },
+      "Construction": {
+        "count": 1750,
+        "percent": 5.7
+      },
+      "Professional, scientific and technical": {
+        "count": 1750,
+        "percent": 5.7
+      },
+      "Business admin and support": {
+        "count": 1500,
+        "percent": 4.9
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 1375,
+        "percent": 4.5
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1250,
+        "percent": 4.1
+      },
+      "Public admin and defence": {
+        "count": 600,
+        "percent": 2.0
+      },
+      "Transport and storage": {
+        "count": 500,
+        "percent": 1.6
+      },
+      "Property": {
+        "count": 450,
+        "percent": 1.5
+      },
+      "Information and communication": {
+        "count": 400,
+        "percent": 1.3
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1540,
+    "currentRate": 3.1,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.0
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.1
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.1
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 821.9,
+    "annualChange": 11.5,
+    "ukPay": 811.2
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "name": "Rutherglen",
+  "region": "Scotland",
+  "onsCode": "S14000104",
+  "electorate": 72674,
+  "center_lat": 55.81279,
+  "center_lon": -4.13079,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 18722,
+      "percent": 19.5,
+      "nationalPercent": 20.6,
+      "difference": -1.1
+    },
+    "18 to 24": {
+      "count": 6688,
+      "percent": 7.0,
+      "nationalPercent": 8.4,
+      "difference": -1.4
+    },
+    "25 to 34": {
+      "count": 11798,
+      "percent": 12.3,
+      "nationalPercent": 13.5,
+      "difference": -1.2
+    },
+    "35 to 49": {
+      "count": 19540,
+      "percent": 20.3,
+      "nationalPercent": 19.3,
+      "difference": 1.0
+    },
+    "50 to 64": {
+      "count": 19842,
+      "percent": 20.7,
+      "nationalPercent": 19.2,
+      "difference": 1.4
+    },
+    "65 and over": {
+      "count": 19480,
+      "percent": 20.3,
+      "nationalPercent": 19.0,
+      "difference": 1.3
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 88034,
+      "percent": 93.9,
+      "nationalPercent": 3.0,
+      "difference": 90.9
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 792,
+      "percent": 0.8,
+      "nationalPercent": 1.1,
+      "difference": -0.3
+    },
+    "Asian": {
+      "count": 3614,
+      "percent": 3.9,
+      "nationalPercent": 0.6,
+      "difference": 3.3
+    },
+    "Black, African or Caribbean": {
+      "count": 823,
+      "percent": 0.9,
+      "nationalPercent": 0.1,
+      "difference": 0.8
+    },
+    "Other": {
+      "count": 460,
+      "percent": 0.5,
+      "nationalPercent": 0.5,
+      "difference": 0.0
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 88070,
+      "percent": 94.0,
+      "nationalPercent": 18.0,
+      "difference": 76.0
+    },
+    "Rest of world": {
+      "count": 3569,
+      "percent": 3.8,
+      "nationalPercent": 0.2,
+      "difference": 3.6
+    },
+    "European Union": {
+      "count": 2083,
+      "percent": 2.2,
+      "nationalPercent": 0.3,
+      "difference": 1.9
+    }
+  },
+  "mp": {
+    "name": "Michael Shanks",
+    "party": "Labour",
+    "memberId": 4998,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4998/Thumbnail",
+    "email": "michael.shanks@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from SNP",
+    "majority": 8767,
+    "turnout": 42484,
+    "turnoutPercent": 58.5,
+    "electorate": 72674,
+    "validVotes": 42484,
+    "invalidVotes": 129,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Michael Shanks",
+        "votes": 21460,
+        "percent": 50.5,
+        "change": 19.4
+      },
+      {
+        "party": "Scottish National Party",
+        "name": "Katy Loudon",
+        "votes": 12693,
+        "percent": 29.9,
+        "change": -13.2
+      },
+      {
+        "party": "Reform UK",
+        "name": "David Stark",
+        "votes": 2685,
+        "percent": 6.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Conservative",
+        "name": "Gary Burns",
+        "votes": 2420,
+        "percent": 5.7,
+        "change": -11.6
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Gloria Adebo",
+        "votes": 1714,
+        "percent": 4.0,
+        "change": -3.2
+      },
+      {
+        "party": "Scottish Socialist Party",
+        "name": "Bill Bonnar",
+        "votes": 541,
+        "percent": 1.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Alba Party",
+        "name": "Jim Eadie",
+        "votes": 497,
+        "percent": 1.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Scottish Family Party",
+        "name": "John McArthur",
+        "votes": 321,
+        "percent": 0.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Andrew Daly",
+        "votes": 153,
+        "percent": 0.4,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Construction": {
+        "count": 420,
+        "percent": 17.8
+      },
+      "Retail and wholesale": {
+        "count": 395,
+        "percent": 16.7
+      },
+      "Professional, scientific and technical": {
+        "count": 330,
+        "percent": 14.0
+      },
+      "Arts, entertainment and recreation": {
+        "count": 220,
+        "percent": 9.3
+      },
+      "Accommodation and food services": {
+        "count": 190,
+        "percent": 8.1
+      },
+      "Business admin and support": {
+        "count": 185,
+        "percent": 7.8
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 155,
+        "percent": 6.6
+      },
+      "Transport and storage": {
+        "count": 120,
+        "percent": 5.1
+      },
+      "Information and communication": {
+        "count": 100,
+        "percent": 4.2
+      },
+      "Health": {
+        "count": 95,
+        "percent": 4.0
+      },
+      "Property": {
+        "count": 85,
+        "percent": 3.6
+      },
+      "Finance and insurance": {
+        "count": 30,
+        "percent": 1.3
+      },
+      "Education": {
+        "count": 30,
+        "percent": 1.3
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 5,
+        "percent": 0.2
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 4950,
+        "percent": 17.4
+      },
+      "Health": {
+        "count": 4500,
+        "percent": 15.8
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3700,
+        "percent": 13.0
+      },
+      "Construction": {
+        "count": 3000,
+        "percent": 10.5
+      },
+      "Accommodation and food services": {
+        "count": 2250,
+        "percent": 7.9
+      },
+      "Education": {
+        "count": 2250,
+        "percent": 7.9
+      },
+      "Transport and storage": {
+        "count": 1750,
+        "percent": 6.1
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1500,
+        "percent": 5.3
+      },
+      "Business admin and support": {
+        "count": 1500,
+        "percent": 5.3
+      },
+      "Professional, scientific and technical": {
+        "count": 1000,
+        "percent": 3.5
+      },
+      "Public admin and defence": {
+        "count": 800,
+        "percent": 2.8
+      },
+      "Property": {
+        "count": 450,
+        "percent": 1.6
+      },
+      "Finance and insurance": {
+        "count": 450,
+        "percent": 1.6
+      },
+      "Information and communication": {
+        "count": 400,
+        "percent": 1.4
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1695,
+    "currentRate": 2.9,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.8
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.9
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.9
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 837.5,
+    "annualChange": 10.5,
+    "ukPay": 811.2
+  }
+}

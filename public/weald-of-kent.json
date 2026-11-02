@@ -1,0 +1,174 @@
+{
+  "name": "Weald of Kent",
+  "region": "England",
+  "onsCode": "E14001570",
+  "electorate": 75987,
+  "center_lat": 51.13,
+  "center_lon": 0.67312,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 20359,
+      "percent": 20.3,
+      "nationalPercent": 20.6,
+      "difference": -0.2
+    },
+    "18 to 24": {
+      "count": 5500,
+      "percent": 5.5,
+      "nationalPercent": 8.4,
+      "difference": -2.9
+    },
+    "25 to 34": {
+      "count": 9918,
+      "percent": 9.9,
+      "nationalPercent": 13.5,
+      "difference": -3.6
+    },
+    "35 to 49": {
+      "count": 16789,
+      "percent": 16.8,
+      "nationalPercent": 19.3,
+      "difference": -2.6
+    },
+    "50 to 64": {
+      "count": 21952,
+      "percent": 21.9,
+      "nationalPercent": 19.2,
+      "difference": 2.7
+    },
+    "65 and over": {
+      "count": 25550,
+      "percent": 25.5,
+      "nationalPercent": 19.0,
+      "difference": 6.5
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 1276,
+      "percent": 1.4,
+      "nationalPercent": 1.6,
+      "difference": -0.2
+    },
+    "Black, African or Caribbean": {
+      "count": 705,
+      "percent": 0.8,
+      "nationalPercent": 0.5,
+      "difference": 0.3
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1552,
+      "percent": 1.7,
+      "nationalPercent": 0.8,
+      "difference": 0.9
+    },
+    "White": {
+      "count": 88923,
+      "percent": 95.8,
+      "nationalPercent": 6.2,
+      "difference": 89.6
+    },
+    "Other": {
+      "count": 383,
+      "percent": 0.4,
+      "nationalPercent": 1.6,
+      "difference": -1.2
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 86196,
+      "percent": 92.8,
+      "nationalPercent": 13.9,
+      "difference": 78.9
+    },
+    "European Union": {
+      "count": 2803,
+      "percent": 3.0,
+      "nationalPercent": 0.5,
+      "difference": 2.5
+    },
+    "Rest of world": {
+      "count": 3839,
+      "percent": 4.1,
+      "nationalPercent": 0.3,
+      "difference": 3.8
+    }
+  },
+  "mp": {
+    "name": "Katie Lam",
+    "party": "Conservative",
+    "memberId": 5285,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5285/Thumbnail",
+    "email": "katie.lam@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Con hold",
+    "majority": 8422,
+    "turnout": 50712,
+    "turnoutPercent": 66.7,
+    "electorate": 75987,
+    "validVotes": 50712,
+    "invalidVotes": 257,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Conservative",
+        "name": "Katie Lam",
+        "votes": 20202,
+        "percent": 39.8,
+        "change": -32.1
+      },
+      {
+        "party": "Labour",
+        "name": "Lenny Rolles",
+        "votes": 11780,
+        "percent": 23.2,
+        "change": 9.2
+      },
+      {
+        "party": "Reform UK",
+        "name": "Daniel Kersten",
+        "votes": 10208,
+        "percent": 20.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Kate Walder",
+        "votes": 4547,
+        "percent": 9.0,
+        "change": 5.1
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "John Howson",
+        "votes": 3975,
+        "percent": 7.8,
+        "change": -2.3
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 0,
+    "currentRate": 0.0,
+    "history": []
+  },
+  "wage": {
+    "medianWeeklyPay": 764.7,
+    "annualChange": -1.7,
+    "ukPay": 811.2
+  }
+}

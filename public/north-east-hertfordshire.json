@@ -1,0 +1,187 @@
+{
+  "name": "North East Hertfordshire",
+  "region": "England",
+  "onsCode": "E14001393",
+  "electorate": 77697,
+  "center_lat": 51.90888,
+  "center_lon": -0.01357,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 22196,
+      "percent": 21.0,
+      "nationalPercent": 20.6,
+      "difference": 0.5
+    },
+    "18 to 24": {
+      "count": 6215,
+      "percent": 5.9,
+      "nationalPercent": 8.4,
+      "difference": -2.5
+    },
+    "25 to 34": {
+      "count": 12264,
+      "percent": 11.6,
+      "nationalPercent": 13.5,
+      "difference": -1.9
+    },
+    "35 to 49": {
+      "count": 20581,
+      "percent": 19.5,
+      "nationalPercent": 19.3,
+      "difference": 0.2
+    },
+    "50 to 64": {
+      "count": 21754,
+      "percent": 20.6,
+      "nationalPercent": 19.2,
+      "difference": 1.4
+    },
+    "65 and over": {
+      "count": 22493,
+      "percent": 21.3,
+      "nationalPercent": 19.0,
+      "difference": 2.3
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 3754,
+      "percent": 3.7,
+      "nationalPercent": 1.6,
+      "difference": 2.1
+    },
+    "Black, African or Caribbean": {
+      "count": 1729,
+      "percent": 1.7,
+      "nationalPercent": 0.5,
+      "difference": 1.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2978,
+      "percent": 2.9,
+      "nationalPercent": 0.8,
+      "difference": 2.1
+    },
+    "White": {
+      "count": 93555,
+      "percent": 91.0,
+      "nationalPercent": 6.2,
+      "difference": 84.8
+    },
+    "Other": {
+      "count": 774,
+      "percent": 0.8,
+      "nationalPercent": 1.6,
+      "difference": -0.8
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 93150,
+      "percent": 90.6,
+      "nationalPercent": 13.9,
+      "difference": 76.7
+    },
+    "European Union": {
+      "count": 3914,
+      "percent": 3.8,
+      "nationalPercent": 0.5,
+      "difference": 3.3
+    },
+    "Rest of world": {
+      "count": 5723,
+      "percent": 5.6,
+      "nationalPercent": 0.3,
+      "difference": 5.3
+    }
+  },
+  "mp": {
+    "name": "Chris Hinchliff",
+    "party": "Labour",
+    "memberId": 5244,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5244/Thumbnail",
+    "email": "chris.hinchliff@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 1923,
+    "turnout": 52520,
+    "turnoutPercent": 67.6,
+    "electorate": 77697,
+    "validVotes": 52520,
+    "invalidVotes": 173,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Chris Hinchliff",
+        "votes": 18358,
+        "percent": 35.0,
+        "change": 11.3
+      },
+      {
+        "party": "Conservative",
+        "name": "Nikki Da Costa",
+        "votes": 16435,
+        "percent": 31.3,
+        "change": -25.3
+      },
+      {
+        "party": "Reform UK",
+        "name": "Steve Adelantado",
+        "votes": 8462,
+        "percent": 16.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Ruth Brown",
+        "votes": 5463,
+        "percent": 10.4,
+        "change": -5.1
+      },
+      {
+        "party": "Green Party",
+        "name": "Vicky Burt",
+        "votes": 3802,
+        "percent": 7.2,
+        "change": 3.0
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 1450,
+    "currentRate": 2.3,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.3
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.3
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.3
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 958.1,
+    "annualChange": -3.1,
+    "ukPay": 811.2
+  }
+}

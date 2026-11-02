@@ -1,0 +1,208 @@
+{
+  "name": "East Ham",
+  "region": "England",
+  "onsCode": "E14001213",
+  "electorate": 79219,
+  "center_lat": 51.54223,
+  "center_lon": 0.04991,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 34919,
+      "percent": 25.6,
+      "nationalPercent": 20.6,
+      "difference": 5.0
+    },
+    "18 to 24": {
+      "count": 16829,
+      "percent": 12.3,
+      "nationalPercent": 8.4,
+      "difference": 4.0
+    },
+    "25 to 34": {
+      "count": 25110,
+      "percent": 18.4,
+      "nationalPercent": 13.5,
+      "difference": 4.9
+    },
+    "35 to 49": {
+      "count": 28535,
+      "percent": 20.9,
+      "nationalPercent": 19.3,
+      "difference": 1.6
+    },
+    "50 to 64": {
+      "count": 19686,
+      "percent": 14.4,
+      "nationalPercent": 19.2,
+      "difference": -4.8
+    },
+    "65 and over": {
+      "count": 11353,
+      "percent": 8.3,
+      "nationalPercent": 19.0,
+      "difference": -10.7
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 77109,
+      "percent": 58.8,
+      "nationalPercent": 1.6,
+      "difference": 57.2
+    },
+    "Black, African or Caribbean": {
+      "count": 16748,
+      "percent": 12.8,
+      "nationalPercent": 0.5,
+      "difference": 12.3
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 4247,
+      "percent": 3.2,
+      "nationalPercent": 0.8,
+      "difference": 2.4
+    },
+    "White": {
+      "count": 26572,
+      "percent": 20.3,
+      "nationalPercent": 6.2,
+      "difference": 14.1
+    },
+    "Other": {
+      "count": 6359,
+      "percent": 4.9,
+      "nationalPercent": 1.6,
+      "difference": 3.3
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 58204,
+      "percent": 44.4,
+      "nationalPercent": 13.9,
+      "difference": 30.5
+    },
+    "European Union": {
+      "count": 17545,
+      "percent": 13.4,
+      "nationalPercent": 0.5,
+      "difference": 12.9
+    },
+    "Rest of world": {
+      "count": 55287,
+      "percent": 42.2,
+      "nationalPercent": 0.3,
+      "difference": 41.9
+    }
+  },
+  "mp": {
+    "name": "Sir Stephen Timms",
+    "party": "Labour",
+    "memberId": 163,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/163/Thumbnail",
+    "email": "sir.stephen.timms@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 12863,
+    "turnout": 37892,
+    "turnoutPercent": 47.8,
+    "electorate": 79219,
+    "validVotes": 37892,
+    "invalidVotes": 173,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Stephen Timms",
+        "votes": 19570,
+        "percent": 51.6,
+        "change": -26.1
+      },
+      {
+        "party": "Independent",
+        "name": "Tahir Mirza",
+        "votes": 6707,
+        "percent": 17.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Rosie Pearce",
+        "votes": 4226,
+        "percent": 11.2,
+        "change": 9.6
+      },
+      {
+        "party": "Conservative",
+        "name": "Maria Higson",
+        "votes": 3876,
+        "percent": 10.2,
+        "change": -4.3
+      },
+      {
+        "party": "Reform UK",
+        "name": "Daniel Oxley",
+        "votes": 1340,
+        "percent": 3.5,
+        "change": 1.6
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Hillary Briffa",
+        "votes": 1210,
+        "percent": 3.2,
+        "change": -0.4
+      },
+      {
+        "party": "Independent",
+        "name": "Anand Kumar Sundar",
+        "votes": 578,
+        "percent": 1.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Sathish Mohan Ramadoss",
+        "votes": 385,
+        "percent": 1.0,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 7620,
+    "currentRate": 8.1,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 8.5
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 7.8
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 8.1
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 762.3,
+    "annualChange": 6.6,
+    "ukPay": 811.2
+  }
+}

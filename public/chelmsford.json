@@ -1,0 +1,333 @@
+{
+  "name": "Chelmsford",
+  "region": "England",
+  "onsCode": "E14001159",
+  "electorate": 76970,
+  "center_lat": 51.73101,
+  "center_lon": 0.48341,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 23967,
+      "percent": 21.5,
+      "nationalPercent": 20.6,
+      "difference": 0.9
+    },
+    "18 to 24": {
+      "count": 8182,
+      "percent": 7.3,
+      "nationalPercent": 8.4,
+      "difference": -1.0
+    },
+    "25 to 34": {
+      "count": 16265,
+      "percent": 14.6,
+      "nationalPercent": 13.5,
+      "difference": 1.1
+    },
+    "35 to 49": {
+      "count": 24255,
+      "percent": 21.7,
+      "nationalPercent": 19.3,
+      "difference": 2.4
+    },
+    "50 to 64": {
+      "count": 20247,
+      "percent": 18.1,
+      "nationalPercent": 19.2,
+      "difference": -1.1
+    },
+    "65 and over": {
+      "count": 18690,
+      "percent": 16.7,
+      "nationalPercent": 19.0,
+      "difference": -2.3
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 7692,
+      "percent": 7.2,
+      "nationalPercent": 1.6,
+      "difference": 5.6
+    },
+    "Black, African or Caribbean": {
+      "count": 3648,
+      "percent": 3.4,
+      "nationalPercent": 0.5,
+      "difference": 2.9
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 3300,
+      "percent": 3.1,
+      "nationalPercent": 0.8,
+      "difference": 2.3
+    },
+    "White": {
+      "count": 91304,
+      "percent": 85.2,
+      "nationalPercent": 6.2,
+      "difference": 79.0
+    },
+    "Other": {
+      "count": 1264,
+      "percent": 1.2,
+      "nationalPercent": 1.6,
+      "difference": -0.4
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 90904,
+      "percent": 84.8,
+      "nationalPercent": 13.9,
+      "difference": 70.9
+    },
+    "European Union": {
+      "count": 6028,
+      "percent": 5.6,
+      "nationalPercent": 0.5,
+      "difference": 5.1
+    },
+    "Rest of world": {
+      "count": 10275,
+      "percent": 9.6,
+      "nationalPercent": 0.3,
+      "difference": 9.3
+    }
+  },
+  "mp": {
+    "name": "Marie Goldman",
+    "party": "Liberal Democrat",
+    "memberId": 5073,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5073/Thumbnail",
+    "email": "marie.goldman@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "LD gain from Con",
+    "majority": 4753,
+    "turnout": 50716,
+    "turnoutPercent": 65.9,
+    "electorate": 76970,
+    "validVotes": 50716,
+    "invalidVotes": 139,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Liberal Democrat",
+        "name": "Marie Goldman",
+        "votes": 20214,
+        "percent": 39.9,
+        "change": 13.8
+      },
+      {
+        "party": "Conservative",
+        "name": "Vicky Ford",
+        "votes": 15461,
+        "percent": 30.5,
+        "change": -24.2
+      },
+      {
+        "party": "Reform UK",
+        "name": "Darren Ingrouille",
+        "votes": 6754,
+        "percent": 13.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Labour",
+        "name": "Richard Parry",
+        "votes": 6108,
+        "percent": 12.0,
+        "change": -6.1
+      },
+      {
+        "party": "Green Party",
+        "name": "Reza Hossain",
+        "votes": 1588,
+        "percent": 3.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent Network",
+        "name": "Richard Hyland",
+        "votes": 230,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "name": "Mark Lawrence",
+        "votes": 187,
+        "percent": 0.4,
+        "change": -0.7
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Mark Kenlen",
+        "votes": 105,
+        "percent": 0.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Kamla Sangha",
+        "votes": 69,
+        "percent": 0.1,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 750,
+        "percent": 17.6
+      },
+      "Construction": {
+        "count": 685,
+        "percent": 16.1
+      },
+      "Retail and wholesale": {
+        "count": 515,
+        "percent": 12.1
+      },
+      "Information and communication": {
+        "count": 395,
+        "percent": 9.3
+      },
+      "Business admin and support": {
+        "count": 395,
+        "percent": 9.3
+      },
+      "Arts, entertainment and recreation": {
+        "count": 315,
+        "percent": 7.4
+      },
+      "Accommodation and food services": {
+        "count": 235,
+        "percent": 5.5
+      },
+      "Health": {
+        "count": 205,
+        "percent": 4.8
+      },
+      "Property": {
+        "count": 195,
+        "percent": 4.6
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 155,
+        "percent": 3.6
+      },
+      "Transport and storage": {
+        "count": 150,
+        "percent": 3.5
+      },
+      "Finance and insurance": {
+        "count": 115,
+        "percent": 2.7
+      },
+      "Education": {
+        "count": 115,
+        "percent": 2.7
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 20,
+        "percent": 0.5
+      },
+      "Public admin and defence": {
+        "count": 10,
+        "percent": 0.2
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 10250,
+        "percent": 17.3
+      },
+      "Public admin and defence": {
+        "count": 9000,
+        "percent": 15.2
+      },
+      "Professional, scientific and technical": {
+        "count": 5000,
+        "percent": 8.4
+      },
+      "Business admin and support": {
+        "count": 5000,
+        "percent": 8.4
+      },
+      "Education": {
+        "count": 5000,
+        "percent": 8.4
+      },
+      "Health": {
+        "count": 5000,
+        "percent": 8.4
+      },
+      "Accommodation and food services": {
+        "count": 3500,
+        "percent": 5.9
+      },
+      "Construction": {
+        "count": 3000,
+        "percent": 5.1
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 2625,
+        "percent": 4.4
+      },
+      "Transport and storage": {
+        "count": 2500,
+        "percent": 4.2
+      },
+      "Finance and insurance": {
+        "count": 2500,
+        "percent": 4.2
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2500,
+        "percent": 4.2
+      },
+      "Information and communication": {
+        "count": 2000,
+        "percent": 3.4
+      },
+      "Property": {
+        "count": 1500,
+        "percent": 2.5
+      }
+    }
+  },
+  "unemployment": {
+    "count": 2115,
+    "currentRate": 3.0,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.8
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.9
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.0
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 942.8,
+    "annualChange": 4.9,
+    "ukPay": 811.2
+  }
+}

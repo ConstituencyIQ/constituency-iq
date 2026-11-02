@@ -1,0 +1,319 @@
+{
+  "name": "Stratford-on-Avon",
+  "region": "England",
+  "onsCode": "E14001526",
+  "electorate": 75714,
+  "center_lat": 52.16199,
+  "center_lon": -1.77106,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 18464,
+      "percent": 18.0,
+      "nationalPercent": 20.6,
+      "difference": -2.5
+    },
+    "18 to 24": {
+      "count": 5557,
+      "percent": 5.4,
+      "nationalPercent": 8.4,
+      "difference": -2.9
+    },
+    "25 to 34": {
+      "count": 10405,
+      "percent": 10.2,
+      "nationalPercent": 13.5,
+      "difference": -3.3
+    },
+    "35 to 49": {
+      "count": 17939,
+      "percent": 17.5,
+      "nationalPercent": 19.3,
+      "difference": -1.8
+    },
+    "50 to 64": {
+      "count": 22675,
+      "percent": 22.1,
+      "nationalPercent": 19.2,
+      "difference": 2.9
+    },
+    "65 and over": {
+      "count": 27397,
+      "percent": 26.7,
+      "nationalPercent": 19.0,
+      "difference": 7.7
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 1928,
+      "percent": 2.0,
+      "nationalPercent": 1.6,
+      "difference": 0.4
+    },
+    "Black, African or Caribbean": {
+      "count": 307,
+      "percent": 0.3,
+      "nationalPercent": 0.5,
+      "difference": -0.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1643,
+      "percent": 1.7,
+      "nationalPercent": 0.8,
+      "difference": 0.9
+    },
+    "White": {
+      "count": 90628,
+      "percent": 95.3,
+      "nationalPercent": 6.2,
+      "difference": 89.1
+    },
+    "Other": {
+      "count": 578,
+      "percent": 0.6,
+      "nationalPercent": 1.6,
+      "difference": -1.0
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 86490,
+      "percent": 91.0,
+      "nationalPercent": 13.9,
+      "difference": 77.1
+    },
+    "European Union": {
+      "count": 4573,
+      "percent": 4.8,
+      "nationalPercent": 0.5,
+      "difference": 4.3
+    },
+    "Rest of world": {
+      "count": 4020,
+      "percent": 4.2,
+      "nationalPercent": 0.3,
+      "difference": 3.9
+    }
+  },
+  "mp": {
+    "name": "Manuela Perteghella",
+    "party": "Liberal Democrat",
+    "memberId": 5122,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5122/Thumbnail",
+    "email": "manuela.perteghella@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "LD gain from Con",
+    "majority": 7122,
+    "turnout": 52959,
+    "turnoutPercent": 69.9,
+    "electorate": 75714,
+    "validVotes": 52959,
+    "invalidVotes": 179,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Liberal Democrat",
+        "name": "Manuela Perteghella",
+        "votes": 23450,
+        "percent": 44.3,
+        "change": 19.6
+      },
+      {
+        "party": "Conservative",
+        "name": "Chris Clarkson",
+        "votes": 16328,
+        "percent": 30.8,
+        "change": -29.4
+      },
+      {
+        "party": "Reform UK",
+        "name": "James Crocker",
+        "votes": 7753,
+        "percent": 14.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Labour",
+        "name": "Seyi Agboola",
+        "votes": 3753,
+        "percent": 7.1,
+        "change": -4.3
+      },
+      {
+        "party": "Green Party",
+        "name": "Doug Rouxel",
+        "votes": 1197,
+        "percent": 2.3,
+        "change": -1.5
+      },
+      {
+        "party": "Independent",
+        "name": "Kevin Taylor",
+        "votes": 292,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "New Open Non-Political Organised Leadership",
+        "name": "Neil O'Neil",
+        "votes": 186,
+        "percent": 0.4,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 1175,
+        "percent": 19.5
+      },
+      "Retail and wholesale": {
+        "count": 795,
+        "percent": 13.2
+      },
+      "Construction": {
+        "count": 715,
+        "percent": 11.8
+      },
+      "Business admin and support": {
+        "count": 520,
+        "percent": 8.6
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 470,
+        "percent": 7.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 410,
+        "percent": 6.8
+      },
+      "Accommodation and food services": {
+        "count": 360,
+        "percent": 6.0
+      },
+      "Information and communication": {
+        "count": 345,
+        "percent": 5.7
+      },
+      "Property": {
+        "count": 340,
+        "percent": 5.6
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 335,
+        "percent": 5.5
+      },
+      "Health": {
+        "count": 195,
+        "percent": 3.2
+      },
+      "Transport and storage": {
+        "count": 120,
+        "percent": 2.0
+      },
+      "Education": {
+        "count": 115,
+        "percent": 1.9
+      },
+      "Finance and insurance": {
+        "count": 110,
+        "percent": 1.8
+      },
+      "Public admin and defence": {
+        "count": 35,
+        "percent": 0.6
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 8000,
+        "percent": 15.8
+      },
+      "Accommodation and food services": {
+        "count": 6000,
+        "percent": 11.8
+      },
+      "Business admin and support": {
+        "count": 6000,
+        "percent": 11.8
+      },
+      "Professional, scientific and technical": {
+        "count": 5000,
+        "percent": 9.9
+      },
+      "Health": {
+        "count": 4500,
+        "percent": 8.9
+      },
+      "Arts, entertainment and recreation": {
+        "count": 4500,
+        "percent": 8.9
+      },
+      "Education": {
+        "count": 3500,
+        "percent": 6.9
+      },
+      "Finance and insurance": {
+        "count": 3500,
+        "percent": 6.9
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 2750,
+        "percent": 5.4
+      },
+      "Information and communication": {
+        "count": 2250,
+        "percent": 4.4
+      },
+      "Construction": {
+        "count": 2250,
+        "percent": 4.4
+      },
+      "Property": {
+        "count": 1000,
+        "percent": 2.0
+      },
+      "Transport and storage": {
+        "count": 800,
+        "percent": 1.6
+      },
+      "Public admin and defence": {
+        "count": 700,
+        "percent": 1.4
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1270,
+    "currentRate": 2.2,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.1
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.2
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.2
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 932.5,
+    "annualChange": 15.8,
+    "ukPay": 811.2
+  }
+}

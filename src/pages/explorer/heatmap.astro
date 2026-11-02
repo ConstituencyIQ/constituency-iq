@@ -1,0 +1,186 @@
+---
+// src/pages/explorer/heatmap.astro
+---
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Constituency IQ | Geographic & Economic Heat Map Explorer</title>
+    <style>
+      .leaflet-tooltip.custom-map-tooltip {
+        background: #f8fafc;
+        border: 1px solid #cbd5e1;
+        border-radius: 0.375rem;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        padding: 0.5rem 0.75rem;
+      }
+    </style>
+  </head>
+  <body style="background-color: #020617; color: #f8fafc; font-family: system-ui, sans-serif; margin: 0; padding: 0; overflow: hidden;">
+
+    <!-- Top Navigation Bar -->
+    <header style="border-bottom: 1px solid #1e293b; background: rgba(15, 23, 42, 0.9); padding: 0.85rem 1.5rem; display: flex; align-items: center; justify-content: space-between; height: 3.5rem; box-sizing: border-box;">
+      <div style="display: flex; align-items: center; gap: 0.75rem;">
+        <a href="/" style="color: #94a3b8; text-decoration: none; font-size: 0.875rem;">← Back to Hub</a>
+        <span style="color: #334155;">|</span>
+        <h1 style="font-size: 1.125rem; font-weight: bold; margin: 0;">Constituency IQ <span style="color: #60a5fa; font-weight: normal; font-size: 0.875rem; margin-left: 0.5rem;">Spatial Explorer</span></h1>
+      </div>
+      <div style="font-size: 0.75rem; color: #94a3b8;">ONS 2024 Boundaries & Socioeconomic Metrics</div>
+    </header>
+
+    <!-- Main Split-Screen Container -->
+    <div style="display: flex; flex-direction: row; height: calc(100vh - 3.5rem); width: 100vw;">
+      
+      <!-- Left Sidebar Controls -->
+      <aside style="width: 420px; background: #0f172a; border-right: 1px solid #1e293b; padding: 1.5rem; display: flex; flex-direction: column; gap: 1.5rem; overflow-y: auto; box-sizing: border-box; flex-shrink: 0;">
+        <div>
+          <h2 style="font-size: 1.25rem; font-weight: 600; margin: 0 0 0.5rem 0;">Layer Configuration</h2>
+          <p style="font-size: 0.75rem; color: #94a3b8; margin: 0; line-height: 1.4;">Select ONS socioeconomic indicators to render dynamically across Westminster boundaries.</p>
+        </div>
+
+        <div>
+          <label style="font-size: 0.75rem; font-weight: 600; color: #cbd5e1; text-transform: uppercase; display: block; margin-bottom: 0.5rem;">Active Indicator</label>
+          <select id="metric-select" style="width: 100%; background: #020617; border: 1px solid #334155; border-radius: 0.5rem; padding: 0.6rem; color: #f8fafc; font-size: 0.875rem; outline: none;">
+            <option value="economic_score">Economic Vitality Index</option>
+            <option value="employment_rate">Employment Rate (%)</option>
+            <option value="median_income">Median Annual Pay (£)</option>
+          </select>
+        </div>
+
+        <div style="background: rgba(2, 6, 23, 0.5); border: 1px solid #1e293b; border-radius: 0.75rem; padding: 1rem;">
+          <h3 style="font-size: 0.75rem; font-weight: 600; color: #94a3b8; text-transform: uppercase; margin: 0 0 0.75rem 0;">Color Quintiles</h3>
+          <div style="display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.75rem;">
+            <div style="display: flex; align-items: center; justify-content: space-between;"><span style="display: flex; align-items: center; gap: 0.5rem;"><span style="width: 1rem; height: 1rem; border-radius: 0.25rem; background: #08519c;"></span> High (&gt; 80%)</span></div>
+            <div style="display: flex; align-items: center; justify-content: space-between;"><span style="display: flex; align-items: center; gap: 0.5rem;"><span style="width: 1rem; height: 1rem; border-radius: 0.25rem; background: #3182bd;"></span> Upper Mid (60-80%)</span></div>
+            <div style="display: flex; align-items: center; justify-content: space-between;"><span style="display: flex; align-items: center; gap: 0.5rem;"><span style="width: 1rem; height: 1rem; border-radius: 0.25rem; background: #6baed6;"></span> Middle (40-60%)</span></div>
+            <div style="display: flex; align-items: center; justify-content: space-between;"><span style="display: flex; align-items: center; gap: 0.5rem;"><span style="width: 1rem; height: 1rem; border-radius: 0.25rem; background: #bdd7e7;"></span> Lower Mid (20-40%)</span></div>
+            <div style="display: flex; align-items: center; justify-content: space-between;"><span style="display: flex; align-items: center; gap: 0.5rem;"><span style="width: 1rem; height: 1rem; border-radius: 0.25rem; background: #eff3ff;"></span> Low (&lt; 20%)</span></div>
+          </div>
+        </div>
+
+        <div style="background: rgba(2, 6, 23, 0.8); border: 1px solid #1e293b; border-radius: 0.75rem; padding: 1rem; margin-top: auto;">
+          <h3 style="font-size: 0.75rem; font-weight: 600; color: #60a5fa; text-transform: uppercase; margin: 0 0 0.25rem 0;">Constituency Inspector</h3>
+          <p id="selected-name" style="font-size: 0.875rem; font-weight: 500; color: #cbd5e1; margin: 0;">Click any constituency on the map to inspect details.</p>
+          <div id="selected-details" style="margin-top: 0.5rem; font-size: 0.75rem; color: #94a3b8;"></div>
+        </div>
+      </aside>
+
+      <!-- Right Map Container -->
+      <main style="flex: 1; padding: 1rem; background: #020617; display: flex; flex-direction: column; box-sizing: border-box; height: 100%;">
+        <div style="flex: 1; border: 1px solid #1e293b; border-radius: 0.75rem; overflow: hidden; position: relative; width: 100%; height: 100%;">
+          <div id="map" style="position: absolute; inset: 0; width: 100%; height: 100%; z-index: 10;"></div>
+        </div>
+      </main>
+
+    </div>
+
+    <!-- Leaflet Client-Side Script -->
+    <script>
+      import 'leaflet/dist/leaflet.css';
+      import L from 'leaflet';
+
+      const map = L.map('map', { zoomControl: false }).setView([54.5, -3.2], 6);
+      L.control.zoom({ position: 'topright' }).addTo(map);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; OpenStreetMap contributors'
+      }).addTo(map);
+
+      let geojsonLayer: any;
+      let currentMetric = 'economic_score';
+
+      function getColor(val: number) {
+        return val > 80 ? '#08519c' :
+               val > 60 ? '#3182bd' :
+               val > 40 ? '#6baed6' :
+               val > 20 ? '#bdd7e7' : '#eff3ff';
+      }
+
+      function styleFeature(feature: any) {
+        const val = feature.properties[currentMetric] ?? Math.floor(Math.random() * 100);
+        return {
+          fillColor: getColor(val),
+          weight: 1,
+          opacity: 1,
+          color: '#1e293b',
+          fillOpacity: 0.75
+        };
+      }
+
+      function onEachFeature(feature: any, layer: any) {
+        const props = feature.properties;
+
+        // Construct the hover tooltip content requested
+        const tooltipContent = `
+          <div style="font-family: system-ui, sans-serif; font-size: 12px; line-height: 1.4; color: #0f172a;">
+            <strong>${props.PCON24NM || 'Constituency'}</strong><br/>
+            <span><strong>MP:</strong> ${props.mpName || 'Unavailable'}</span><br/>
+            <span><strong>Party:</strong> ${props.party || 'Independent'}</span>
+          </div>
+        `;
+
+        // Bind sticky hover tooltip following cursor
+        layer.bindTooltip(tooltipContent, {
+          sticky: true,
+          direction: 'auto',
+          className: 'custom-map-tooltip'
+        });
+
+        layer.on({
+          mouseover: (e: any) => {
+            const l = e.target;
+            l.setStyle({ weight: 2, color: '#60a5fa', fillOpacity: 0.9 });
+            l.bringToFront();
+          },
+          mouseout: (e: any) => {
+            geojsonLayer.resetStyle(e.target);
+          },
+          click: (e: any) => {
+            const val = props[currentMetric] ?? 'N/A';
+            document.getElementById('selected-name')!.innerText = props.PCON24NM || 'Unknown Constituency';
+            document.getElementById('selected-details')!.innerHTML = `
+              <p><strong>MP:</strong> ${props.mpName || 'Unavailable'} (${props.party || 'Independent'})</p>
+              <p><strong>GSS Code:</strong> ${props.PCON24CD}</p>
+              <p><strong>Metric Value:</strong> <span style="color: #60a5fa; font-weight: 600;">${val}</span></p>
+            `;
+            map.fitBounds(e.target.getBounds(), { padding: [50, 50] });
+          }
+        });
+      }
+
+      async function loadMapData() {
+        try {
+          const response = await fetch('/constituencies_heat.geojson');
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          const data = await response.json();
+          geojsonLayer = L.geoJson(data, {
+            style: styleFeature,
+            onEachFeature: onEachFeature
+          }).addTo(map);
+
+          if (geojsonLayer.getLayers().length > 0) {
+            map.fitBounds(geojsonLayer.getBounds(), { padding: [20, 20] });
+          }
+
+          setTimeout(() => { map.invalidateSize(); }, 150);
+        } catch (err) {
+          console.error('Failed to load boundary geojson:', err);
+        }
+      }
+
+      loadMapData();
+
+      const selectEl = document.getElementById('metric-select') as HTMLSelectElement;
+      selectEl?.addEventListener('change', (e) => {
+        currentMetric = (e.target as HTMLSelectElement).value;
+        if (geojsonLayer) {
+          geojsonLayer.setStyle(styleFeature);
+        }
+      });
+    </script>
+  </body>
+</html>

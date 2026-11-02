@@ -1,0 +1,340 @@
+{
+  "name": "Leicester East",
+  "region": "England",
+  "onsCode": "E14001326",
+  "electorate": 76560,
+  "center_lat": 52.64582,
+  "center_lon": -1.08954,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 30457,
+      "percent": 23.8,
+      "nationalPercent": 20.6,
+      "difference": 3.2
+    },
+    "18 to 24": {
+      "count": 13805,
+      "percent": 10.8,
+      "nationalPercent": 8.4,
+      "difference": 2.4
+    },
+    "25 to 34": {
+      "count": 17920,
+      "percent": 14.0,
+      "nationalPercent": 13.5,
+      "difference": 0.5
+    },
+    "35 to 49": {
+      "count": 26564,
+      "percent": 20.8,
+      "nationalPercent": 19.3,
+      "difference": 1.4
+    },
+    "50 to 64": {
+      "count": 20932,
+      "percent": 16.4,
+      "nationalPercent": 19.2,
+      "difference": -2.9
+    },
+    "65 and over": {
+      "count": 18226,
+      "percent": 14.2,
+      "nationalPercent": 19.0,
+      "difference": -4.8
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 85703,
+      "percent": 68.8,
+      "nationalPercent": 1.6,
+      "difference": 67.2
+    },
+    "Black, African or Caribbean": {
+      "count": 5093,
+      "percent": 4.1,
+      "nationalPercent": 0.5,
+      "difference": 3.6
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 3611,
+      "percent": 2.9,
+      "nationalPercent": 0.8,
+      "difference": 2.1
+    },
+    "White": {
+      "count": 25065,
+      "percent": 20.1,
+      "nationalPercent": 6.2,
+      "difference": 13.9
+    },
+    "Other": {
+      "count": 5181,
+      "percent": 4.2,
+      "nationalPercent": 1.6,
+      "difference": 2.6
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 61740,
+      "percent": 49.5,
+      "nationalPercent": 13.9,
+      "difference": 35.6
+    },
+    "European Union": {
+      "count": 5557,
+      "percent": 4.5,
+      "nationalPercent": 0.5,
+      "difference": 4.0
+    },
+    "Rest of world": {
+      "count": 57350,
+      "percent": 46.0,
+      "nationalPercent": 0.3,
+      "difference": 45.7
+    }
+  },
+  "mp": {
+    "name": "Shivani Raja",
+    "party": "Conservative",
+    "memberId": 5068,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5068/Thumbnail",
+    "email": "shivani.raja@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Con gain from Lab",
+    "majority": 4426,
+    "turnout": 46714,
+    "turnoutPercent": 61.0,
+    "electorate": 76560,
+    "validVotes": 46714,
+    "invalidVotes": 255,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Conservative",
+        "name": "Shivani Raja",
+        "votes": 14526,
+        "percent": 31.1,
+        "change": -7.4
+      },
+      {
+        "party": "Labour",
+        "name": "Rajesh Agrawal",
+        "votes": 10100,
+        "percent": 21.6,
+        "change": -29.3
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Zuffar Haq",
+        "votes": 6329,
+        "percent": 13.5,
+        "change": 7.9
+      },
+      {
+        "party": "Independent",
+        "name": "Claudia Webbe",
+        "votes": 5532,
+        "percent": 11.8,
+        "change": "N/A"
+      },
+      {
+        "party": "One Leicester",
+        "name": "Keith Vaz",
+        "votes": 3681,
+        "percent": 7.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Reform UK",
+        "name": "Raj Solanki",
+        "votes": 2611,
+        "percent": 5.6,
+        "change": 3.1
+      },
+      {
+        "party": "Green Party",
+        "name": "Mags Lewis",
+        "votes": 2143,
+        "percent": 4.6,
+        "change": 2.8
+      },
+      {
+        "party": "Independent",
+        "name": "Malihah Adam",
+        "votes": 974,
+        "percent": 2.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Nagarjun Agath",
+        "votes": 703,
+        "percent": 1.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Khandu Patel",
+        "votes": 115,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 1260,
+        "percent": 29.5
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 475,
+        "percent": 11.1
+      },
+      "Professional, scientific and technical": {
+        "count": 375,
+        "percent": 8.8
+      },
+      "Construction": {
+        "count": 330,
+        "percent": 7.7
+      },
+      "Transport and storage": {
+        "count": 310,
+        "percent": 7.3
+      },
+      "Accommodation and food services": {
+        "count": 270,
+        "percent": 6.3
+      },
+      "Health": {
+        "count": 260,
+        "percent": 6.1
+      },
+      "Business admin and support": {
+        "count": 245,
+        "percent": 5.7
+      },
+      "Information and communication": {
+        "count": 205,
+        "percent": 4.8
+      },
+      "Property": {
+        "count": 190,
+        "percent": 4.4
+      },
+      "Arts, entertainment and recreation": {
+        "count": 170,
+        "percent": 4.0
+      },
+      "Finance and insurance": {
+        "count": 110,
+        "percent": 2.6
+      },
+      "Education": {
+        "count": 65,
+        "percent": 1.5
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 5,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Manufacturing, mining and utilities": {
+        "count": 11050,
+        "percent": 29.9
+      },
+      "Retail and wholesale": {
+        "count": 5950,
+        "percent": 16.1
+      },
+      "Health": {
+        "count": 5000,
+        "percent": 13.5
+      },
+      "Education": {
+        "count": 4000,
+        "percent": 10.8
+      },
+      "Business admin and support": {
+        "count": 3000,
+        "percent": 8.1
+      },
+      "Transport and storage": {
+        "count": 1500,
+        "percent": 4.1
+      },
+      "Accommodation and food services": {
+        "count": 1500,
+        "percent": 4.1
+      },
+      "Professional, scientific and technical": {
+        "count": 1250,
+        "percent": 3.4
+      },
+      "Construction": {
+        "count": 1000,
+        "percent": 2.7
+      },
+      "Public admin and defence": {
+        "count": 800,
+        "percent": 2.2
+      },
+      "Arts, entertainment and recreation": {
+        "count": 700,
+        "percent": 1.9
+      },
+      "Property": {
+        "count": 500,
+        "percent": 1.4
+      },
+      "Information and communication": {
+        "count": 400,
+        "percent": 1.1
+      },
+      "Finance and insurance": {
+        "count": 300,
+        "percent": 0.8
+      }
+    }
+  },
+  "unemployment": {
+    "count": 4005,
+    "currentRate": 4.8,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 5.0
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 4.7
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 4.8
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 654.5,
+    "annualChange": 9.5,
+    "ukPay": 811.2
+  }
+}

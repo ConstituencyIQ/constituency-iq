@@ -1,0 +1,333 @@
+{
+  "name": "Winchester",
+  "region": "England",
+  "onsCode": "E14001587",
+  "electorate": 78289,
+  "center_lat": 51.04723,
+  "center_lon": -1.26528,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 22131,
+      "percent": 20.3,
+      "nationalPercent": 20.6,
+      "difference": -0.3
+    },
+    "18 to 24": {
+      "count": 10994,
+      "percent": 10.1,
+      "nationalPercent": 8.4,
+      "difference": 1.7
+    },
+    "25 to 34": {
+      "count": 10911,
+      "percent": 10.0,
+      "nationalPercent": 13.5,
+      "difference": -3.5
+    },
+    "35 to 49": {
+      "count": 19785,
+      "percent": 18.1,
+      "nationalPercent": 19.3,
+      "difference": -1.2
+    },
+    "50 to 64": {
+      "count": 21528,
+      "percent": 19.7,
+      "nationalPercent": 19.2,
+      "difference": 0.5
+    },
+    "65 and over": {
+      "count": 23716,
+      "percent": 21.7,
+      "nationalPercent": 19.0,
+      "difference": 2.7
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 3464,
+      "percent": 3.3,
+      "nationalPercent": 1.6,
+      "difference": 1.7
+    },
+    "Black, African or Caribbean": {
+      "count": 653,
+      "percent": 0.6,
+      "nationalPercent": 0.5,
+      "difference": 0.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2255,
+      "percent": 2.2,
+      "nationalPercent": 0.8,
+      "difference": 1.4
+    },
+    "White": {
+      "count": 97650,
+      "percent": 93.2,
+      "nationalPercent": 6.2,
+      "difference": 87.0
+    },
+    "Other": {
+      "count": 740,
+      "percent": 0.7,
+      "nationalPercent": 1.6,
+      "difference": -0.9
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 92573,
+      "percent": 88.4,
+      "nationalPercent": 13.9,
+      "difference": 74.5
+    },
+    "European Union": {
+      "count": 4353,
+      "percent": 4.2,
+      "nationalPercent": 0.5,
+      "difference": 3.7
+    },
+    "Rest of world": {
+      "count": 7833,
+      "percent": 7.5,
+      "nationalPercent": 0.3,
+      "difference": 7.2
+    }
+  },
+  "mp": {
+    "name": "Dr Danny Chambers",
+    "party": "Liberal Democrat",
+    "memberId": 5304,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5304/Thumbnail",
+    "email": "dr.danny.chambers@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "LD gain from Con",
+    "majority": 13821,
+    "turnout": 57076,
+    "turnoutPercent": 72.9,
+    "electorate": 78289,
+    "validVotes": 57076,
+    "invalidVotes": 185,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Liberal Democrat",
+        "name": "Danny Chambers",
+        "votes": 29939,
+        "percent": 52.5,
+        "change": 12.6
+      },
+      {
+        "party": "Conservative",
+        "name": "Flick Drummond",
+        "votes": 16118,
+        "percent": 28.2,
+        "change": -25.8
+      },
+      {
+        "party": "Reform UK",
+        "name": "Sean Whelan",
+        "votes": 4797,
+        "percent": 8.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Labour",
+        "name": "Hannah Dawson",
+        "votes": 3023,
+        "percent": 5.3,
+        "change": 0.5
+      },
+      {
+        "party": "Green Party",
+        "name": "Lorraine Estelle",
+        "votes": 2740,
+        "percent": 4.8,
+        "change": 3.9
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Andrew Davis",
+        "votes": 146,
+        "percent": 0.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Chris Barfoot",
+        "votes": 142,
+        "percent": 0.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Kevin D'Cruze",
+        "votes": 127,
+        "percent": 0.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Hampshire Independents",
+        "name": "Andy Liming",
+        "votes": 44,
+        "percent": 0.1,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 1275,
+        "percent": 23.0
+      },
+      "Construction": {
+        "count": 670,
+        "percent": 12.1
+      },
+      "Retail and wholesale": {
+        "count": 575,
+        "percent": 10.4
+      },
+      "Information and communication": {
+        "count": 445,
+        "percent": 8.0
+      },
+      "Business admin and support": {
+        "count": 445,
+        "percent": 8.0
+      },
+      "Arts, entertainment and recreation": {
+        "count": 380,
+        "percent": 6.8
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 335,
+        "percent": 6.0
+      },
+      "Property": {
+        "count": 300,
+        "percent": 5.4
+      },
+      "Health": {
+        "count": 260,
+        "percent": 4.7
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 255,
+        "percent": 4.6
+      },
+      "Accommodation and food services": {
+        "count": 240,
+        "percent": 4.3
+      },
+      "Education": {
+        "count": 135,
+        "percent": 2.4
+      },
+      "Transport and storage": {
+        "count": 110,
+        "percent": 2.0
+      },
+      "Finance and insurance": {
+        "count": 105,
+        "percent": 1.9
+      },
+      "Public admin and defence": {
+        "count": 25,
+        "percent": 0.5
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 9000,
+        "percent": 16.1
+      },
+      "Retail and wholesale": {
+        "count": 6250,
+        "percent": 11.2
+      },
+      "Accommodation and food services": {
+        "count": 6000,
+        "percent": 10.7
+      },
+      "Public admin and defence": {
+        "count": 6000,
+        "percent": 10.7
+      },
+      "Education": {
+        "count": 6000,
+        "percent": 10.7
+      },
+      "Professional, scientific and technical": {
+        "count": 4500,
+        "percent": 8.1
+      },
+      "Information and communication": {
+        "count": 4000,
+        "percent": 7.2
+      },
+      "Construction": {
+        "count": 3000,
+        "percent": 5.4
+      },
+      "Arts, entertainment and recreation": {
+        "count": 3000,
+        "percent": 5.4
+      },
+      "Business admin and support": {
+        "count": 2500,
+        "percent": 4.5
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 2250,
+        "percent": 4.0
+      },
+      "Transport and storage": {
+        "count": 1500,
+        "percent": 2.7
+      },
+      "Property": {
+        "count": 1000,
+        "percent": 1.8
+      },
+      "Finance and insurance": {
+        "count": 900,
+        "percent": 1.6
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1275,
+    "currentRate": 1.9,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.0
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 1.9
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 1.9
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 974.0,
+    "annualChange": 13.1,
+    "ukPay": 811.2
+  }
+}

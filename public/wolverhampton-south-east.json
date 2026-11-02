@@ -1,0 +1,312 @@
+{
+  "name": "Wolverhampton South East",
+  "region": "England",
+  "onsCode": "E14001595",
+  "electorate": 77473,
+  "center_lat": 52.57144,
+  "center_lon": -2.06715,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 33480,
+      "percent": 26.1,
+      "nationalPercent": 20.6,
+      "difference": 5.5
+    },
+    "18 to 24": {
+      "count": 10570,
+      "percent": 8.2,
+      "nationalPercent": 8.4,
+      "difference": -0.1
+    },
+    "25 to 34": {
+      "count": 18630,
+      "percent": 14.5,
+      "nationalPercent": 13.5,
+      "difference": 1.0
+    },
+    "35 to 49": {
+      "count": 26250,
+      "percent": 20.5,
+      "nationalPercent": 19.3,
+      "difference": 1.1
+    },
+    "50 to 64": {
+      "count": 21368,
+      "percent": 16.7,
+      "nationalPercent": 19.2,
+      "difference": -2.6
+    },
+    "65 and over": {
+      "count": 18037,
+      "percent": 14.1,
+      "nationalPercent": 19.0,
+      "difference": -4.9
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 24792,
+      "percent": 20.7,
+      "nationalPercent": 1.6,
+      "difference": 19.1
+    },
+    "Black, African or Caribbean": {
+      "count": 9540,
+      "percent": 8.0,
+      "nationalPercent": 0.5,
+      "difference": 7.5
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 6405,
+      "percent": 5.3,
+      "nationalPercent": 0.8,
+      "difference": 4.5
+    },
+    "White": {
+      "count": 75657,
+      "percent": 63.2,
+      "nationalPercent": 6.2,
+      "difference": 57.0
+    },
+    "Other": {
+      "count": 3352,
+      "percent": 2.8,
+      "nationalPercent": 1.6,
+      "difference": 1.2
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 94706,
+      "percent": 79.1,
+      "nationalPercent": 13.9,
+      "difference": 65.2
+    },
+    "European Union": {
+      "count": 7275,
+      "percent": 6.1,
+      "nationalPercent": 0.5,
+      "difference": 5.6
+    },
+    "Rest of world": {
+      "count": 17765,
+      "percent": 14.8,
+      "nationalPercent": 0.3,
+      "difference": 14.5
+    }
+  },
+  "mp": {
+    "name": "Pat McFadden",
+    "party": "Labour",
+    "memberId": 1587,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/1587/Thumbnail",
+    "email": "pat.mcfadden@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 9188,
+    "turnout": 33382,
+    "turnoutPercent": 43.1,
+    "electorate": 77473,
+    "validVotes": 33382,
+    "invalidVotes": 129,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Pat McFadden",
+        "votes": 16800,
+        "percent": 50.3,
+        "change": 2.9
+      },
+      {
+        "party": "Reform UK",
+        "name": "Carl Hardwick",
+        "votes": 7612,
+        "percent": 22.8,
+        "change": 16.9
+      },
+      {
+        "party": "Conservative",
+        "name": "Victoria Wilson",
+        "votes": 5654,
+        "percent": 16.9,
+        "change": -24.2
+      },
+      {
+        "party": "Green Party",
+        "name": "Paul Darke",
+        "votes": 1643,
+        "percent": 4.9,
+        "change": 3.2
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Athar Warraich",
+        "votes": 915,
+        "percent": 2.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Bart Ricketts",
+        "votes": 758,
+        "percent": 2.3,
+        "change": -1.5
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 900,
+        "percent": 24.4
+      },
+      "Construction": {
+        "count": 525,
+        "percent": 14.2
+      },
+      "Transport and storage": {
+        "count": 515,
+        "percent": 14.0
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 445,
+        "percent": 12.1
+      },
+      "Business admin and support": {
+        "count": 270,
+        "percent": 7.3
+      },
+      "Professional, scientific and technical": {
+        "count": 230,
+        "percent": 6.2
+      },
+      "Accommodation and food services": {
+        "count": 205,
+        "percent": 5.6
+      },
+      "Arts, entertainment and recreation": {
+        "count": 165,
+        "percent": 4.5
+      },
+      "Health": {
+        "count": 150,
+        "percent": 4.1
+      },
+      "Property": {
+        "count": 115,
+        "percent": 3.1
+      },
+      "Information and communication": {
+        "count": 80,
+        "percent": 2.2
+      },
+      "Finance and insurance": {
+        "count": 45,
+        "percent": 1.2
+      },
+      "Education": {
+        "count": 40,
+        "percent": 1.1
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 5,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 11750,
+        "percent": 27.6
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 9900,
+        "percent": 23.3
+      },
+      "Transport and storage": {
+        "count": 4500,
+        "percent": 10.6
+      },
+      "Education": {
+        "count": 3500,
+        "percent": 8.2
+      },
+      "Health": {
+        "count": 3000,
+        "percent": 7.0
+      },
+      "Business admin and support": {
+        "count": 2250,
+        "percent": 5.3
+      },
+      "Construction": {
+        "count": 2250,
+        "percent": 5.3
+      },
+      "Accommodation and food services": {
+        "count": 1500,
+        "percent": 3.5
+      },
+      "Property": {
+        "count": 1000,
+        "percent": 2.3
+      },
+      "Professional, scientific and technical": {
+        "count": 1000,
+        "percent": 2.3
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1000,
+        "percent": 2.3
+      },
+      "Public admin and defence": {
+        "count": 400,
+        "percent": 0.9
+      },
+      "Finance and insurance": {
+        "count": 300,
+        "percent": 0.7
+      },
+      "Information and communication": {
+        "count": 225,
+        "percent": 0.5
+      }
+    }
+  },
+  "unemployment": {
+    "count": 5560,
+    "currentRate": 6.9,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 6.8
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 6.8
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 6.9
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 670.5,
+    "annualChange": -0.1,
+    "ukPay": 811.2
+  }
+}

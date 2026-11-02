@@ -1,0 +1,326 @@
+{
+  "name": "Penrith and Solway",
+  "region": "England",
+  "onsCode": "E14001424",
+  "electorate": 77935,
+  "center_lat": 54.70427,
+  "center_lon": -3.24847,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 17215,
+      "percent": 17.3,
+      "nationalPercent": 20.6,
+      "difference": -3.3
+    },
+    "18 to 24": {
+      "count": 5567,
+      "percent": 5.6,
+      "nationalPercent": 8.4,
+      "difference": -2.8
+    },
+    "25 to 34": {
+      "count": 10141,
+      "percent": 10.2,
+      "nationalPercent": 13.5,
+      "difference": -3.3
+    },
+    "35 to 49": {
+      "count": 15989,
+      "percent": 16.1,
+      "nationalPercent": 19.3,
+      "difference": -3.3
+    },
+    "50 to 64": {
+      "count": 23473,
+      "percent": 23.6,
+      "nationalPercent": 19.2,
+      "difference": 4.3
+    },
+    "65 and over": {
+      "count": 27223,
+      "percent": 27.3,
+      "nationalPercent": 19.0,
+      "difference": 8.3
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 739,
+      "percent": 0.8,
+      "nationalPercent": 1.6,
+      "difference": -0.8
+    },
+    "Black, African or Caribbean": {
+      "count": 142,
+      "percent": 0.1,
+      "nationalPercent": 0.5,
+      "difference": -0.4
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 693,
+      "percent": 0.7,
+      "nationalPercent": 0.8,
+      "difference": -0.1
+    },
+    "White": {
+      "count": 95410,
+      "percent": 98.1,
+      "nationalPercent": 6.2,
+      "difference": 91.9
+    },
+    "Other": {
+      "count": 256,
+      "percent": 0.3,
+      "nationalPercent": 1.6,
+      "difference": -1.3
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 92998,
+      "percent": 95.6,
+      "nationalPercent": 13.9,
+      "difference": 81.7
+    },
+    "European Union": {
+      "count": 2336,
+      "percent": 2.4,
+      "nationalPercent": 0.5,
+      "difference": 1.9
+    },
+    "Rest of world": {
+      "count": 1907,
+      "percent": 2.0,
+      "nationalPercent": 0.3,
+      "difference": 1.7
+    }
+  },
+  "mp": {
+    "name": "Markus Campbell-Savours",
+    "party": "Labour",
+    "memberId": 5124,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5124/Thumbnail",
+    "email": "markus.campbell-savours@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 5257,
+    "turnout": 49281,
+    "turnoutPercent": 63.2,
+    "electorate": 77935,
+    "validVotes": 49281,
+    "invalidVotes": 148,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Markus Campbell-Savours",
+        "votes": 19986,
+        "percent": 40.6,
+        "change": 10.4
+      },
+      {
+        "party": "Conservative",
+        "name": "Mark Jenkinson",
+        "votes": 14729,
+        "percent": 29.9,
+        "change": -24.9
+      },
+      {
+        "party": "Reform UK",
+        "name": "Matthew Moody",
+        "votes": 7624,
+        "percent": 15.5,
+        "change": 13.7
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Julia Aglionby",
+        "votes": 4742,
+        "percent": 9.6,
+        "change": 1.5
+      },
+      {
+        "party": "Green Party",
+        "name": "Susan Denham-Smith",
+        "votes": 1730,
+        "percent": 3.5,
+        "change": 0.4
+      },
+      {
+        "party": "Independent",
+        "name": "Chris Johnston",
+        "votes": 195,
+        "percent": 0.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Shaun Long",
+        "votes": 156,
+        "percent": 0.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Roy Ivinson",
+        "votes": 119,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Agriculture, forestry and fishing": {
+        "count": 1555,
+        "percent": 29.5
+      },
+      "Construction": {
+        "count": 655,
+        "percent": 12.4
+      },
+      "Retail and wholesale": {
+        "count": 585,
+        "percent": 11.1
+      },
+      "Accommodation and food services": {
+        "count": 480,
+        "percent": 9.1
+      },
+      "Professional, scientific and technical": {
+        "count": 445,
+        "percent": 8.4
+      },
+      "Business admin and support": {
+        "count": 300,
+        "percent": 5.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 295,
+        "percent": 5.6
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 270,
+        "percent": 5.1
+      },
+      "Transport and storage": {
+        "count": 160,
+        "percent": 3.0
+      },
+      "Health": {
+        "count": 135,
+        "percent": 2.6
+      },
+      "Property": {
+        "count": 125,
+        "percent": 2.4
+      },
+      "Information and communication": {
+        "count": 95,
+        "percent": 1.8
+      },
+      "Education": {
+        "count": 75,
+        "percent": 1.4
+      },
+      "Public admin and defence": {
+        "count": 55,
+        "percent": 1.0
+      },
+      "Finance and insurance": {
+        "count": 50,
+        "percent": 0.9
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 5850,
+        "percent": 16.5
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 5400,
+        "percent": 15.2
+      },
+      "Accommodation and food services": {
+        "count": 5000,
+        "percent": 14.1
+      },
+      "Health": {
+        "count": 3500,
+        "percent": 9.9
+      },
+      "Education": {
+        "count": 3000,
+        "percent": 8.5
+      },
+      "Construction": {
+        "count": 2500,
+        "percent": 7.0
+      },
+      "Professional, scientific and technical": {
+        "count": 2250,
+        "percent": 6.3
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1750,
+        "percent": 4.9
+      },
+      "Business admin and support": {
+        "count": 1750,
+        "percent": 4.9
+      },
+      "Public admin and defence": {
+        "count": 1750,
+        "percent": 4.9
+      },
+      "Transport and storage": {
+        "count": 1500,
+        "percent": 4.2
+      },
+      "Property": {
+        "count": 500,
+        "percent": 1.4
+      },
+      "Finance and insurance": {
+        "count": 400,
+        "percent": 1.1
+      },
+      "Information and communication": {
+        "count": 350,
+        "percent": 1.0
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1105,
+    "currentRate": 1.9,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 1.8
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 1.9
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 1.9
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 799.9,
+    "annualChange": -3.1,
+    "ukPay": 811.2
+  }
+}

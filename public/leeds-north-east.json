@@ -1,0 +1,347 @@
+{
+  "name": "Leeds North East",
+  "region": "England",
+  "onsCode": "E14001321",
+  "electorate": 70178,
+  "center_lat": 53.84952,
+  "center_lon": -1.53299,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 21903,
+      "percent": 22.3,
+      "nationalPercent": 20.6,
+      "difference": 1.7
+    },
+    "18 to 24": {
+      "count": 7100,
+      "percent": 7.2,
+      "nationalPercent": 8.4,
+      "difference": -1.1
+    },
+    "25 to 34": {
+      "count": 13442,
+      "percent": 13.7,
+      "nationalPercent": 13.5,
+      "difference": 0.2
+    },
+    "35 to 49": {
+      "count": 21564,
+      "percent": 21.9,
+      "nationalPercent": 19.3,
+      "difference": 2.6
+    },
+    "50 to 64": {
+      "count": 17396,
+      "percent": 17.7,
+      "nationalPercent": 19.2,
+      "difference": -1.5
+    },
+    "65 and over": {
+      "count": 16858,
+      "percent": 17.2,
+      "nationalPercent": 19.0,
+      "difference": -1.8
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 19158,
+      "percent": 19.9,
+      "nationalPercent": 1.6,
+      "difference": 18.3
+    },
+    "Black, African or Caribbean": {
+      "count": 6891,
+      "percent": 7.2,
+      "nationalPercent": 0.5,
+      "difference": 6.7
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 4996,
+      "percent": 5.2,
+      "nationalPercent": 0.8,
+      "difference": 4.4
+    },
+    "White": {
+      "count": 61305,
+      "percent": 63.7,
+      "nationalPercent": 6.2,
+      "difference": 57.5
+    },
+    "Other": {
+      "count": 3830,
+      "percent": 4.0,
+      "nationalPercent": 1.6,
+      "difference": 2.4
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 76256,
+      "percent": 79.3,
+      "nationalPercent": 13.9,
+      "difference": 65.4
+    },
+    "European Union": {
+      "count": 4713,
+      "percent": 4.9,
+      "nationalPercent": 0.5,
+      "difference": 4.4
+    },
+    "Rest of world": {
+      "count": 15215,
+      "percent": 15.8,
+      "nationalPercent": 0.3,
+      "difference": 15.5
+    }
+  },
+  "mp": {
+    "name": "Fabian Hamilton",
+    "party": "Labour",
+    "memberId": 415,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/415/Thumbnail",
+    "email": "fabian.hamilton@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 16083,
+    "turnout": 45167,
+    "turnoutPercent": 64.4,
+    "electorate": 70178,
+    "validVotes": 45167,
+    "invalidVotes": 221,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Fabian Hamilton",
+        "votes": 23260,
+        "percent": 51.5,
+        "change": -6.0
+      },
+      {
+        "party": "Conservative",
+        "name": "Chris Whiteside",
+        "votes": 7177,
+        "percent": 15.9,
+        "change": -7.7
+      },
+      {
+        "party": "Green Party",
+        "name": "Louise Jennings",
+        "votes": 5911,
+        "percent": 13.1,
+        "change": 9.3
+      },
+      {
+        "party": "Reform UK",
+        "name": "Keiran White",
+        "votes": 3426,
+        "percent": 7.6,
+        "change": 4.1
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Gary Busuttil",
+        "votes": 2168,
+        "percent": 4.8,
+        "change": -6.4
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Dawud Islam",
+        "votes": 2067,
+        "percent": 4.6,
+        "change": "N/A"
+      },
+      {
+        "party": "The Yorkshire Party",
+        "name": "Ian Cowling",
+        "votes": 574,
+        "percent": 1.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Alliance for Green Socialism",
+        "name": "Mike Davies",
+        "votes": 259,
+        "percent": 0.6,
+        "change": 0.2
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Cordelia Lynan",
+        "votes": 125,
+        "percent": 0.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Christian Peoples Alliance",
+        "name": "Christopher Nicholson",
+        "votes": 109,
+        "percent": 0.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Climate Party",
+        "name": "Stewart Hey",
+        "votes": 91,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 560,
+        "percent": 18.9
+      },
+      "Retail and wholesale": {
+        "count": 395,
+        "percent": 13.3
+      },
+      "Information and communication": {
+        "count": 330,
+        "percent": 11.1
+      },
+      "Health": {
+        "count": 300,
+        "percent": 10.1
+      },
+      "Construction": {
+        "count": 250,
+        "percent": 8.4
+      },
+      "Arts, entertainment and recreation": {
+        "count": 235,
+        "percent": 7.9
+      },
+      "Business admin and support": {
+        "count": 230,
+        "percent": 7.8
+      },
+      "Property": {
+        "count": 190,
+        "percent": 6.4
+      },
+      "Accommodation and food services": {
+        "count": 175,
+        "percent": 5.9
+      },
+      "Transport and storage": {
+        "count": 90,
+        "percent": 3.0
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 80,
+        "percent": 2.7
+      },
+      "Finance and insurance": {
+        "count": 55,
+        "percent": 1.9
+      },
+      "Education": {
+        "count": 55,
+        "percent": 1.9
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 15,
+        "percent": 0.5
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 6000,
+        "percent": 27.4
+      },
+      "Education": {
+        "count": 3500,
+        "percent": 16.0
+      },
+      "Retail and wholesale": {
+        "count": 2450,
+        "percent": 11.2
+      },
+      "Accommodation and food services": {
+        "count": 2250,
+        "percent": 10.3
+      },
+      "Professional, scientific and technical": {
+        "count": 1750,
+        "percent": 8.0
+      },
+      "Business admin and support": {
+        "count": 1250,
+        "percent": 5.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1250,
+        "percent": 5.7
+      },
+      "Construction": {
+        "count": 800,
+        "percent": 3.7
+      },
+      "Information and communication": {
+        "count": 600,
+        "percent": 2.7
+      },
+      "Property": {
+        "count": 600,
+        "percent": 2.7
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 550,
+        "percent": 2.5
+      },
+      "Public admin and defence": {
+        "count": 400,
+        "percent": 1.8
+      },
+      "Transport and storage": {
+        "count": 250,
+        "percent": 1.1
+      },
+      "Finance and insurance": {
+        "count": 250,
+        "percent": 1.1
+      }
+    }
+  },
+  "unemployment": {
+    "count": 2875,
+    "currentRate": 4.7,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 4.4
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 4.5
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 4.7
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 919.9,
+    "annualChange": 18.5,
+    "ukPay": 811.2
+  }
+}

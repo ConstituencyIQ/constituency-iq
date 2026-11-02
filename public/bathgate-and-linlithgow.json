@@ -1,0 +1,326 @@
+{
+  "name": "Bathgate and Linlithgow",
+  "region": "Scotland",
+  "onsCode": "S14000068",
+  "electorate": 72185,
+  "center_lat": 55.92997,
+  "center_lon": -3.66457,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19746,
+      "percent": 20.7,
+      "nationalPercent": 20.6,
+      "difference": 0.1
+    },
+    "18 to 24": {
+      "count": 6375,
+      "percent": 6.7,
+      "nationalPercent": 8.4,
+      "difference": -1.7
+    },
+    "25 to 34": {
+      "count": 11076,
+      "percent": 11.6,
+      "nationalPercent": 13.5,
+      "difference": -1.9
+    },
+    "35 to 49": {
+      "count": 19533,
+      "percent": 20.5,
+      "nationalPercent": 19.3,
+      "difference": 1.1
+    },
+    "50 to 64": {
+      "count": 20588,
+      "percent": 21.6,
+      "nationalPercent": 19.2,
+      "difference": 2.3
+    },
+    "65 and over": {
+      "count": 18175,
+      "percent": 19.0,
+      "nationalPercent": 19.0,
+      "difference": 0.0
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 91161,
+      "percent": 96.5,
+      "nationalPercent": 3.0,
+      "difference": 93.5
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 868,
+      "percent": 0.9,
+      "nationalPercent": 1.1,
+      "difference": -0.2
+    },
+    "Asian": {
+      "count": 1496,
+      "percent": 1.6,
+      "nationalPercent": 0.6,
+      "difference": 1.0
+    },
+    "Black, African or Caribbean": {
+      "count": 612,
+      "percent": 0.6,
+      "nationalPercent": 0.1,
+      "difference": 0.5
+    },
+    "Other": {
+      "count": 328,
+      "percent": 0.3,
+      "nationalPercent": 0.5,
+      "difference": -0.2
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 87200,
+      "percent": 92.3,
+      "nationalPercent": 18.0,
+      "difference": 74.3
+    },
+    "Rest of world": {
+      "count": 2779,
+      "percent": 2.9,
+      "nationalPercent": 0.2,
+      "difference": 2.7
+    },
+    "European Union": {
+      "count": 4488,
+      "percent": 4.8,
+      "nationalPercent": 0.3,
+      "difference": 4.5
+    }
+  },
+  "mp": {
+    "name": "Kirsteen Sullivan",
+    "party": "Labour (Co-op)",
+    "memberId": 5179,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5179/Thumbnail",
+    "email": "kirsteen.sullivan@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from SNP",
+    "majority": 8323,
+    "turnout": 42065,
+    "turnoutPercent": 58.3,
+    "electorate": 72185,
+    "validVotes": 42065,
+    "invalidVotes": 92,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Kirsteen Sullivan",
+        "votes": 19774,
+        "percent": 47.0,
+        "change": 28.2
+      },
+      {
+        "party": "Scottish National Party",
+        "name": "Martyn Day",
+        "votes": 11451,
+        "percent": 27.2,
+        "change": -15.8
+      },
+      {
+        "party": "Reform UK",
+        "name": "Jamie McNamee",
+        "votes": 3524,
+        "percent": 8.4,
+        "change": 6.5
+      },
+      {
+        "party": "Conservative",
+        "name": "Lynn Munro",
+        "votes": 3144,
+        "percent": 7.5,
+        "change": -17.2
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Sally Pattle",
+        "votes": 2171,
+        "percent": 5.2,
+        "change": -3.1
+      },
+      {
+        "party": "Scottish Green Party",
+        "name": "Simon Jay",
+        "votes": 1390,
+        "percent": 3.3,
+        "change": 1.1
+      },
+      {
+        "party": "Independence for Scotland Party",
+        "name": "John Hannah",
+        "votes": 382,
+        "percent": 0.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Stuart McArthur",
+        "votes": 229,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 385,
+        "percent": 15.6
+      },
+      "Construction": {
+        "count": 340,
+        "percent": 13.7
+      },
+      "Professional, scientific and technical": {
+        "count": 320,
+        "percent": 12.9
+      },
+      "Transport and storage": {
+        "count": 220,
+        "percent": 8.9
+      },
+      "Business admin and support": {
+        "count": 210,
+        "percent": 8.5
+      },
+      "Accommodation and food services": {
+        "count": 205,
+        "percent": 8.3
+      },
+      "Arts, entertainment and recreation": {
+        "count": 195,
+        "percent": 7.9
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 145,
+        "percent": 5.9
+      },
+      "Information and communication": {
+        "count": 105,
+        "percent": 4.2
+      },
+      "Health": {
+        "count": 100,
+        "percent": 4.0
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 90,
+        "percent": 3.6
+      },
+      "Property": {
+        "count": 80,
+        "percent": 3.2
+      },
+      "Finance and insurance": {
+        "count": 40,
+        "percent": 1.6
+      },
+      "Education": {
+        "count": 40,
+        "percent": 1.6
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Manufacturing, mining and utilities": {
+        "count": 4175,
+        "percent": 14.7
+      },
+      "Retail and wholesale": {
+        "count": 3900,
+        "percent": 13.7
+      },
+      "Transport and storage": {
+        "count": 3500,
+        "percent": 12.3
+      },
+      "Education": {
+        "count": 3000,
+        "percent": 10.6
+      },
+      "Accommodation and food services": {
+        "count": 2250,
+        "percent": 7.9
+      },
+      "Professional, scientific and technical": {
+        "count": 2250,
+        "percent": 7.9
+      },
+      "Construction": {
+        "count": 2250,
+        "percent": 7.9
+      },
+      "Health": {
+        "count": 2000,
+        "percent": 7.0
+      },
+      "Business admin and support": {
+        "count": 1500,
+        "percent": 5.3
+      },
+      "Public admin and defence": {
+        "count": 1250,
+        "percent": 4.4
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1250,
+        "percent": 4.4
+      },
+      "Information and communication": {
+        "count": 500,
+        "percent": 1.8
+      },
+      "Property": {
+        "count": 400,
+        "percent": 1.4
+      },
+      "Finance and insurance": {
+        "count": 150,
+        "percent": 0.5
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1660,
+    "currentRate": 2.8,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.5
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.8
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.8
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 798.0,
+    "annualChange": 4.2,
+    "ukPay": 811.2
+  }
+}

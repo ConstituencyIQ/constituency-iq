@@ -1,0 +1,267 @@
+{
+  "name": "East Londonderry",
+  "region": "Northern Ireland",
+  "onsCode": "N05000006",
+  "electorate": 75707,
+  "center_lat": 55.01583,
+  "center_lon": -6.87966,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 22349,
+      "percent": 21.6,
+      "nationalPercent": 20.6,
+      "difference": 1.0
+    },
+    "18 to 24": {
+      "count": 8025,
+      "percent": 7.7,
+      "nationalPercent": 8.4,
+      "difference": -0.6
+    },
+    "25 to 34": {
+      "count": 11259,
+      "percent": 10.9,
+      "nationalPercent": 13.5,
+      "difference": -2.6
+    },
+    "35 to 49": {
+      "count": 18867,
+      "percent": 18.2,
+      "nationalPercent": 19.3,
+      "difference": -1.1
+    },
+    "50 to 64": {
+      "count": 21973,
+      "percent": 21.2,
+      "nationalPercent": 19.2,
+      "difference": 2.0
+    },
+    "65 and over": {
+      "count": 21110,
+      "percent": 20.4,
+      "nationalPercent": 19.0,
+      "difference": 1.4
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 101663,
+      "percent": 98.4,
+      "nationalPercent": 0.1,
+      "difference": 98.3
+    },
+    "Asian": {
+      "count": 743,
+      "percent": 0.7,
+      "nationalPercent": 0.3,
+      "difference": 0.4
+    },
+    "Other": {
+      "count": 151,
+      "percent": 0.1,
+      "nationalPercent": 0.2,
+      "difference": -0.1
+    },
+    "Black, African or Caribbean": {
+      "count": 177,
+      "percent": 0.2,
+      "nationalPercent": 0.2,
+      "difference": 0.0
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 551,
+      "percent": 0.5,
+      "nationalPercent": 0.8,
+      "difference": -0.3
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 97712,
+      "percent": 94.6,
+      "nationalPercent": 22.8,
+      "difference": 71.8
+    },
+    "European Union": {
+      "count": 3865,
+      "percent": 3.7,
+      "nationalPercent": 0.4,
+      "difference": 3.3
+    },
+    "Rest of world": {
+      "count": 1707,
+      "percent": 1.7,
+      "nationalPercent": 0.2,
+      "difference": 1.5
+    }
+  },
+  "mp": {
+    "name": "Mr Gregory Campbell",
+    "party": "Democratic Unionist Party",
+    "memberId": 1409,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/1409/Thumbnail",
+    "email": "mr.gregory.campbell@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "DUP hold",
+    "majority": 179,
+    "turnout": 41277,
+    "turnoutPercent": 54.5,
+    "electorate": 75707,
+    "validVotes": 41277,
+    "invalidVotes": 158,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Democratic Unionist Party",
+        "name": "Gregory Campbell",
+        "votes": 11506,
+        "percent": 27.9,
+        "change": -12.2
+      },
+      {
+        "party": "Sinn F\u00e9in",
+        "name": "Kathleen McGurk",
+        "votes": 11327,
+        "percent": 27.4,
+        "change": 12.0
+      },
+      {
+        "party": "Social Democratic & Labour Party",
+        "name": "Cara Hunter",
+        "votes": 5260,
+        "percent": 12.7,
+        "change": -3.7
+      },
+      {
+        "party": "Traditional Unionist Voice",
+        "name": "Allister Kyle",
+        "votes": 4363,
+        "percent": 10.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Alliance",
+        "name": "Richard Stewart",
+        "votes": 3734,
+        "percent": 9.0,
+        "change": -5.5
+      },
+      {
+        "party": "Ulster Unionist Party",
+        "name": "Glen Miller",
+        "votes": 3412,
+        "percent": 8.3,
+        "change": -0.9
+      },
+      {
+        "party": "Aont\u00fa",
+        "name": "Gemma Brolly",
+        "votes": 1043,
+        "percent": 2.5,
+        "change": -1.8
+      },
+      {
+        "party": "Green Party Northern Ireland",
+        "name": "Jen McCahon",
+        "votes": 445,
+        "percent": 1.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Conservative",
+        "name": "Claire Scull",
+        "votes": 187,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {
+      "Retail and wholesale": {
+        "count": 6109,
+        "percent": 18.9
+      },
+      "Health": {
+        "count": 5483,
+        "percent": 17.0
+      },
+      "Education": {
+        "count": 4245,
+        "percent": 13.2
+      },
+      "Accommodation and food services": {
+        "count": 3704,
+        "percent": 11.5
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3379,
+        "percent": 10.5
+      },
+      "Public admin and defence": {
+        "count": 2046,
+        "percent": 6.3
+      },
+      "Construction": {
+        "count": 1680,
+        "percent": 5.2
+      },
+      "Admin and support services": {
+        "count": 1536,
+        "percent": 4.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1214,
+        "percent": 3.8
+      },
+      "Professional, scientific and technical": {
+        "count": 945,
+        "percent": 2.9
+      },
+      "Transport and storage": {
+        "count": 695,
+        "percent": 2.2
+      },
+      "Property": {
+        "count": 418,
+        "percent": 1.3
+      },
+      "Information and communication": {
+        "count": 415,
+        "percent": 1.3
+      },
+      "Finance and insurance": {
+        "count": 403,
+        "percent": 1.2
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1905,
+    "currentRate": 3.0,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.3
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.0
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.0
+      }
+    ]
+  }
+}

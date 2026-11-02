@@ -1,0 +1,333 @@
+{
+  "name": "Brent East",
+  "region": "England",
+  "onsCode": "E14001122",
+  "electorate": 77547,
+  "center_lat": 51.56273,
+  "center_lon": -0.24183,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 31081,
+      "percent": 22.7,
+      "nationalPercent": 20.6,
+      "difference": 2.1
+    },
+    "18 to 24": {
+      "count": 13956,
+      "percent": 10.2,
+      "nationalPercent": 8.4,
+      "difference": 1.8
+    },
+    "25 to 34": {
+      "count": 22564,
+      "percent": 16.5,
+      "nationalPercent": 13.5,
+      "difference": 3.0
+    },
+    "35 to 49": {
+      "count": 28635,
+      "percent": 20.9,
+      "nationalPercent": 19.3,
+      "difference": 1.5
+    },
+    "50 to 64": {
+      "count": 24448,
+      "percent": 17.8,
+      "nationalPercent": 19.2,
+      "difference": -1.4
+    },
+    "65 and over": {
+      "count": 16459,
+      "percent": 12.0,
+      "nationalPercent": 19.0,
+      "difference": -7.0
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 29953,
+      "percent": 22.3,
+      "nationalPercent": 1.6,
+      "difference": 20.7
+    },
+    "Black, African or Caribbean": {
+      "count": 29122,
+      "percent": 21.7,
+      "nationalPercent": 0.5,
+      "difference": 21.2
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 8105,
+      "percent": 6.0,
+      "nationalPercent": 0.8,
+      "difference": 5.2
+    },
+    "White": {
+      "count": 51096,
+      "percent": 38.0,
+      "nationalPercent": 6.2,
+      "difference": 31.8
+    },
+    "Other": {
+      "count": 16234,
+      "percent": 12.1,
+      "nationalPercent": 1.6,
+      "difference": 10.5
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 62666,
+      "percent": 46.6,
+      "nationalPercent": 13.9,
+      "difference": 32.7
+    },
+    "European Union": {
+      "count": 23221,
+      "percent": 17.3,
+      "nationalPercent": 0.5,
+      "difference": 16.8
+    },
+    "Rest of world": {
+      "count": 48632,
+      "percent": 36.2,
+      "nationalPercent": 0.3,
+      "difference": 35.9
+    }
+  },
+  "mp": {
+    "name": "Dawn Butler",
+    "party": "Labour",
+    "memberId": 1489,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/1489/Thumbnail",
+    "email": "dawn.butler@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 13047,
+    "turnout": 37802,
+    "turnoutPercent": 48.7,
+    "electorate": 77547,
+    "validVotes": 37802,
+    "invalidVotes": 243,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Dawn Butler",
+        "votes": 19370,
+        "percent": 51.2,
+        "change": -12.6
+      },
+      {
+        "party": "Conservative",
+        "name": "Jamila Robertson",
+        "votes": 6323,
+        "percent": 16.7,
+        "change": -6.8
+      },
+      {
+        "party": "Green Party",
+        "name": "Nida Alfulaij",
+        "votes": 3729,
+        "percent": 9.9,
+        "change": 6.6
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Jonny Singh",
+        "votes": 2635,
+        "percent": 7.0,
+        "change": -2.1
+      },
+      {
+        "party": "Reform UK",
+        "name": "Zbigniew Kowalczyk",
+        "votes": 2024,
+        "percent": 5.4,
+        "change": 5.0
+      },
+      {
+        "party": "Independent",
+        "name": "Aadil Shaikh",
+        "votes": 1846,
+        "percent": 4.9,
+        "change": "N/A"
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "James Mutimer",
+        "votes": 1052,
+        "percent": 2.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Amin Moafi",
+        "votes": 654,
+        "percent": 1.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Jenner Folwell",
+        "votes": 169,
+        "percent": 0.4,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 1105,
+        "percent": 18.4
+      },
+      "Construction": {
+        "count": 1000,
+        "percent": 16.6
+      },
+      "Professional, scientific and technical": {
+        "count": 775,
+        "percent": 12.9
+      },
+      "Business admin and support": {
+        "count": 510,
+        "percent": 8.5
+      },
+      "Information and communication": {
+        "count": 425,
+        "percent": 7.1
+      },
+      "Arts, entertainment and recreation": {
+        "count": 415,
+        "percent": 6.9
+      },
+      "Property": {
+        "count": 400,
+        "percent": 6.7
+      },
+      "Accommodation and food services": {
+        "count": 385,
+        "percent": 6.4
+      },
+      "Transport and storage": {
+        "count": 340,
+        "percent": 5.7
+      },
+      "Health": {
+        "count": 245,
+        "percent": 4.1
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 215,
+        "percent": 3.6
+      },
+      "Education": {
+        "count": 120,
+        "percent": 2.0
+      },
+      "Finance and insurance": {
+        "count": 70,
+        "percent": 1.2
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 5,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 10750,
+        "percent": 21.6
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 6200,
+        "percent": 12.5
+      },
+      "Transport and storage": {
+        "count": 6000,
+        "percent": 12.1
+      },
+      "Business admin and support": {
+        "count": 5000,
+        "percent": 10.1
+      },
+      "Health": {
+        "count": 4500,
+        "percent": 9.1
+      },
+      "Professional, scientific and technical": {
+        "count": 4000,
+        "percent": 8.1
+      },
+      "Education": {
+        "count": 3000,
+        "percent": 6.0
+      },
+      "Accommodation and food services": {
+        "count": 3000,
+        "percent": 6.0
+      },
+      "Construction": {
+        "count": 2500,
+        "percent": 5.0
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1500,
+        "percent": 3.0
+      },
+      "Information and communication": {
+        "count": 1500,
+        "percent": 3.0
+      },
+      "Property": {
+        "count": 1250,
+        "percent": 2.5
+      },
+      "Public admin and defence": {
+        "count": 250,
+        "percent": 0.5
+      },
+      "Finance and insurance": {
+        "count": 225,
+        "percent": 0.5
+      }
+    }
+  },
+  "unemployment": {
+    "count": 8270,
+    "currentRate": 8.9,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 9.3
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 8.7
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 8.9
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 875.2,
+    "annualChange": 11.6,
+    "ukPay": 811.2
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "name": "Leicester South",
+  "region": "England",
+  "onsCode": "E14001327",
+  "electorate": 70867,
+  "center_lat": 52.61284,
+  "center_lon": -1.12102,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 26884,
+      "percent": 21.5,
+      "nationalPercent": 20.6,
+      "difference": 1.0
+    },
+    "18 to 24": {
+      "count": 24094,
+      "percent": 19.3,
+      "nationalPercent": 8.4,
+      "difference": 11.0
+    },
+    "25 to 34": {
+      "count": 20867,
+      "percent": 16.7,
+      "nationalPercent": 13.5,
+      "difference": 3.2
+    },
+    "35 to 49": {
+      "count": 22386,
+      "percent": 17.9,
+      "nationalPercent": 19.3,
+      "difference": -1.4
+    },
+    "50 to 64": {
+      "count": 17337,
+      "percent": 13.9,
+      "nationalPercent": 19.2,
+      "difference": -5.3
+    },
+    "65 and over": {
+      "count": 13209,
+      "percent": 10.6,
+      "nationalPercent": 19.0,
+      "difference": -8.4
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 51626,
+      "percent": 43.5,
+      "nationalPercent": 1.6,
+      "difference": 41.9
+    },
+    "Black, African or Caribbean": {
+      "count": 10971,
+      "percent": 9.2,
+      "nationalPercent": 0.5,
+      "difference": 8.7
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 4579,
+      "percent": 3.9,
+      "nationalPercent": 0.8,
+      "difference": 3.1
+    },
+    "White": {
+      "count": 46281,
+      "percent": 39.0,
+      "nationalPercent": 6.2,
+      "difference": 32.8
+    },
+    "Other": {
+      "count": 5344,
+      "percent": 4.5,
+      "nationalPercent": 1.6,
+      "difference": 2.9
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 71270,
+      "percent": 60.0,
+      "nationalPercent": 13.9,
+      "difference": 46.1
+    },
+    "European Union": {
+      "count": 9905,
+      "percent": 8.3,
+      "nationalPercent": 0.5,
+      "difference": 7.8
+    },
+    "Rest of world": {
+      "count": 37627,
+      "percent": 31.7,
+      "nationalPercent": 0.3,
+      "difference": 31.4
+    }
+  },
+  "mp": {
+    "name": "Shockat Adam",
+    "party": "Independent",
+    "memberId": 5120,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5120/Thumbnail",
+    "email": "shockat.adam@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Ind gain from Lab",
+    "majority": 979,
+    "turnout": 41837,
+    "turnoutPercent": 59.0,
+    "electorate": 70867,
+    "validVotes": 41837,
+    "invalidVotes": 158,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Independent",
+        "name": "Shockat Adam",
+        "votes": 14739,
+        "percent": 35.2,
+        "change": "N/A"
+      },
+      {
+        "party": "Labour",
+        "name": "Jonathan Ashworth",
+        "votes": 13760,
+        "percent": 32.9,
+        "change": -35.3
+      },
+      {
+        "party": "Conservative",
+        "name": "Gerri Hickton",
+        "votes": 4820,
+        "percent": 11.5,
+        "change": -10.3
+      },
+      {
+        "party": "Green Party",
+        "name": "Sharmen Rahman",
+        "votes": 3826,
+        "percent": 9.1,
+        "change": 5.8
+      },
+      {
+        "party": "Reform UK",
+        "name": "Craig Harwood",
+        "votes": 2470,
+        "percent": 5.9,
+        "change": 3.6
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Carol Weaver",
+        "votes": 1425,
+        "percent": 3.4,
+        "change": -0.9
+      },
+      {
+        "party": "Independent",
+        "name": "Osman Admani",
+        "votes": 329,
+        "percent": 0.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Communist Party of Britain",
+        "name": "Ann Green",
+        "votes": 279,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "name": "Ezechiel Adlore",
+        "votes": 189,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Retail and wholesale": {
+        "count": 1005,
+        "percent": 17.5
+      },
+      "Finance and insurance": {
+        "count": 870,
+        "percent": 15.1
+      },
+      "Professional, scientific and technical": {
+        "count": 605,
+        "percent": 10.5
+      },
+      "Accommodation and food services": {
+        "count": 530,
+        "percent": 9.2
+      },
+      "Property": {
+        "count": 480,
+        "percent": 8.4
+      },
+      "Health": {
+        "count": 370,
+        "percent": 6.4
+      },
+      "Business admin and support": {
+        "count": 335,
+        "percent": 5.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 330,
+        "percent": 5.7
+      },
+      "Construction": {
+        "count": 310,
+        "percent": 5.4
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 300,
+        "percent": 5.2
+      },
+      "Information and communication": {
+        "count": 270,
+        "percent": 4.7
+      },
+      "Transport and storage": {
+        "count": 225,
+        "percent": 3.9
+      },
+      "Education": {
+        "count": 100,
+        "percent": 1.7
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 15,
+        "percent": 0.3
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 19000,
+        "percent": 22.4
+      },
+      "Education": {
+        "count": 13000,
+        "percent": 15.3
+      },
+      "Business admin and support": {
+        "count": 10000,
+        "percent": 11.8
+      },
+      "Retail and wholesale": {
+        "count": 8400,
+        "percent": 9.9
+      },
+      "Accommodation and food services": {
+        "count": 6000,
+        "percent": 7.1
+      },
+      "Public admin and defence": {
+        "count": 6000,
+        "percent": 7.1
+      },
+      "Professional, scientific and technical": {
+        "count": 5000,
+        "percent": 5.9
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 4250,
+        "percent": 5.0
+      },
+      "Arts, entertainment and recreation": {
+        "count": 4000,
+        "percent": 4.7
+      },
+      "Finance and insurance": {
+        "count": 3000,
+        "percent": 3.5
+      },
+      "Information and communication": {
+        "count": 2500,
+        "percent": 3.0
+      },
+      "Property": {
+        "count": 1500,
+        "percent": 1.8
+      },
+      "Construction": {
+        "count": 1250,
+        "percent": 1.5
+      },
+      "Transport and storage": {
+        "count": 800,
+        "percent": 0.9
+      }
+    }
+  },
+  "unemployment": {
+    "count": 5015,
+    "currentRate": 5.7,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 5.8
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 5.6
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 5.7
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 694.4,
+    "annualChange": 3.7,
+    "ukPay": 811.2
+  }
+}

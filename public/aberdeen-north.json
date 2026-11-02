@@ -1,0 +1,333 @@
+{
+  "name": "Aberdeen North",
+  "region": "Scotland",
+  "onsCode": "S14000060",
+  "electorate": 75925,
+  "center_lat": 57.19127,
+  "center_lon": -2.18013,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 21581,
+      "percent": 18.9,
+      "nationalPercent": 20.6,
+      "difference": -1.7
+    },
+    "18 to 24": {
+      "count": 10023,
+      "percent": 8.8,
+      "nationalPercent": 8.4,
+      "difference": 0.4
+    },
+    "25 to 34": {
+      "count": 16673,
+      "percent": 14.6,
+      "nationalPercent": 13.5,
+      "difference": 1.1
+    },
+    "35 to 49": {
+      "count": 24178,
+      "percent": 21.1,
+      "nationalPercent": 19.3,
+      "difference": 1.8
+    },
+    "50 to 64": {
+      "count": 20904,
+      "percent": 18.3,
+      "nationalPercent": 19.2,
+      "difference": -1.0
+    },
+    "65 and over": {
+      "count": 20969,
+      "percent": 18.3,
+      "nationalPercent": 19.0,
+      "difference": -0.7
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 98075,
+      "percent": 87.6,
+      "nationalPercent": 3.0,
+      "difference": 84.6
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1764,
+      "percent": 1.6,
+      "nationalPercent": 1.1,
+      "difference": 0.5
+    },
+    "Asian": {
+      "count": 6824,
+      "percent": 6.1,
+      "nationalPercent": 0.6,
+      "difference": 5.5
+    },
+    "Black, African or Caribbean": {
+      "count": 3727,
+      "percent": 3.3,
+      "nationalPercent": 0.1,
+      "difference": 3.2
+    },
+    "Other": {
+      "count": 1556,
+      "percent": 1.4,
+      "nationalPercent": 0.5,
+      "difference": 0.9
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 90487,
+      "percent": 80.8,
+      "nationalPercent": 18.0,
+      "difference": 62.8
+    },
+    "Rest of world": {
+      "count": 11321,
+      "percent": 10.1,
+      "nationalPercent": 0.2,
+      "difference": 9.9
+    },
+    "European Union": {
+      "count": 10145,
+      "percent": 9.1,
+      "nationalPercent": 0.3,
+      "difference": 8.8
+    }
+  },
+  "mp": {
+    "name": "Kirsty Blackman",
+    "party": "Scottish National Party",
+    "memberId": 4357,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4357/Thumbnail",
+    "email": "kirsty.blackman@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "SNP hold",
+    "majority": 1760,
+    "turnout": 42095,
+    "turnoutPercent": 55.4,
+    "electorate": 75925,
+    "validVotes": 42095,
+    "invalidVotes": 115,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Scottish National Party",
+        "name": "Kirsty Blackman",
+        "votes": 14533,
+        "percent": 34.5,
+        "change": -18.4
+      },
+      {
+        "party": "Labour",
+        "name": "Lynn Thomson",
+        "votes": 12773,
+        "percent": 30.3,
+        "change": 18.4
+      },
+      {
+        "party": "Conservative",
+        "name": "Gillian Tebberen",
+        "votes": 5881,
+        "percent": 14.0,
+        "change": -10.6
+      },
+      {
+        "party": "Reform UK",
+        "name": "Kenneth Leggat",
+        "votes": 3781,
+        "percent": 9.0,
+        "change": 7.4
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Desmond Bouse",
+        "votes": 2583,
+        "percent": 6.1,
+        "change": -1.6
+      },
+      {
+        "party": "Scottish Green Party",
+        "name": "Esme Houston",
+        "votes": 1275,
+        "percent": 3.0,
+        "change": 1.8
+      },
+      {
+        "party": "Alba Party",
+        "name": "Charlie Abel",
+        "votes": 703,
+        "percent": 1.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Scottish Family Party",
+        "name": "Dawn Smith",
+        "votes": 352,
+        "percent": 0.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Trade Unionist and Socialist Coalition",
+        "name": "Lucas Grant",
+        "votes": 214,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 625,
+        "percent": 25.3
+      },
+      "Retail and wholesale": {
+        "count": 315,
+        "percent": 12.7
+      },
+      "Construction": {
+        "count": 290,
+        "percent": 11.7
+      },
+      "Business admin and support": {
+        "count": 230,
+        "percent": 9.3
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 185,
+        "percent": 7.5
+      },
+      "Arts, entertainment and recreation": {
+        "count": 155,
+        "percent": 6.3
+      },
+      "Transport and storage": {
+        "count": 150,
+        "percent": 6.1
+      },
+      "Accommodation and food services": {
+        "count": 135,
+        "percent": 5.5
+      },
+      "Information and communication": {
+        "count": 115,
+        "percent": 4.6
+      },
+      "Health": {
+        "count": 100,
+        "percent": 4.0
+      },
+      "Property": {
+        "count": 70,
+        "percent": 2.8
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 45,
+        "percent": 1.8
+      },
+      "Finance and insurance": {
+        "count": 30,
+        "percent": 1.2
+      },
+      "Education": {
+        "count": 30,
+        "percent": 1.2
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 21000,
+        "percent": 27.5
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 16500,
+        "percent": 21.6
+      },
+      "Professional, scientific and technical": {
+        "count": 9000,
+        "percent": 11.8
+      },
+      "Retail and wholesale": {
+        "count": 6050,
+        "percent": 7.9
+      },
+      "Education": {
+        "count": 5000,
+        "percent": 6.6
+      },
+      "Business admin and support": {
+        "count": 4000,
+        "percent": 5.2
+      },
+      "Accommodation and food services": {
+        "count": 3000,
+        "percent": 3.9
+      },
+      "Public admin and defence": {
+        "count": 3000,
+        "percent": 3.9
+      },
+      "Transport and storage": {
+        "count": 2500,
+        "percent": 3.3
+      },
+      "Construction": {
+        "count": 2500,
+        "percent": 3.3
+      },
+      "Arts, entertainment and recreation": {
+        "count": 2000,
+        "percent": 2.6
+      },
+      "Information and communication": {
+        "count": 1250,
+        "percent": 1.6
+      },
+      "Property": {
+        "count": 400,
+        "percent": 0.5
+      },
+      "Finance and insurance": {
+        "count": 100,
+        "percent": 0.1
+      }
+    }
+  },
+  "unemployment": {
+    "count": 3165,
+    "currentRate": 4.4,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.9
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 4.5
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 4.4
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 808.8,
+    "annualChange": 9.6,
+    "ukPay": 811.2
+  }
+}

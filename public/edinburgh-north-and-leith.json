@@ -1,0 +1,340 @@
+{
+  "name": "Edinburgh North and Leith",
+  "region": "Scotland",
+  "onsCode": "S14000079",
+  "electorate": 78411,
+  "center_lat": 55.96916,
+  "center_lon": -3.21541,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 16471,
+      "percent": 14.3,
+      "nationalPercent": 20.6,
+      "difference": -6.3
+    },
+    "18 to 24": {
+      "count": 10676,
+      "percent": 9.3,
+      "nationalPercent": 8.4,
+      "difference": 0.9
+    },
+    "25 to 34": {
+      "count": 27836,
+      "percent": 24.2,
+      "nationalPercent": 13.5,
+      "difference": 10.7
+    },
+    "35 to 49": {
+      "count": 26521,
+      "percent": 23.0,
+      "nationalPercent": 19.3,
+      "difference": 3.7
+    },
+    "50 to 64": {
+      "count": 18845,
+      "percent": 16.4,
+      "nationalPercent": 19.2,
+      "difference": -2.9
+    },
+    "65 and over": {
+      "count": 14738,
+      "percent": 12.8,
+      "nationalPercent": 19.0,
+      "difference": -6.2
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 93478,
+      "percent": 84.9,
+      "nationalPercent": 3.0,
+      "difference": 81.9
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 3327,
+      "percent": 3.0,
+      "nationalPercent": 1.1,
+      "difference": 1.9
+    },
+    "Asian": {
+      "count": 8131,
+      "percent": 7.4,
+      "nationalPercent": 0.6,
+      "difference": 6.8
+    },
+    "Black, African or Caribbean": {
+      "count": 2833,
+      "percent": 2.6,
+      "nationalPercent": 0.1,
+      "difference": 2.5
+    },
+    "Other": {
+      "count": 2304,
+      "percent": 2.1,
+      "nationalPercent": 0.5,
+      "difference": 1.6
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 79932,
+      "percent": 72.6,
+      "nationalPercent": 18.0,
+      "difference": 54.6
+    },
+    "Rest of world": {
+      "count": 15891,
+      "percent": 14.4,
+      "nationalPercent": 0.2,
+      "difference": 14.2
+    },
+    "European Union": {
+      "count": 14260,
+      "percent": 13.0,
+      "nationalPercent": 0.3,
+      "difference": 12.7
+    }
+  },
+  "mp": {
+    "name": "Tracy Gilbert",
+    "party": "Labour",
+    "memberId": 5188,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5188/Thumbnail",
+    "email": "tracy.gilbert@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from SNP",
+    "majority": 7268,
+    "turnout": 49475,
+    "turnoutPercent": 63.1,
+    "electorate": 78411,
+    "validVotes": 49475,
+    "invalidVotes": 173,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Tracy Gilbert",
+        "votes": 20805,
+        "percent": 42.1,
+        "change": 20.3
+      },
+      {
+        "party": "Scottish National Party",
+        "name": "Deidre Brock",
+        "votes": 13537,
+        "percent": 27.4,
+        "change": -16.4
+      },
+      {
+        "party": "Scottish Green Party",
+        "name": "Kayleigh O'Neill",
+        "votes": 5417,
+        "percent": 10.9,
+        "change": 7.7
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Mike Andersen",
+        "votes": 3879,
+        "percent": 7.8,
+        "change": -4.7
+      },
+      {
+        "party": "Conservative",
+        "name": "Joanna Mowat",
+        "votes": 3254,
+        "percent": 6.6,
+        "change": -11.0
+      },
+      {
+        "party": "Reform UK",
+        "name": "Alan Melville",
+        "votes": 1818,
+        "percent": 3.7,
+        "change": 2.8
+      },
+      {
+        "party": "Socialist Labour Party",
+        "name": "David Jacobsen",
+        "votes": 227,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Scottish Family Party",
+        "name": "Niel Deepnarain",
+        "votes": 210,
+        "percent": 0.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Communist Party of Britain",
+        "name": "Richard Shillcock",
+        "votes": 189,
+        "percent": 0.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Caroline Waterloo",
+        "votes": 139,
+        "percent": 0.3,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 1365,
+        "percent": 21.0
+      },
+      "Retail and wholesale": {
+        "count": 740,
+        "percent": 11.4
+      },
+      "Accommodation and food services": {
+        "count": 650,
+        "percent": 10.0
+      },
+      "Information and communication": {
+        "count": 600,
+        "percent": 9.2
+      },
+      "Business admin and support": {
+        "count": 545,
+        "percent": 8.4
+      },
+      "Arts, entertainment and recreation": {
+        "count": 540,
+        "percent": 8.3
+      },
+      "Construction": {
+        "count": 460,
+        "percent": 7.1
+      },
+      "Property": {
+        "count": 435,
+        "percent": 6.7
+      },
+      "Health": {
+        "count": 340,
+        "percent": 5.2
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 295,
+        "percent": 4.5
+      },
+      "Finance and insurance": {
+        "count": 250,
+        "percent": 3.8
+      },
+      "Education": {
+        "count": 125,
+        "percent": 1.9
+      },
+      "Transport and storage": {
+        "count": 90,
+        "percent": 1.4
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 55,
+        "percent": 0.8
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.1
+      }
+    },
+    "employees": {
+      "Accommodation and food services": {
+        "count": 13000,
+        "percent": 13.6
+      },
+      "Professional, scientific and technical": {
+        "count": 13000,
+        "percent": 13.6
+      },
+      "Health": {
+        "count": 11000,
+        "percent": 11.5
+      },
+      "Retail and wholesale": {
+        "count": 10750,
+        "percent": 11.2
+      },
+      "Finance and insurance": {
+        "count": 9000,
+        "percent": 9.4
+      },
+      "Business admin and support": {
+        "count": 8000,
+        "percent": 8.4
+      },
+      "Information and communication": {
+        "count": 6000,
+        "percent": 6.3
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 5750,
+        "percent": 6.0
+      },
+      "Arts, entertainment and recreation": {
+        "count": 5000,
+        "percent": 5.2
+      },
+      "Education": {
+        "count": 4000,
+        "percent": 4.2
+      },
+      "Public admin and defence": {
+        "count": 3500,
+        "percent": 3.7
+      },
+      "Property": {
+        "count": 2500,
+        "percent": 2.6
+      },
+      "Transport and storage": {
+        "count": 2250,
+        "percent": 2.3
+      },
+      "Construction": {
+        "count": 2000,
+        "percent": 2.1
+      }
+    }
+  },
+  "unemployment": {
+    "count": 2770,
+    "currentRate": 3.5,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.0
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.5
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.5
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 865.0,
+    "annualChange": 11.4,
+    "ukPay": 811.2
+  }
+}

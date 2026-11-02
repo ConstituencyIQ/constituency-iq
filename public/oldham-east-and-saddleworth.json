@@ -1,0 +1,208 @@
+{
+  "name": "Oldham East and Saddleworth",
+  "region": "England",
+  "onsCode": "E14001415",
+  "electorate": 73460,
+  "center_lat": 53.56421,
+  "center_lon": -2.01843,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 28379,
+      "percent": 25.3,
+      "nationalPercent": 20.6,
+      "difference": 4.8
+    },
+    "18 to 24": {
+      "count": 8911,
+      "percent": 8.0,
+      "nationalPercent": 8.4,
+      "difference": -0.4
+    },
+    "25 to 34": {
+      "count": 14129,
+      "percent": 12.6,
+      "nationalPercent": 13.5,
+      "difference": -0.9
+    },
+    "35 to 49": {
+      "count": 21365,
+      "percent": 19.1,
+      "nationalPercent": 19.3,
+      "difference": -0.3
+    },
+    "50 to 64": {
+      "count": 20327,
+      "percent": 18.1,
+      "nationalPercent": 19.2,
+      "difference": -1.1
+    },
+    "65 and over": {
+      "count": 18899,
+      "percent": 16.9,
+      "nationalPercent": 19.0,
+      "difference": -2.1
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 22379,
+      "percent": 20.6,
+      "nationalPercent": 1.6,
+      "difference": 19.0
+    },
+    "Black, African or Caribbean": {
+      "count": 3232,
+      "percent": 3.0,
+      "nationalPercent": 0.5,
+      "difference": 2.5
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 2884,
+      "percent": 2.7,
+      "nationalPercent": 0.8,
+      "difference": 1.9
+    },
+    "White": {
+      "count": 78713,
+      "percent": 72.5,
+      "nationalPercent": 6.2,
+      "difference": 66.3
+    },
+    "Other": {
+      "count": 1398,
+      "percent": 1.3,
+      "nationalPercent": 1.6,
+      "difference": -0.3
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 92546,
+      "percent": 85.2,
+      "nationalPercent": 13.9,
+      "difference": 71.3
+    },
+    "European Union": {
+      "count": 4451,
+      "percent": 4.1,
+      "nationalPercent": 0.5,
+      "difference": 3.6
+    },
+    "Rest of world": {
+      "count": 11610,
+      "percent": 10.7,
+      "nationalPercent": 0.3,
+      "difference": 10.4
+    }
+  },
+  "mp": {
+    "name": "Debbie Abrahams",
+    "party": "Labour",
+    "memberId": 4212,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4212/Thumbnail",
+    "email": "debbie.abrahams@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 6357,
+    "turnout": 40065,
+    "turnoutPercent": 54.5,
+    "electorate": 73460,
+    "validVotes": 40065,
+    "invalidVotes": 157,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Debbie Abrahams",
+        "votes": 14091,
+        "percent": 35.2,
+        "change": -8.3
+      },
+      {
+        "party": "Reform UK",
+        "name": "Jacob Barden",
+        "votes": 7734,
+        "percent": 19.3,
+        "change": 12.8
+      },
+      {
+        "party": "Conservative",
+        "name": "Tom Fish",
+        "votes": 6838,
+        "percent": 17.1,
+        "change": -23.2
+      },
+      {
+        "party": "Workers Party of Britain",
+        "name": "Shanaz Saddique",
+        "votes": 4647,
+        "percent": 11.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Sam Al-Hamdani",
+        "votes": 3386,
+        "percent": 8.5,
+        "change": 3.2
+      },
+      {
+        "party": "Green Party",
+        "name": "Fesl Reza Khan",
+        "votes": 1490,
+        "percent": 3.7,
+        "change": 2.0
+      },
+      {
+        "party": "Independent",
+        "name": "Paul Errock",
+        "votes": 1362,
+        "percent": 3.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Nick Buckley",
+        "votes": 517,
+        "percent": 1.3,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 4230,
+    "currentRate": 6.2,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 6.2
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 6.1
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 6.2
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 743.1,
+    "annualChange": 7.7,
+    "ukPay": 811.2
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "name": "Islington South and Finsbury",
+  "region": "England",
+  "onsCode": "E14001306",
+  "electorate": 74122,
+  "center_lat": 51.53821,
+  "center_lon": -0.1004,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 18359,
+      "percent": 15.1,
+      "nationalPercent": 20.6,
+      "difference": -5.4
+    },
+    "18 to 24": {
+      "count": 16919,
+      "percent": 13.9,
+      "nationalPercent": 8.4,
+      "difference": 5.6
+    },
+    "25 to 34": {
+      "count": 32378,
+      "percent": 26.7,
+      "nationalPercent": 13.5,
+      "difference": 13.2
+    },
+    "35 to 49": {
+      "count": 24190,
+      "percent": 19.9,
+      "nationalPercent": 19.3,
+      "difference": 0.6
+    },
+    "50 to 64": {
+      "count": 17941,
+      "percent": 14.8,
+      "nationalPercent": 19.2,
+      "difference": -4.5
+    },
+    "65 and over": {
+      "count": 11574,
+      "percent": 9.5,
+      "nationalPercent": 19.0,
+      "difference": -9.5
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 12825,
+      "percent": 11.1,
+      "nationalPercent": 1.6,
+      "difference": 9.5
+    },
+    "Black, African or Caribbean": {
+      "count": 14313,
+      "percent": 12.3,
+      "nationalPercent": 0.5,
+      "difference": 11.8
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 8409,
+      "percent": 7.3,
+      "nationalPercent": 0.8,
+      "difference": 6.5
+    },
+    "White": {
+      "count": 72342,
+      "percent": 62.4,
+      "nationalPercent": 6.2,
+      "difference": 56.2
+    },
+    "Other": {
+      "count": 8065,
+      "percent": 7.0,
+      "nationalPercent": 1.6,
+      "difference": 5.4
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 67699,
+      "percent": 58.4,
+      "nationalPercent": 13.9,
+      "difference": 44.5
+    },
+    "European Union": {
+      "count": 16826,
+      "percent": 14.5,
+      "nationalPercent": 0.5,
+      "difference": 14.0
+    },
+    "Rest of world": {
+      "count": 31434,
+      "percent": 27.1,
+      "nationalPercent": 0.3,
+      "difference": 26.8
+    }
+  },
+  "mp": {
+    "name": "Emily Thornberry",
+    "party": "Labour",
+    "memberId": 1536,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/1536/Thumbnail",
+    "email": "emily.thornberry@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 15455,
+    "turnout": 42754,
+    "turnoutPercent": 57.7,
+    "electorate": 74122,
+    "validVotes": 42754,
+    "invalidVotes": 235,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Emily Thornberry",
+        "votes": 22946,
+        "percent": 53.7,
+        "change": -3.3
+      },
+      {
+        "party": "Green Party",
+        "name": "Carne Ross",
+        "votes": 7491,
+        "percent": 17.5,
+        "change": 13.2
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Terry Stacy",
+        "votes": 4045,
+        "percent": 9.5,
+        "change": -10.2
+      },
+      {
+        "party": "Conservative",
+        "name": "Imogen Sinclair",
+        "votes": 3584,
+        "percent": 8.4,
+        "change": -8.0
+      },
+      {
+        "party": "Reform UK",
+        "name": "Max Nelson",
+        "votes": 3388,
+        "percent": 7.9,
+        "change": 5.6
+      },
+      {
+        "party": "Independent",
+        "name": "Andrew Parry",
+        "votes": 569,
+        "percent": 1.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Party of Women",
+        "name": "Lesley Woodburn",
+        "votes": 354,
+        "percent": 0.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Trade Unionist and Socialist Coalition",
+        "name": "Ethan Saunders",
+        "votes": 215,
+        "percent": 0.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Jake Painter",
+        "votes": 162,
+        "percent": 0.4,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 4530,
+        "percent": 23.8
+      },
+      "Information and communication": {
+        "count": 3435,
+        "percent": 18.1
+      },
+      "Retail and wholesale": {
+        "count": 2235,
+        "percent": 11.8
+      },
+      "Business admin and support": {
+        "count": 1810,
+        "percent": 9.5
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1495,
+        "percent": 7.9
+      },
+      "Construction": {
+        "count": 1170,
+        "percent": 6.2
+      },
+      "Property": {
+        "count": 835,
+        "percent": 4.4
+      },
+      "Accommodation and food services": {
+        "count": 820,
+        "percent": 4.3
+      },
+      "Health": {
+        "count": 645,
+        "percent": 3.4
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 635,
+        "percent": 3.3
+      },
+      "Finance and insurance": {
+        "count": 580,
+        "percent": 3.1
+      },
+      "Education": {
+        "count": 415,
+        "percent": 2.2
+      },
+      "Transport and storage": {
+        "count": 365,
+        "percent": 1.9
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 30,
+        "percent": 0.2
+      },
+      "Public admin and defence": {
+        "count": 5,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Professional, scientific and technical": {
+        "count": 57000,
+        "percent": 25.0
+      },
+      "Information and communication": {
+        "count": 42000,
+        "percent": 18.5
+      },
+      "Business admin and support": {
+        "count": 30000,
+        "percent": 13.2
+      },
+      "Retail and wholesale": {
+        "count": 15450,
+        "percent": 6.8
+      },
+      "Accommodation and food services": {
+        "count": 15000,
+        "percent": 6.6
+      },
+      "Health": {
+        "count": 15000,
+        "percent": 6.6
+      },
+      "Finance and insurance": {
+        "count": 13000,
+        "percent": 5.7
+      },
+      "Arts, entertainment and recreation": {
+        "count": 10000,
+        "percent": 4.4
+      },
+      "Education": {
+        "count": 9000,
+        "percent": 4.0
+      },
+      "Construction": {
+        "count": 4500,
+        "percent": 2.0
+      },
+      "Transport and storage": {
+        "count": 4500,
+        "percent": 2.0
+      },
+      "Property": {
+        "count": 4500,
+        "percent": 2.0
+      },
+      "Public admin and defence": {
+        "count": 4500,
+        "percent": 2.0
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 3100,
+        "percent": 1.4
+      }
+    }
+  },
+  "unemployment": {
+    "count": 4890,
+    "currentRate": 5.2,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 5.4
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 5.1
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 5.2
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 1150.1,
+    "annualChange": 6.2,
+    "ukPay": 811.2
+  }
+}

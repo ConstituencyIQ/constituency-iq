@@ -1,0 +1,333 @@
+{
+  "name": "South Cotswolds",
+  "region": "England",
+  "onsCode": "E14001482",
+  "electorate": 71971,
+  "center_lat": 51.60438,
+  "center_lon": -2.11842,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 18433,
+      "percent": 19.1,
+      "nationalPercent": 20.6,
+      "difference": -1.5
+    },
+    "18 to 24": {
+      "count": 5890,
+      "percent": 6.1,
+      "nationalPercent": 8.4,
+      "difference": -2.2
+    },
+    "25 to 34": {
+      "count": 9091,
+      "percent": 9.4,
+      "nationalPercent": 13.5,
+      "difference": -4.1
+    },
+    "35 to 49": {
+      "count": 16864,
+      "percent": 17.5,
+      "nationalPercent": 19.3,
+      "difference": -1.9
+    },
+    "50 to 64": {
+      "count": 21631,
+      "percent": 22.4,
+      "nationalPercent": 19.2,
+      "difference": 3.2
+    },
+    "65 and over": {
+      "count": 24525,
+      "percent": 25.4,
+      "nationalPercent": 19.0,
+      "difference": 6.4
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 1811,
+      "percent": 1.9,
+      "nationalPercent": 1.6,
+      "difference": 0.3
+    },
+    "Black, African or Caribbean": {
+      "count": 718,
+      "percent": 0.8,
+      "nationalPercent": 0.5,
+      "difference": 0.3
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1501,
+      "percent": 1.6,
+      "nationalPercent": 0.8,
+      "difference": 0.8
+    },
+    "White": {
+      "count": 90040,
+      "percent": 95.3,
+      "nationalPercent": 6.2,
+      "difference": 89.1
+    },
+    "Other": {
+      "count": 457,
+      "percent": 0.5,
+      "nationalPercent": 1.6,
+      "difference": -1.1
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 86405,
+      "percent": 91.4,
+      "nationalPercent": 13.9,
+      "difference": 77.5
+    },
+    "European Union": {
+      "count": 3104,
+      "percent": 3.3,
+      "nationalPercent": 0.5,
+      "difference": 2.8
+    },
+    "Rest of world": {
+      "count": 5021,
+      "percent": 5.3,
+      "nationalPercent": 0.3,
+      "difference": 5.0
+    }
+  },
+  "mp": {
+    "name": "Dr Roz Savage",
+    "party": "Liberal Democrat",
+    "memberId": 5352,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5352/Thumbnail",
+    "email": "dr.roz.savage@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "LD gain from Con",
+    "majority": 4973,
+    "turnout": 52287,
+    "turnoutPercent": 72.7,
+    "electorate": 71971,
+    "validVotes": 52287,
+    "invalidVotes": 163,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Liberal Democrat",
+        "name": "Roz Savage",
+        "votes": 22961,
+        "percent": 43.9,
+        "change": 16.3
+      },
+      {
+        "party": "Conservative",
+        "name": "James Gray",
+        "votes": 17988,
+        "percent": 34.4,
+        "change": -23.5
+      },
+      {
+        "party": "Reform UK",
+        "name": "Desi Latimer",
+        "votes": 5146,
+        "percent": 9.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Labour",
+        "name": "Zo\u00eb Billingham",
+        "votes": 3942,
+        "percent": 7.5,
+        "change": -3.1
+      },
+      {
+        "party": "Green Party",
+        "name": "Bob Eastoe",
+        "votes": 1564,
+        "percent": 3.0,
+        "change": -0.8
+      },
+      {
+        "party": "Liberal",
+        "name": "Chris Twells",
+        "votes": 225,
+        "percent": 0.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Sandy Steel",
+        "votes": 183,
+        "percent": 0.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Martin Broomfield",
+        "votes": 156,
+        "percent": 0.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Owen Humphrys",
+        "votes": 122,
+        "percent": 0.2,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 1025,
+        "percent": 18.0
+      },
+      "Retail and wholesale": {
+        "count": 725,
+        "percent": 12.7
+      },
+      "Construction": {
+        "count": 670,
+        "percent": 11.8
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 650,
+        "percent": 11.4
+      },
+      "Business admin and support": {
+        "count": 470,
+        "percent": 8.3
+      },
+      "Information and communication": {
+        "count": 390,
+        "percent": 6.9
+      },
+      "Arts, entertainment and recreation": {
+        "count": 380,
+        "percent": 6.7
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 300,
+        "percent": 5.3
+      },
+      "Accommodation and food services": {
+        "count": 285,
+        "percent": 5.0
+      },
+      "Property": {
+        "count": 230,
+        "percent": 4.0
+      },
+      "Health": {
+        "count": 170,
+        "percent": 3.0
+      },
+      "Transport and storage": {
+        "count": 130,
+        "percent": 2.3
+      },
+      "Finance and insurance": {
+        "count": 120,
+        "percent": 2.1
+      },
+      "Education": {
+        "count": 100,
+        "percent": 1.8
+      },
+      "Public admin and defence": {
+        "count": 45,
+        "percent": 0.8
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 7200,
+        "percent": 15.8
+      },
+      "Professional, scientific and technical": {
+        "count": 6000,
+        "percent": 13.1
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 5400,
+        "percent": 11.8
+      },
+      "Accommodation and food services": {
+        "count": 5000,
+        "percent": 11.0
+      },
+      "Education": {
+        "count": 3500,
+        "percent": 7.7
+      },
+      "Business admin and support": {
+        "count": 3500,
+        "percent": 7.7
+      },
+      "Construction": {
+        "count": 3000,
+        "percent": 6.6
+      },
+      "Health": {
+        "count": 3000,
+        "percent": 6.6
+      },
+      "Information and communication": {
+        "count": 2500,
+        "percent": 5.5
+      },
+      "Finance and insurance": {
+        "count": 2500,
+        "percent": 5.5
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1750,
+        "percent": 3.8
+      },
+      "Property": {
+        "count": 1000,
+        "percent": 2.2
+      },
+      "Transport and storage": {
+        "count": 800,
+        "percent": 1.8
+      },
+      "Public admin and defence": {
+        "count": 500,
+        "percent": 1.1
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1085,
+    "currentRate": 1.9,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 1.9
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 1.9
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 1.9
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 876.5,
+    "annualChange": 6.2,
+    "ukPay": 811.2
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "name": "Bethnal Green and Stepney",
+  "region": "England",
+  "onsCode": "E14001086",
+  "electorate": 81439,
+  "center_lat": 51.52204,
+  "center_lon": -0.05684,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 25707,
+      "percent": 19.1,
+      "nationalPercent": 20.6,
+      "difference": -1.5
+    },
+    "18 to 24": {
+      "count": 21205,
+      "percent": 15.7,
+      "nationalPercent": 8.4,
+      "difference": 7.4
+    },
+    "25 to 34": {
+      "count": 35938,
+      "percent": 26.7,
+      "nationalPercent": 13.5,
+      "difference": 13.2
+    },
+    "35 to 49": {
+      "count": 27916,
+      "percent": 20.7,
+      "nationalPercent": 19.3,
+      "difference": 1.4
+    },
+    "50 to 64": {
+      "count": 15375,
+      "percent": 11.4,
+      "nationalPercent": 19.2,
+      "difference": -7.8
+    },
+    "65 and over": {
+      "count": 8519,
+      "percent": 6.3,
+      "nationalPercent": 19.0,
+      "difference": -12.7
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 62647,
+      "percent": 49.4,
+      "nationalPercent": 1.6,
+      "difference": 47.8
+    },
+    "Black, African or Caribbean": {
+      "count": 8286,
+      "percent": 6.5,
+      "nationalPercent": 0.5,
+      "difference": 6.0
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 5681,
+      "percent": 4.5,
+      "nationalPercent": 0.8,
+      "difference": 3.7
+    },
+    "White": {
+      "count": 45287,
+      "percent": 35.7,
+      "nationalPercent": 6.2,
+      "difference": 29.5
+    },
+    "Other": {
+      "count": 4855,
+      "percent": 3.8,
+      "nationalPercent": 1.6,
+      "difference": 2.2
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 67933,
+      "percent": 53.6,
+      "nationalPercent": 13.9,
+      "difference": 39.7
+    },
+    "European Union": {
+      "count": 16217,
+      "percent": 12.8,
+      "nationalPercent": 0.5,
+      "difference": 12.3
+    },
+    "Rest of world": {
+      "count": 42608,
+      "percent": 33.6,
+      "nationalPercent": 0.3,
+      "difference": 33.3
+    }
+  },
+  "mp": {
+    "name": "Rushanara Ali",
+    "party": "Labour",
+    "memberId": 4138,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4138/Thumbnail",
+    "email": "rushanara.ali@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab hold",
+    "majority": 1689,
+    "turnout": 46647,
+    "turnoutPercent": 57.3,
+    "electorate": 81439,
+    "validVotes": 46647,
+    "invalidVotes": 320,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Rushanara Ali",
+        "votes": 15896,
+        "percent": 34.1,
+        "change": -39.4
+      },
+      {
+        "party": "Independent",
+        "name": "Ajmal Masroor",
+        "votes": 14207,
+        "percent": 30.5,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Phoebe Gill",
+        "votes": 6391,
+        "percent": 13.7,
+        "change": 9.5
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Rabina Khan",
+        "votes": 4777,
+        "percent": 10.2,
+        "change": 1.0
+      },
+      {
+        "party": "Reform UK",
+        "name": "Peter Sceats",
+        "votes": 1964,
+        "percent": 4.2,
+        "change": 2.2
+      },
+      {
+        "party": "Conservative",
+        "name": "Oscar Reaney",
+        "votes": 1920,
+        "percent": 4.1,
+        "change": -6.0
+      },
+      {
+        "party": "Animal Welfare Party",
+        "name": "Vanessa Hudson",
+        "votes": 348,
+        "percent": 0.7,
+        "change": -0.1
+      },
+      {
+        "party": "Independent",
+        "name": "Sham Uddin",
+        "votes": 325,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Md Somon Ahmed",
+        "votes": 315,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Reggie Adams",
+        "votes": 271,
+        "percent": 0.6,
+        "change": "N/A"
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Jon Mabbutt",
+        "votes": 233,
+        "percent": 0.5,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Professional, scientific and technical": {
+        "count": 1510,
+        "percent": 18.2
+      },
+      "Retail and wholesale": {
+        "count": 1365,
+        "percent": 16.5
+      },
+      "Information and communication": {
+        "count": 1035,
+        "percent": 12.5
+      },
+      "Accommodation and food services": {
+        "count": 760,
+        "percent": 9.2
+      },
+      "Business admin and support": {
+        "count": 740,
+        "percent": 8.9
+      },
+      "Arts, entertainment and recreation": {
+        "count": 730,
+        "percent": 8.8
+      },
+      "Property": {
+        "count": 455,
+        "percent": 5.5
+      },
+      "Construction": {
+        "count": 410,
+        "percent": 4.9
+      },
+      "Health": {
+        "count": 340,
+        "percent": 4.1
+      },
+      "Education": {
+        "count": 285,
+        "percent": 3.4
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 260,
+        "percent": 3.1
+      },
+      "Transport and storage": {
+        "count": 205,
+        "percent": 2.5
+      },
+      "Finance and insurance": {
+        "count": 190,
+        "percent": 2.3
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 10,
+        "percent": 0.1
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 26000,
+        "percent": 21.6
+      },
+      "Professional, scientific and technical": {
+        "count": 17000,
+        "percent": 14.1
+      },
+      "Information and communication": {
+        "count": 13000,
+        "percent": 10.8
+      },
+      "Education": {
+        "count": 12000,
+        "percent": 10.0
+      },
+      "Finance and insurance": {
+        "count": 11000,
+        "percent": 9.1
+      },
+      "Accommodation and food services": {
+        "count": 8000,
+        "percent": 6.6
+      },
+      "Business admin and support": {
+        "count": 8000,
+        "percent": 6.6
+      },
+      "Retail and wholesale": {
+        "count": 7000,
+        "percent": 5.8
+      },
+      "Public admin and defence": {
+        "count": 6000,
+        "percent": 5.0
+      },
+      "Arts, entertainment and recreation": {
+        "count": 4500,
+        "percent": 3.7
+      },
+      "Property": {
+        "count": 2250,
+        "percent": 1.9
+      },
+      "Construction": {
+        "count": 2250,
+        "percent": 1.9
+      },
+      "Transport and storage": {
+        "count": 2000,
+        "percent": 1.7
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 1575,
+        "percent": 1.3
+      }
+    }
+  },
+  "unemployment": {
+    "count": 7725,
+    "currentRate": 7.5,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 7.4
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 7.2
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 7.5
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 964.7,
+    "annualChange": 3.2,
+    "ukPay": 811.2
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "name": "North Antrim",
+  "region": "Northern Ireland",
+  "onsCode": "N05000012",
+  "electorate": 74697,
+  "center_lat": 55.01514,
+  "center_lon": -6.40729,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 22903,
+      "percent": 21.9,
+      "nationalPercent": 20.6,
+      "difference": 1.4
+    },
+    "18 to 24": {
+      "count": 7252,
+      "percent": 6.9,
+      "nationalPercent": 8.4,
+      "difference": -1.4
+    },
+    "25 to 34": {
+      "count": 11993,
+      "percent": 11.5,
+      "nationalPercent": 13.5,
+      "difference": -2.0
+    },
+    "35 to 49": {
+      "count": 19735,
+      "percent": 18.9,
+      "nationalPercent": 19.3,
+      "difference": -0.4
+    },
+    "50 to 64": {
+      "count": 21562,
+      "percent": 20.7,
+      "nationalPercent": 19.2,
+      "difference": 1.4
+    },
+    "65 and over": {
+      "count": 20939,
+      "percent": 20.1,
+      "nationalPercent": 19.0,
+      "difference": 1.1
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 102466,
+      "percent": 98.7,
+      "nationalPercent": 0.1,
+      "difference": 98.6
+    },
+    "Asian": {
+      "count": 589,
+      "percent": 0.6,
+      "nationalPercent": 0.3,
+      "difference": 0.3
+    },
+    "Other": {
+      "count": 149,
+      "percent": 0.1,
+      "nationalPercent": 0.2,
+      "difference": -0.1
+    },
+    "Black, African or Caribbean": {
+      "count": 184,
+      "percent": 0.2,
+      "nationalPercent": 0.2,
+      "difference": 0.0
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 444,
+      "percent": 0.4,
+      "nationalPercent": 0.8,
+      "difference": -0.4
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 96600,
+      "percent": 93.0,
+      "nationalPercent": 22.8,
+      "difference": 70.2
+    },
+    "European Union": {
+      "count": 5835,
+      "percent": 5.6,
+      "nationalPercent": 0.4,
+      "difference": 5.2
+    },
+    "Rest of world": {
+      "count": 1396,
+      "percent": 1.3,
+      "nationalPercent": 0.2,
+      "difference": 1.1
+    }
+  },
+  "mp": {
+    "name": "Jim Allister",
+    "party": "Traditional Unionist Voice",
+    "memberId": 5356,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5356/Thumbnail",
+    "email": "jim.allister@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "TUV gain from DUP",
+    "majority": 450,
+    "turnout": 41185,
+    "turnoutPercent": 55.1,
+    "electorate": 74697,
+    "validVotes": 41185,
+    "invalidVotes": 176,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Traditional Unionist Voice",
+        "name": "Jim Allister",
+        "votes": 11642,
+        "percent": 28.3,
+        "change": "N/A"
+      },
+      {
+        "party": "Democratic Unionist Party",
+        "name": "Ian Paisley",
+        "votes": 11192,
+        "percent": 27.2,
+        "change": -23.7
+      },
+      {
+        "party": "Sinn F\u00e9in",
+        "name": "Philip McGuigan",
+        "votes": 7714,
+        "percent": 18.7,
+        "change": 7.4
+      },
+      {
+        "party": "Alliance",
+        "name": "Sian Mulholland",
+        "votes": 4488,
+        "percent": 10.9,
+        "change": -3.4
+      },
+      {
+        "party": "Ulster Unionist Party",
+        "name": "Jackson Minford",
+        "votes": 3901,
+        "percent": 9.5,
+        "change": -7.5
+      },
+      {
+        "party": "Social Democratic & Labour Party",
+        "name": "Helen Maher",
+        "votes": 1661,
+        "percent": 4.0,
+        "change": -1.9
+      },
+      {
+        "party": "Aont\u00fa",
+        "name": "R\u00e1ich\u00e9al Mhic Niocaill",
+        "votes": 451,
+        "percent": 1.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Tristan Morrow",
+        "votes": 136,
+        "percent": 0.3,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Agriculture, forestry and fishing": {
+        "count": 1450,
+        "percent": 32.7
+      },
+      "Retail and wholesale": {
+        "count": 700,
+        "percent": 15.8
+      },
+      "Construction": {
+        "count": 650,
+        "percent": 14.6
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 295,
+        "percent": 6.6
+      },
+      "Accommodation and food services": {
+        "count": 265,
+        "percent": 6.0
+      },
+      "Professional, scientific and technical": {
+        "count": 235,
+        "percent": 5.3
+      },
+      "Arts, entertainment and recreation": {
+        "count": 235,
+        "percent": 5.3
+      },
+      "Business admin and support": {
+        "count": 130,
+        "percent": 2.9
+      },
+      "Transport and storage": {
+        "count": 115,
+        "percent": 2.6
+      },
+      "Health": {
+        "count": 115,
+        "percent": 2.6
+      },
+      "Property": {
+        "count": 110,
+        "percent": 2.5
+      },
+      "Information and communication": {
+        "count": 65,
+        "percent": 1.5
+      },
+      "Finance and insurance": {
+        "count": 40,
+        "percent": 0.9
+      },
+      "Education": {
+        "count": 35,
+        "percent": 0.8
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 7307,
+        "percent": 10.0
+      },
+      "Health": {
+        "count": 5821,
+        "percent": 8.0
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 5732,
+        "percent": 7.8
+      },
+      "Education": {
+        "count": 3848,
+        "percent": 5.3
+      },
+      "Accommodation and food services": {
+        "count": 2875,
+        "percent": 3.9
+      },
+      "Construction": {
+        "count": 2243,
+        "percent": 3.1
+      },
+      "Admin and support services": {
+        "count": 1854,
+        "percent": 2.5
+      },
+      "Public admin and defence": {
+        "count": 1778,
+        "percent": 2.4
+      },
+      "Transport and storage": {
+        "count": 1484,
+        "percent": 2.0
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1218,
+        "percent": 1.7
+      },
+      "Professional, scientific and technical": {
+        "count": 953,
+        "percent": 1.3
+      },
+      "Property": {
+        "count": 733,
+        "percent": 1.0
+      },
+      "Finance and insurance": {
+        "count": 375,
+        "percent": 0.5
+      },
+      "Information and communication": {
+        "count": 294,
+        "percent": 0.4
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1710,
+    "currentRate": 2.7,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.0
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.7
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.7
+      }
+    ]
+  }
+}

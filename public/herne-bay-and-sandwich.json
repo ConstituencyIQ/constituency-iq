@@ -1,0 +1,305 @@
+{
+  "name": "Herne Bay and Sandwich",
+  "region": "England",
+  "onsCode": "E14001282",
+  "electorate": 77869,
+  "center_lat": 51.33551,
+  "center_lon": 1.22414,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 18408,
+      "percent": 18.0,
+      "nationalPercent": 20.6,
+      "difference": -2.6
+    },
+    "18 to 24": {
+      "count": 6414,
+      "percent": 6.3,
+      "nationalPercent": 8.4,
+      "difference": -2.1
+    },
+    "25 to 34": {
+      "count": 10029,
+      "percent": 9.8,
+      "nationalPercent": 13.5,
+      "difference": -3.7
+    },
+    "35 to 49": {
+      "count": 17238,
+      "percent": 16.8,
+      "nationalPercent": 19.3,
+      "difference": -2.5
+    },
+    "50 to 64": {
+      "count": 21830,
+      "percent": 21.3,
+      "nationalPercent": 19.2,
+      "difference": 2.1
+    },
+    "65 and over": {
+      "count": 28601,
+      "percent": 27.9,
+      "nationalPercent": 19.0,
+      "difference": 8.9
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 1725,
+      "percent": 1.7,
+      "nationalPercent": 1.6,
+      "difference": 0.1
+    },
+    "Black, African or Caribbean": {
+      "count": 578,
+      "percent": 0.6,
+      "nationalPercent": 0.5,
+      "difference": 0.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1695,
+      "percent": 1.7,
+      "nationalPercent": 0.8,
+      "difference": 0.9
+    },
+    "White": {
+      "count": 94385,
+      "percent": 95.3,
+      "nationalPercent": 6.2,
+      "difference": 89.1
+    },
+    "Other": {
+      "count": 624,
+      "percent": 0.6,
+      "nationalPercent": 1.6,
+      "difference": -1.0
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 92704,
+      "percent": 93.6,
+      "nationalPercent": 13.9,
+      "difference": 79.7
+    },
+    "European Union": {
+      "count": 2772,
+      "percent": 2.8,
+      "nationalPercent": 0.5,
+      "difference": 2.3
+    },
+    "Rest of world": {
+      "count": 3535,
+      "percent": 3.6,
+      "nationalPercent": 0.3,
+      "difference": 3.3
+    }
+  },
+  "mp": {
+    "name": "Sir Roger Gale",
+    "party": "Conservative",
+    "memberId": 87,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/87/Thumbnail",
+    "email": "sir.roger.gale@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Con hold",
+    "majority": 2499,
+    "turnout": 48827,
+    "turnoutPercent": 62.7,
+    "electorate": 77869,
+    "validVotes": 48827,
+    "invalidVotes": 196,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Conservative",
+        "name": "Roger Gale",
+        "votes": 17243,
+        "percent": 35.3,
+        "change": -29.1
+      },
+      {
+        "party": "Labour",
+        "name": "Helen Whitehead",
+        "votes": 14744,
+        "percent": 30.2,
+        "change": 5.8
+      },
+      {
+        "party": "Reform UK",
+        "name": "Amelia Randall",
+        "votes": 10602,
+        "percent": 21.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Thea Barrett",
+        "votes": 3529,
+        "percent": 7.2,
+        "change": 3.5
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Angie Curwen",
+        "votes": 2709,
+        "percent": 5.5,
+        "change": -1.9
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Construction": {
+        "count": 825,
+        "percent": 21.5
+      },
+      "Retail and wholesale": {
+        "count": 565,
+        "percent": 14.8
+      },
+      "Professional, scientific and technical": {
+        "count": 475,
+        "percent": 12.4
+      },
+      "Business admin and support": {
+        "count": 330,
+        "percent": 8.6
+      },
+      "Accommodation and food services": {
+        "count": 300,
+        "percent": 7.8
+      },
+      "Arts, entertainment and recreation": {
+        "count": 245,
+        "percent": 6.4
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 210,
+        "percent": 5.5
+      },
+      "Information and communication": {
+        "count": 175,
+        "percent": 4.6
+      },
+      "Health": {
+        "count": 160,
+        "percent": 4.2
+      },
+      "Agriculture, forestry and fishing": {
+        "count": 140,
+        "percent": 3.7
+      },
+      "Property": {
+        "count": 135,
+        "percent": 3.5
+      },
+      "Transport and storage": {
+        "count": 125,
+        "percent": 3.3
+      },
+      "Education": {
+        "count": 70,
+        "percent": 1.8
+      },
+      "Finance and insurance": {
+        "count": 60,
+        "percent": 1.6
+      },
+      "Public admin and defence": {
+        "count": 15,
+        "percent": 0.4
+      }
+    },
+    "employees": {
+      "Health": {
+        "count": 5000,
+        "percent": 17.3
+      },
+      "Retail and wholesale": {
+        "count": 4000,
+        "percent": 13.9
+      },
+      "Construction": {
+        "count": 3000,
+        "percent": 10.4
+      },
+      "Professional, scientific and technical": {
+        "count": 3000,
+        "percent": 10.4
+      },
+      "Education": {
+        "count": 2500,
+        "percent": 8.7
+      },
+      "Accommodation and food services": {
+        "count": 2500,
+        "percent": 8.7
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 2100,
+        "percent": 7.3
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1750,
+        "percent": 6.1
+      },
+      "Business admin and support": {
+        "count": 1750,
+        "percent": 6.1
+      },
+      "Public admin and defence": {
+        "count": 1000,
+        "percent": 3.5
+      },
+      "Information and communication": {
+        "count": 700,
+        "percent": 2.4
+      },
+      "Transport and storage": {
+        "count": 600,
+        "percent": 2.1
+      },
+      "Finance and insurance": {
+        "count": 500,
+        "percent": 1.7
+      },
+      "Property": {
+        "count": 450,
+        "percent": 1.6
+      }
+    }
+  },
+  "unemployment": {
+    "count": 2005,
+    "currentRate": 3.5,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.3
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.4
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.5
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 734.7,
+    "annualChange": 0.5,
+    "ukPay": 811.2
+  }
+}

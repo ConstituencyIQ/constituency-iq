@@ -1,0 +1,335 @@
+{
+  "name": "Strangford",
+  "region": "Northern Ireland",
+  "onsCode": "N05000016",
+  "electorate": 74525,
+  "center_lat": 54.45063,
+  "center_lon": -5.63838,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 20662,
+      "percent": 20.8,
+      "nationalPercent": 20.6,
+      "difference": 0.2
+    },
+    "18 to 24": {
+      "count": 6470,
+      "percent": 6.5,
+      "nationalPercent": 8.4,
+      "difference": -1.8
+    },
+    "25 to 34": {
+      "count": 10865,
+      "percent": 10.9,
+      "nationalPercent": 13.5,
+      "difference": -2.6
+    },
+    "35 to 49": {
+      "count": 18147,
+      "percent": 18.3,
+      "nationalPercent": 19.3,
+      "difference": -1.1
+    },
+    "50 to 64": {
+      "count": 21491,
+      "percent": 21.6,
+      "nationalPercent": 19.2,
+      "difference": 2.4
+    },
+    "65 and over": {
+      "count": 21744,
+      "percent": 21.9,
+      "nationalPercent": 19.0,
+      "difference": 2.9
+    }
+  },
+  "ethnicity": {
+    "White": {
+      "count": 96650,
+      "percent": 98.5,
+      "nationalPercent": 0.1,
+      "difference": 98.4
+    },
+    "Asian": {
+      "count": 722,
+      "percent": 0.7,
+      "nationalPercent": 0.3,
+      "difference": 0.4
+    },
+    "Other": {
+      "count": 135,
+      "percent": 0.1,
+      "nationalPercent": 0.2,
+      "difference": -0.1
+    },
+    "Black, African or Caribbean": {
+      "count": 139,
+      "percent": 0.1,
+      "nationalPercent": 0.2,
+      "difference": -0.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 510,
+      "percent": 0.5,
+      "nationalPercent": 0.8,
+      "difference": -0.3
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 93674,
+      "percent": 95.4,
+      "nationalPercent": 22.8,
+      "difference": 72.6
+    },
+    "European Union": {
+      "count": 2808,
+      "percent": 2.9,
+      "nationalPercent": 0.4,
+      "difference": 2.5
+    },
+    "Rest of world": {
+      "count": 1673,
+      "percent": 1.7,
+      "nationalPercent": 0.2,
+      "difference": 1.5
+    }
+  },
+  "mp": {
+    "name": "Jim Shannon",
+    "party": "Democratic Unionist Party",
+    "memberId": 4131,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/4131/Thumbnail",
+    "email": "jim.shannon@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "DUP hold",
+    "majority": 5131,
+    "turnout": 38909,
+    "turnoutPercent": 52.2,
+    "electorate": 74525,
+    "validVotes": 38909,
+    "invalidVotes": 135,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Democratic Unionist Party",
+        "name": "Jim Shannon",
+        "votes": 15559,
+        "percent": 40.0,
+        "change": -0.5
+      },
+      {
+        "party": "Alliance",
+        "name": "Michelle Guy",
+        "votes": 10428,
+        "percent": 26.8,
+        "change": 0.6
+      },
+      {
+        "party": "Ulster Unionist Party",
+        "name": "Richard Smart",
+        "votes": 3941,
+        "percent": 10.1,
+        "change": 0.9
+      },
+      {
+        "party": "Traditional Unionist Voice",
+        "name": "Ron McDowell",
+        "votes": 3143,
+        "percent": 8.1,
+        "change": "N/A"
+      },
+      {
+        "party": "Sinn F\u00e9in",
+        "name": "Noel Sands",
+        "votes": 2793,
+        "percent": 7.2,
+        "change": -0.4
+      },
+      {
+        "party": "Social Democratic & Labour Party",
+        "name": "Will Polland",
+        "votes": 1783,
+        "percent": 4.6,
+        "change": -5.5
+      },
+      {
+        "party": "Green Party Northern Ireland",
+        "name": "Alexandra Braidner",
+        "votes": 703,
+        "percent": 1.8,
+        "change": 0.0
+      },
+      {
+        "party": "Independent",
+        "name": "Garreth Falls",
+        "votes": 256,
+        "percent": 0.7,
+        "change": "N/A"
+      },
+      {
+        "party": "Independent",
+        "name": "Gareth Burns",
+        "votes": 157,
+        "percent": 0.4,
+        "change": "N/A"
+      },
+      {
+        "party": "Conservative",
+        "name": "Barry Hetherington",
+        "votes": 146,
+        "percent": 0.4,
+        "change": -3.0
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {
+      "Agriculture, forestry and fishing": {
+        "count": 855,
+        "percent": 23.6
+      },
+      "Retail and wholesale": {
+        "count": 615,
+        "percent": 17.0
+      },
+      "Construction": {
+        "count": 515,
+        "percent": 14.2
+      },
+      "Professional, scientific and technical": {
+        "count": 265,
+        "percent": 7.3
+      },
+      "Mining, utilities and manufacturing": {
+        "count": 255,
+        "percent": 7.0
+      },
+      "Arts, entertainment and recreation": {
+        "count": 255,
+        "percent": 7.0
+      },
+      "Accommodation and food services": {
+        "count": 215,
+        "percent": 5.9
+      },
+      "Business admin and support": {
+        "count": 170,
+        "percent": 4.7
+      },
+      "Property": {
+        "count": 115,
+        "percent": 3.2
+      },
+      "Health": {
+        "count": 115,
+        "percent": 3.2
+      },
+      "Transport and storage": {
+        "count": 100,
+        "percent": 2.8
+      },
+      "Information and communication": {
+        "count": 75,
+        "percent": 2.1
+      },
+      "Finance and insurance": {
+        "count": 35,
+        "percent": 1.0
+      },
+      "Education": {
+        "count": 35,
+        "percent": 1.0
+      },
+      "Public admin and defence": {
+        "count": 0,
+        "percent": 0.0
+      }
+    },
+    "employees": {
+      "Retail and wholesale": {
+        "count": 5166,
+        "percent": 10.8
+      },
+      "Health": {
+        "count": 4169,
+        "percent": 8.7
+      },
+      "Education": {
+        "count": 2830,
+        "percent": 5.9
+      },
+      "Manufacturing, mining and utilities": {
+        "count": 2829,
+        "percent": 5.9
+      },
+      "Accommodation and food services": {
+        "count": 1952,
+        "percent": 4.1
+      },
+      "Construction": {
+        "count": 1508,
+        "percent": 3.2
+      },
+      "Arts, entertainment and recreation": {
+        "count": 1253,
+        "percent": 2.6
+      },
+      "Admin and support services": {
+        "count": 969,
+        "percent": 2.0
+      },
+      "Professional, scientific and technical": {
+        "count": 891,
+        "percent": 1.9
+      },
+      "Public admin and defence": {
+        "count": 629,
+        "percent": 1.3
+      },
+      "Transport and storage": {
+        "count": 611,
+        "percent": 1.3
+      },
+      "Finance and insurance": {
+        "count": 479,
+        "percent": 1.0
+      },
+      "Property": {
+        "count": 357,
+        "percent": 0.7
+      },
+      "Information and communication": {
+        "count": 231,
+        "percent": 0.5
+      }
+    }
+  },
+  "unemployment": {
+    "count": 1540,
+    "currentRate": 2.6,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 2.9
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 2.6
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 2.6
+      }
+    ]
+  }
+}

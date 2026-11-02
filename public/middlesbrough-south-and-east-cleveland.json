@@ -1,0 +1,187 @@
+{
+  "name": "Middlesbrough South and East Cleveland",
+  "region": "England",
+  "onsCode": "E14001368",
+  "electorate": 70331,
+  "center_lat": 54.53814,
+  "center_lon": -1.00195,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19386,
+      "percent": 20.2,
+      "nationalPercent": 20.6,
+      "difference": -0.4
+    },
+    "18 to 24": {
+      "count": 6416,
+      "percent": 6.7,
+      "nationalPercent": 8.4,
+      "difference": -1.7
+    },
+    "25 to 34": {
+      "count": 11604,
+      "percent": 12.1,
+      "nationalPercent": 13.5,
+      "difference": -1.4
+    },
+    "35 to 49": {
+      "count": 16485,
+      "percent": 17.1,
+      "nationalPercent": 19.3,
+      "difference": -2.2
+    },
+    "50 to 64": {
+      "count": 19634,
+      "percent": 20.4,
+      "nationalPercent": 19.2,
+      "difference": 1.2
+    },
+    "65 and over": {
+      "count": 22629,
+      "percent": 23.5,
+      "nationalPercent": 19.0,
+      "difference": 4.5
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 1523,
+      "percent": 1.6,
+      "nationalPercent": 1.6,
+      "difference": 0.0
+    },
+    "Black, African or Caribbean": {
+      "count": 414,
+      "percent": 0.4,
+      "nationalPercent": 0.5,
+      "difference": -0.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1029,
+      "percent": 1.1,
+      "nationalPercent": 0.8,
+      "difference": 0.3
+    },
+    "White": {
+      "count": 89108,
+      "percent": 96.4,
+      "nationalPercent": 6.2,
+      "difference": 90.2
+    },
+    "Other": {
+      "count": 335,
+      "percent": 0.4,
+      "nationalPercent": 1.6,
+      "difference": -1.2
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 89437,
+      "percent": 96.8,
+      "nationalPercent": 13.9,
+      "difference": 82.9
+    },
+    "European Union": {
+      "count": 1113,
+      "percent": 1.2,
+      "nationalPercent": 0.5,
+      "difference": 0.7
+    },
+    "Rest of world": {
+      "count": 1861,
+      "percent": 2.0,
+      "nationalPercent": 0.3,
+      "difference": 1.7
+    }
+  },
+  "mp": {
+    "name": "Luke Myer",
+    "party": "Labour",
+    "memberId": 5147,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5147/Thumbnail",
+    "email": "luke.myer@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 214,
+    "turnout": 38035,
+    "turnoutPercent": 54.1,
+    "electorate": 70331,
+    "validVotes": 38035,
+    "invalidVotes": 529,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Luke Myer",
+        "votes": 16468,
+        "percent": 43.3,
+        "change": 8.3
+      },
+      {
+        "party": "Conservative",
+        "name": "Simon Clarke",
+        "votes": 16254,
+        "percent": 42.7,
+        "change": -15.1
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Jemma Joy",
+        "votes": 2032,
+        "percent": 5.3,
+        "change": 1.3
+      },
+      {
+        "party": "Social Democratic Party",
+        "name": "Rod Liddle",
+        "votes": 1835,
+        "percent": 4.8,
+        "change": "N/A"
+      },
+      {
+        "party": "Green Party",
+        "name": "Rowan McLaughlin",
+        "votes": 1446,
+        "percent": 3.8,
+        "change": 1.6
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 1915,
+    "currentRate": 3.4,
+    "history": [
+      {
+        "period": "Sep 2025",
+        "rate": 3.1
+      },
+      {
+        "period": "Aug 2026",
+        "rate": 3.3
+      },
+      {
+        "period": "Sep 2026",
+        "rate": 3.4
+      }
+    ]
+  },
+  "wage": {
+    "medianWeeklyPay": 741.8,
+    "annualChange": 7.7,
+    "ukPay": 811.2
+  }
+}

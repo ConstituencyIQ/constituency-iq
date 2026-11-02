@@ -1,0 +1,181 @@
+{
+  "name": "Doncaster East and the Isle of Axholme",
+  "region": "England",
+  "onsCode": "E14001199",
+  "electorate": 70154,
+  "center_lat": 53.55504,
+  "center_lon": -0.89378,
+  "metrics": {
+    "medianEarnings": 680.0,
+    "earningsVariance": 0.0,
+    "housePrice": 7.2,
+    "housePriceVariance": 0.0,
+    "claimantRate": 3.5,
+    "claimantVariance": 0.0
+  },
+  "demographics": {
+    "0 to 17": {
+      "count": 19466,
+      "percent": 20.2,
+      "nationalPercent": 20.6,
+      "difference": -0.3
+    },
+    "18 to 24": {
+      "count": 5955,
+      "percent": 6.2,
+      "nationalPercent": 8.4,
+      "difference": -2.2
+    },
+    "25 to 34": {
+      "count": 11372,
+      "percent": 11.8,
+      "nationalPercent": 13.5,
+      "difference": -1.7
+    },
+    "35 to 49": {
+      "count": 17127,
+      "percent": 17.8,
+      "nationalPercent": 19.3,
+      "difference": -1.5
+    },
+    "50 to 64": {
+      "count": 20554,
+      "percent": 21.4,
+      "nationalPercent": 19.2,
+      "difference": 2.1
+    },
+    "65 and over": {
+      "count": 21754,
+      "percent": 22.6,
+      "nationalPercent": 19.0,
+      "difference": 3.6
+    }
+  },
+  "ethnicity": {
+    "Asian": {
+      "count": 1596,
+      "percent": 1.7,
+      "nationalPercent": 1.6,
+      "difference": 0.1
+    },
+    "Black, African or Caribbean": {
+      "count": 528,
+      "percent": 0.6,
+      "nationalPercent": 0.5,
+      "difference": 0.1
+    },
+    "Mixed or Multiple ethnic groups": {
+      "count": 1082,
+      "percent": 1.2,
+      "nationalPercent": 0.8,
+      "difference": 0.4
+    },
+    "White": {
+      "count": 90036,
+      "percent": 96.1,
+      "nationalPercent": 6.2,
+      "difference": 89.9
+    },
+    "Other": {
+      "count": 433,
+      "percent": 0.5,
+      "nationalPercent": 1.6,
+      "difference": -1.1
+    }
+  },
+  "migration": {
+    "UK": {
+      "count": 88467,
+      "percent": 94.4,
+      "nationalPercent": 13.9,
+      "difference": 80.5
+    },
+    "European Union": {
+      "count": 3201,
+      "percent": 3.4,
+      "nationalPercent": 0.5,
+      "difference": 2.9
+    },
+    "Rest of world": {
+      "count": 2007,
+      "percent": 2.1,
+      "nationalPercent": 0.3,
+      "difference": 1.8
+    }
+  },
+  "mp": {
+    "name": "Lee Pitcher",
+    "party": "Labour",
+    "memberId": 5233,
+    "photoUrl": "https://members-api.parliament.uk/api/Members/5233/Thumbnail",
+    "email": "lee.pitcher@parliament.uk"
+  },
+  "election2024": {
+    "resultType": "Lab gain from Con",
+    "majority": 2311,
+    "turnout": 39132,
+    "turnoutPercent": 55.8,
+    "electorate": 70154,
+    "validVotes": 39132,
+    "invalidVotes": 134,
+    "swing": "N/A",
+    "candidates": [
+      {
+        "party": "Labour",
+        "name": "Lee Pitcher",
+        "votes": 15122,
+        "percent": 38.6,
+        "change": 9.9
+      },
+      {
+        "party": "Conservative",
+        "name": "Nick Fletcher",
+        "votes": 12811,
+        "percent": 32.7,
+        "change": -19.4
+      },
+      {
+        "party": "Reform UK",
+        "name": "Irwen Martin",
+        "votes": 8487,
+        "percent": 21.7,
+        "change": 11.4
+      },
+      {
+        "party": "Green Party",
+        "name": "Paul Garrett",
+        "votes": 1400,
+        "percent": 3.6,
+        "change": 1.2
+      },
+      {
+        "party": "Liberal Democrat",
+        "name": "Nicola Turner",
+        "votes": 1166,
+        "percent": 3.0,
+        "change": -1.5
+      },
+      {
+        "party": "Climate Party",
+        "name": "Michael Longfellow",
+        "votes": 146,
+        "percent": 0.4,
+        "change": "N/A"
+      }
+    ]
+  },
+  "economy": {
+    "businesses": {},
+    "employees": {}
+  },
+  "unemployment": {
+    "count": 0,
+    "currentRate": 0.0,
+    "history": []
+  },
+  "wage": {
+    "medianWeeklyPay": 840.1,
+    "annualChange": 10.1,
+    "ukPay": 811.2
+  }
+}
